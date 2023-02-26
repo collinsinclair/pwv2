@@ -54,13 +54,13 @@
 						viewBox="0 0 24 24"
 						stroke-width="1.5"
 						stroke="#e4e4e4"
-						class="w-9 h-9"
+						class="w-10 h-10"
 					>
 						<path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
 					</svg>
 				{/if}
 			</button>
-			<h1 class="inline-block text-zinc-200 align-middle text-2xl">Collin Sinclair</h1>
+			<a class="inline-block text-zinc-200 align-middle text-4xl" href="/">Collin Sinclair</a>
 			<img
 				src={profilePicture}
 				class="h-10 w-10 rounded-full"
