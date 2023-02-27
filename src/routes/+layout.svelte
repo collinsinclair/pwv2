@@ -13,6 +13,10 @@
 		{
 			href: '/jupiter',
 			text: 'Jupiter'
+		},
+		{
+			href: '/student-loans',
+			text: 'Student Loans'
 		}
 	];
 </script>
