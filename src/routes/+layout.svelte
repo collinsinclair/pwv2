@@ -2,6 +2,7 @@
 	import '../app.css';
 	import NavItem from './NavItem.svelte';
 	import profilePicture from '$lib/img/profile-picture.jpeg';
+	import { fade } from 'svelte/transition';
 
 	let navMenuOpen = false;
 	const navItems = [
@@ -10,16 +11,8 @@
 			text: 'Home'
 		},
 		{
-			href: '/about',
-			text: 'About'
-		},
-		{
-			href: '/blog',
-			text: 'Blog'
-		},
-		{
-			href: '/contact',
-			text: 'Contact'
+			href: '/jupiter',
+			text: 'Jupiter'
 		}
 	];
 </script>
@@ -68,7 +61,7 @@
 			/>
 		</div>
 		{#if navMenuOpen}
-			<div class="flex flex-col items-center">
+			<div class="flex flex-col items-center" transition:fade>
 				{#each navItems as navItem}
 					<NavItem
 						href={navItem.href}
