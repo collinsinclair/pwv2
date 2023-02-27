@@ -17,6 +17,10 @@
 		{
 			href: '/student-loans',
 			text: 'Student Loans'
+		},
+		{
+			href: '/running',
+			text: 'Running'
 		}
 	];
 </script>
