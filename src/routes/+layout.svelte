@@ -90,7 +90,7 @@
 			</div>
 		{/if}
 	</nav>
-	<slot class="z-3"/>
+	<slot />
 </body>
 
 <style lang="scss">
