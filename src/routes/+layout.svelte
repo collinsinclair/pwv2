@@ -25,9 +25,9 @@
 	];
 </script>
 
-<body class="bg-zinc-900 min-h-screen">
+<body class="min-h-screen">
 	<!--<body>-->
-	<div class="stars-container">
+	<div class="stars-container bg-zinc-900">
 		<div class="stars" />
 		<div class="stars" />
 		<div class="stars" />
@@ -90,7 +90,7 @@
 			</div>
 		{/if}
 	</nav>
-	<slot />
+	<slot class="z-3"/>
 </body>
 
 <style lang="scss">
@@ -102,10 +102,7 @@
 		bottom: 0;
 		left: 0;
 		overflow: hidden;
-	}
-
-	.stars-container {
-		background-color: rgba(0,0,0,0)
+		z-index: -1;
 	}
 
 	.stars {
@@ -163,9 +160,31 @@
 
 		&:nth-child(5) {
 			background-image:
-					radial-gradient(2px 2px at 10px 100px, #eee, rgba(0, 0, 0, 0)),
-					radial-gradient(2px 2px at 20px 10px, #fff, rgba(0, 0, 0, 0)),
-					radial-gradient(3px 4px at 150px 40px, #ddd, rgba(0, 0, 0, 0));
+					radial-gradient(
+									2px 2px at 37px 138px,
+									rgb(208, 208, 208),
+									rgb(152, 163, 188),
+									rgba(0, 0, 0, 0)
+					),
+					radial-gradient(
+									2px 2px at 137px 223px,
+									rgb(250, 255, 245),
+									rgb(208, 180, 123),
+									rgba(0, 0, 0, 0)
+					),
+					radial-gradient(
+									2px 2px at 247px 15px,
+									rgb(208, 208, 208),
+									rgb(157, 177, 224),
+									rgba(0, 0, 0, 0)
+					),
+					radial-gradient(
+									2px 2px at 293px 36px,
+									rgb(250, 255, 245),
+									rgb(230, 207, 163),
+									rgba(0, 0, 0, 0)
+					),
+					radial-gradient(1px 2px at 195px 160px, #ddd, rgba(0, 0, 0, 0));
 			background-position: 80% 30%;
 			animation-delay: 4s;
 		}
