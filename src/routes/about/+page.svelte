@@ -32,7 +32,7 @@
 	<ul>
 		<li class="py-2">
 			<h1 class="text-zinc-200 text-xl">Software Engineer</h1>
-			<p class="text-zinc-200 text-lg hover:underline hover:text-red-600">
+			<p class="text-zinc-200 text-lg underline hover:no-underline hover:text-red-600">
 				<a href="https://bricksimple.com">BrickSimple, LLC</a>
 			</p>
 			<p class="text-zinc-200 text-md">May 2022 - Present ({getMonthsYears(brickSimple)})</p>
@@ -41,7 +41,7 @@
 		<hr />
 		<li class="py-2">
 			<h1 class="text-zinc-200 text-xl">Music Director/Conductor</h1>
-			<p class="text-zinc-200 hover:text-amber-300 text-lg hover:underline">
+			<p class="text-zinc-200 hover:text-amber-300 text-lg underline hover:no-underline">
 				<a href="https://colorado.edu">University of Colorado</a>
 			</p>
 			<p class="text-zinc-200 text-md">Aug 2022 - Present ({getMonthsYears(boulderMD)})</p>
@@ -53,7 +53,7 @@
 		<hr />
 		<li class="py-2">
 			<h1 class="text-zinc-200 text-xl">Music Director/Conductor</h1>
-			<p class="text-zinc-200 text-lg hover:text-pink-500 hover:underline">
+			<p class="text-zinc-200 text-lg hover:text-pink-500 underline hover:no-underline">
 				<a href="https://frontrangetheatre.org">Front Range Theatre Company</a>
 			</p>
 			<p class="text-zinc-200 text-md">May 2019 - Present ({getMonthsYears(frtc)})</p>
@@ -75,7 +75,7 @@
 		<hr />
 		<li class="py-2">
 			<h1 class="text-zinc-200 text-xl">Interactive Web Developer</h1>
-			<p class="text-zinc-200 text-lg hover:text-blue-500 hover:underline">
+			<p class="text-zinc-200 text-lg hover:text-blue-500 underline hover:no-underline">
 				<a href="https://ncar.ucar.edu/">NCAR - National Center for Atmospheric Research</a>
 			</p>
 			<p class="text-zinc-200 text-md">Jan 2022 - Aug 2022 ({getMonthsYears(ncar)})</p>
@@ -94,7 +94,7 @@
 		<hr />
 		<li class="py-2">
 			<h1 class="text-zinc-200 text-xl">Presenter, Educator, Podcast Host</h1>
-			<p class="text-zinc-200 text-lg hover:text-gray-400 hover:underline">
+			<p class="text-zinc-200 text-lg hover:text-gray-400 underline hover:no-underline">
 				<a href="https://www.colorado.edu/fiske/">Fiske Planetarium</a>
 			</p>
 			<p class="text-zinc-200 text-md">Feb 2019 - May 2022 ({getMonthsYears(fiske)})</p>
@@ -110,7 +110,7 @@
 			<p class="text-zinc-200 text-sm pt-2">
 				As a way to maintain engagement and continue to educate when COVID-19 closed Fiske's doors,
 				I co-created and co-hosted the official podcast of the Fiske Planetarium: <a
-					class="hover:text-gray-300 hover:underline"
+					class="hover:text-gray-300 underline hover:no-underline"
 					href="https://www.colorado.edu/fiske/view-earth-fiske-planetarium-podcast"
 					>A View From Earth</a
 				>. On the show, my co-host and I interviewed working researchers and students from the
@@ -121,7 +121,7 @@
 		<hr />
 		<li class="py-2">
 			<h1 class="text-zinc-200 text-xl">Learning Assistant, Mentor</h1>
-			<p class="text-zinc-200 text-lg hover:text-amber-300 hover:underline">
+			<p class="text-zinc-200 text-lg hover:text-amber-300 underline hover:no-underline">
 				<a href="https://colorado.edu">University of Colorado</a>
 			</p>
 			<p class="text-zinc-200 text-md">Jan 2020 - Dec 2020 ({getMonthsYears(boulderLA)})</p>
