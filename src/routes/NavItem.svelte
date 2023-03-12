@@ -12,7 +12,11 @@
 </script>
 
 {#if !children}
-	<a {href} class="text-zinc-200 hover:text-zinc-400 text-2xl my-2" on:click={closeNavMenu}>{text}</a>
+	<h2>
+		<a {href} class="text-zinc-200 hover:text-zinc-400 text-2xl my-2" on:click={closeNavMenu}
+			>{text}</a
+		>
+	</h2>
 {:else}
 	<p class="text-zinc-200">Handling children...</p>
 {/if}

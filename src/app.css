@@ -42,7 +42,7 @@
 	font-style: normal;
 }
 
-/* used Nasalization for headings and Berkeley Mono for everything else*/
+/* use Nasalization for headings and Berkeley Mono for everything else*/
 @layer base {
 	html {
 		font-family: 'Berkeley Mono', monospace;

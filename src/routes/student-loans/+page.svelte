@@ -29,7 +29,7 @@
 		plot_bgcolor: '#18181b',
 		paper_bgcolor: '#18181b',
 		font: { color: '#e4e4e7' },
-		margin: { l: 55, r: 10, pad: 5}
+		margin: { l: 55, r: 10, pad: 5 }
 	};
 	const config = { responsive: true, displayModeBar: false };
 	onMount(() => {

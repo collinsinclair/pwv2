@@ -70,7 +70,9 @@
 					</svg>
 				{/if}
 			</button>
-			<a class="inline-block text-zinc-200 align-middle text-4xl" href="/">Collin Sinclair</a>
+			<h1>
+				<a class="inline-block text-zinc-200 align-middle text-4xl" href="/">Collin Sinclair</a>
+			</h1>
 			<img
 				src={profilePicture}
 				class="h-10 w-10 rounded-full"
@@ -118,18 +120,18 @@
 				rgb(208, 180, 123),
 				rgba(0, 0, 0, 0)
 			),
-		radial-gradient(
-						2px 2px at 247px 15px,
-						rgb(208, 208, 208),
-						rgb(157, 177, 224),
-						rgba(0, 0, 0, 0)
-		),
-		radial-gradient(
-						2px 2px at 293px 36px,
-						rgb(250, 255, 245),
-						rgb(230, 207, 163),
-						rgba(0, 0, 0, 0)
-		),
+			radial-gradient(
+				2px 2px at 247px 15px,
+				rgb(208, 208, 208),
+				rgb(157, 177, 224),
+				rgba(0, 0, 0, 0)
+			),
+			radial-gradient(
+				2px 2px at 293px 36px,
+				rgb(250, 255, 245),
+				rgb(230, 207, 163),
+				rgba(0, 0, 0, 0)
+			),
 			radial-gradient(1px 2px at 195px 160px, #ddd, rgba(0, 0, 0, 0));
 		background-repeat: repeat;
 		background-size: 300px 300px;
@@ -159,32 +161,31 @@
 		}
 
 		&:nth-child(5) {
-			background-image:
-					radial-gradient(
-									2px 2px at 37px 138px,
-									rgb(208, 208, 208),
-									rgb(152, 163, 188),
-									rgba(0, 0, 0, 0)
-					),
-					radial-gradient(
-									2px 2px at 137px 223px,
-									rgb(250, 255, 245),
-									rgb(208, 180, 123),
-									rgba(0, 0, 0, 0)
-					),
-					radial-gradient(
-									2px 2px at 247px 15px,
-									rgb(208, 208, 208),
-									rgb(157, 177, 224),
-									rgba(0, 0, 0, 0)
-					),
-					radial-gradient(
-									2px 2px at 293px 36px,
-									rgb(250, 255, 245),
-									rgb(230, 207, 163),
-									rgba(0, 0, 0, 0)
-					),
-					radial-gradient(1px 2px at 195px 160px, #ddd, rgba(0, 0, 0, 0));
+			background-image: radial-gradient(
+					2px 2px at 37px 138px,
+					rgb(208, 208, 208),
+					rgb(152, 163, 188),
+					rgba(0, 0, 0, 0)
+				),
+				radial-gradient(
+					2px 2px at 137px 223px,
+					rgb(250, 255, 245),
+					rgb(208, 180, 123),
+					rgba(0, 0, 0, 0)
+				),
+				radial-gradient(
+					2px 2px at 247px 15px,
+					rgb(208, 208, 208),
+					rgb(157, 177, 224),
+					rgba(0, 0, 0, 0)
+				),
+				radial-gradient(
+					2px 2px at 293px 36px,
+					rgb(250, 255, 245),
+					rgb(230, 207, 163),
+					rgba(0, 0, 0, 0)
+				),
+				radial-gradient(1px 2px at 195px 160px, #ddd, rgba(0, 0, 0, 0));
 			background-position: 80% 30%;
 			animation-delay: 4s;
 		}
