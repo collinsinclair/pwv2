@@ -23,6 +23,20 @@
 			duration: 40,
 			activeCalories: 490,
 			avgPower: 249
+		},
+		{
+			date: new Date(2023, 2, 8),
+			distance: 3.74,
+			duration: 39,
+			activeCalories: 549,
+			avgPower: 239
+		},
+		{
+			date: new Date(2023, 2, 9),
+			distance: 5.61,
+			duration: 57,
+			activeCalories: 780,
+			avgPower: 235
 		}
 	];
 
