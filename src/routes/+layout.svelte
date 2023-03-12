@@ -29,9 +29,8 @@
 	];
 </script>
 
-<body class="min-h-screen">
-	<!--<body>-->
-	<div class="stars-container bg-zinc-900">
+<body>
+	<div class="stars-container bg-zinc-900 min-h-screen">
 		<div class="stars" />
 		<div class="stars" />
 		<div class="stars" />
@@ -102,7 +101,7 @@
 <style lang="scss">
 	.stars-container,
 	.stars {
-		position: absolute;
+		position: fixed;
 		top: 0;
 		right: 0;
 		bottom: 0;
