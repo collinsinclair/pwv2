@@ -11,6 +11,10 @@
 			text: 'Home'
 		},
 		{
+			href: '/about',
+			text: 'About'
+		},
+		{
 			href: '/jupiter',
 			text: 'Jupiter'
 		},
