@@ -24,12 +24,14 @@
 		<GeolocateControl />
 		<NavigationControl />
 		{#each coSummitClimbs as climb}
-			<Marker
-				lat={climb['Latitude']}
-				lng={climb['Longitude']}
-				label={climb.Name}
-				color={colors[climb['Difficulty']]}
-			/>
+			{#if climb['Elevation'] > 11500}
+				<Marker
+					lat={climb['Latitude']}
+					lng={climb['Longitude']}
+					label={climb.Name}
+					color={colors[climb['Difficulty']]}
+				/>
+			{/if}
 		{/each}
 	</Map>
 </div>
