@@ -25,6 +25,10 @@
 		{
 			href: '/running',
 			text: 'Running'
+		},
+		{
+			href: '/map',
+			text: 'Map'
 		}
 	];
 </script>
