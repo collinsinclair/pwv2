@@ -31,8 +31,8 @@
 	<script src="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.js"></script>
 	<link href="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.css" rel="stylesheet" />
 </svelte:head>
-<div class="container columns-2">
-	<div class="w-full aspect-square">
+<div class="container columns-1 lg:columns-2">
+	<div class="w-full aspect-auto my-3">
 		<label class="text-zinc-200"
 			>Show summits above: {elevationFilter.toLocaleString()} feet
 			<input
@@ -91,6 +91,6 @@
 
 <style>
 	:global(.mapboxgl-map) {
-		min-height: 85vh;
+		/*min-height: 85vh;*/
 	}
 </style>
