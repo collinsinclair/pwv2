@@ -2,7 +2,7 @@
 	import '../app.css';
 	import NavItem from './NavItem.svelte';
 	import profilePicture from '$lib/img/profile-picture.jpeg';
-	import { fade } from 'svelte/transition';
+	import { slide } from 'svelte/transition';
 
 	let navMenuOpen = false;
 	const navItems = [
@@ -89,7 +89,11 @@
 			/>
 		</div>
 		{#if navMenuOpen}
-			<div class="flex flex-col items-center" transition:fade>
+			<div
+				class="flex flex-col items-center"
+				in:slide={{ duration: 300 }}
+				out:slide={{ duration: 300 }}
+			>
 				{#each navItems as navItem}
 					<NavItem
 						href={navItem.href}
