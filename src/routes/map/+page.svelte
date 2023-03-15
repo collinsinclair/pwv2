@@ -10,7 +10,7 @@
 	const style = 'mapbox://styles/mapbox/outdoors-v12';
 	const colors = ['green', 'blue'];
 
-	let maxElevation = 14500;
+	let maxElevation = 14000;
 	let minElevation =
 		Math.floor(Math.min(...coSummitClimbs.map((climb) => climb['Elevation'])) / 100) * 100;
 	let elevationFilter = minElevation;

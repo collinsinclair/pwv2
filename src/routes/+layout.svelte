@@ -78,7 +78,9 @@
 				{/if}
 			</button>
 			<h1>
-				<a class="inline-block text-zinc-200 align-middle text-4xl" href="/">Collin Sinclair</a>
+				<a class="inline-block text-zinc-200 align-middle text-2xl lg:text-4xl" href="/"
+					>Collin Sinclair</a
+				>
 			</h1>
 			<img
 				src={profilePicture}
