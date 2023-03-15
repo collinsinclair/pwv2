@@ -4,40 +4,40 @@
 
 @font-face {
 	font-family: 'Berkeley Mono';
-	src: url('../static/fonts/berkeley-mono/BerkeleyMono-Regular.woff2') format('woff2'),
-		url('../static/fonts/berkeley-mono/BerkeleyMono-Regular.woff') format('woff');
+	src: url('/fonts/berkeley-mono/BerkeleyMono-Regular.woff2') format('woff2'),
+		url('/fonts/berkeley-mono/BerkeleyMono-Regular.woff') format('woff');
 	font-weight: 400;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'Berkeley Mono';
-	src: url('../static/fonts/berkeley-mono/BerkeleyMono-Bold.woff2') format('woff2'),
-		url('../static/fonts/berkeley-mono/BerkeleyMono-Bold.woff') format('woff');
+	src: url('/fonts/berkeley-mono/BerkeleyMono-Bold.woff2') format('woff2'),
+		url('/fonts/berkeley-mono/BerkeleyMono-Bold.woff') format('woff');
 	font-weight: 700;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'Berkeley Mono';
-	src: url('../static/fonts/berkeley-mono/BerkeleyMono-Italic.woff2') format('woff2'),
-		url('../static/fonts/berkeley-mono/BerkeleyMono-Italic.woff') format('woff');
+	src: url('/fonts/berkeley-mono/BerkeleyMono-Italic.woff2') format('woff2'),
+		url('/fonts/berkeley-mono/BerkeleyMono-Italic.woff') format('woff');
 	font-weight: 400;
 	font-style: italic;
 }
 
 @font-face {
 	font-family: 'Berkeley Mono';
-	src: url('../static/fonts/berkeley-mono/BerkeleyMono-BoldItalic.woff2') format('woff2'),
-		url('../static/fonts/berkeley-mono/BerkeleyMono-BoldItalic.woff') format('woff');
+	src: url('/fonts/berkeley-mono/BerkeleyMono-BoldItalic.woff2') format('woff2'),
+		url('/fonts/berkeley-mono/BerkeleyMono-BoldItalic.woff') format('woff');
 	font-weight: 700;
 	font-style: italic;
 }
 
 @font-face {
 	font-family: 'Nasalization';
-	src: url('../static/fonts/nasalization/nasalization-rg-webfont.woff2') format('woff2'),
-		url('../static/fonts/nasalization/nasalization-rg-webfont.woff') format('woff');
+	src: url('/fonts/nasalization/nasalization-rg-webfont.woff2') format('woff2'),
+		url('/fonts/nasalization/nasalization-rg-webfont.woff') format('woff');
 	font-weight: 400;
 	font-style: normal;
 }
