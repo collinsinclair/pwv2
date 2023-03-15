@@ -41,6 +41,7 @@
 				min={minElevation}
 				max={maxElevation}
 				step="500"
+				class="w-full"
 			/>
 		</label>
 		<button
