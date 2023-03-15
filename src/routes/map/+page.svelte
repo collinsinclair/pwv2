@@ -2,13 +2,14 @@
 	import { Map, Marker, controls } from '@beyonk/svelte-mapbox';
 	import { onMount } from 'svelte';
 	import coSummitClimbs from '$lib/json/colorado-summit-hikes.json';
+	const colors = ['#22c55e', '#3b82f6', '#eab308', '#ef4444'];
+	coSummitClimbs.forEach((climb)=>{climb.Color = colors[climb['Difficulty']]})
 
 	let mapComponent;
 	const { GeolocateControl, NavigationControl } = controls;
 	const accessToken =
 		'pk.eyJ1IjoiY29sbGluc2luY2xhaXIiLCJhIjoiY2w4dnl3b2U4MGlvbTNvc3Jna3I0cml4byJ9.GXhvyfjGlngMo7MpNEkMRA';
 	const style = 'mapbox://styles/mapbox/outdoors-v12';
-	const colors = ['green', 'blue'];
 
 	let maxElevation = 14000;
 	let minElevation =
@@ -23,8 +24,7 @@
 	onMount(() => {
 		mapComponent.setCenter([-104.99028, 39.73925], 10);
 	});
-
-	$: console.log(difficulties);
+	$: console.log(difficulties)
 </script>
 
 <svelte:head>
@@ -68,25 +68,23 @@
 		>
 			<span class="block lg:inline font-bold">14ers</span> (>14,000 feet)
 		</button>
-		<label class="text-zinc-200 block lg:inline">
-			Show climbs that are
-			<div class="block lg:inline">
-				<input type="checkbox" bind:group={difficulties} value={0} />
-				<span class="text-green-500">easy</span>
-			</div>
-			<div class="block lg:inline">
-				<input type="checkbox" bind:group={difficulties} value={1} />
-				<span class="text-blue-500">moderate</span>
-			</div>
-			<div class="block lg:inline">
-				<input type="checkbox" bind:group={difficulties} value={2} />
-				<span class="text-yellow-500">hard</span>
-			</div>
-			<div class="block lg:inline">
-				<input type="checkbox" bind:group={difficulties} value={3} />
-				<span class="text-red-500">extreme</span>
-			</div>
-		</label>
+		<p class="text-zinc-200">Show climbs that are</p>
+		<div class="block lg:inline">
+			<input type="checkbox" bind:group={difficulties} value={0} />
+			<span class="text-green-500">easy</span>
+		</div>
+		<div class="block lg:inline">
+			<input type="checkbox" bind:group={difficulties} value={1} />
+			<span class="text-blue-500">moderate</span>
+		</div>
+		<div class="block lg:inline">
+			<input type="checkbox" bind:group={difficulties} value={2} />
+			<span class="text-yellow-500">hard</span>
+		</div>
+		<div class="block lg:inline">
+			<input type="checkbox" bind:group={difficulties} value={3} />
+			<span class="text-red-500">extreme</span>
+		</div>
 	</div>
 	<div class="w-full aspect-square pt-3">
 		<Map {accessToken} bind:this={mapComponent} {style}>
@@ -97,7 +95,7 @@
 					lat={climb['Latitude']}
 					lng={climb['Longitude']}
 					label={climb.Name}
-					color={colors[climb['Difficulty']]}
+					color={climb.Color}
 				/>
 			{/each}
 		</Map>
