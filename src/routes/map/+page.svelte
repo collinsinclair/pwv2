@@ -47,30 +47,38 @@
 			class="rounded bg-zinc-200 text-zinc-800 w-full my-1.5 block"
 			on:click={() => (elevationFilter = 11500)}
 		>
-			Above Tree Line (>11,500 feet)
+			<span class="block lg:inline font-bold">Above Tree Line</span> (>11,500 feet)
 		</button>
 		<button
 			class="rounded bg-zinc-200 text-zinc-800 w-full my-1.5 block"
 			on:click={() => (elevationFilter = 13000)}
 		>
-			13ers (>13,000 feet)
+			<span class="block lg:inline font-bold">13ers</span> (>13,000 feet)
 		</button>
 		<button
 			class="rounded bg-zinc-200 text-zinc-800 w-full my-1.5 block"
 			on:click={() => (elevationFilter = 14000)}
 		>
-			14ers (>14,000 feet)
+			<span class="block lg:inline font-bold">14ers</span> (>14,000 feet)
 		</button>
-		<label class="text-zinc-200">
+		<label class="text-zinc-200 block lg:inline">
 			Show climbs that are
-			<input type="checkbox" bind:group={difficulties} value={0} />
-			<span class="text-green-500">easy</span>
-			<input type="checkbox" bind:group={difficulties} value={1} />
-			<span class="text-blue-500">moderate</span>
-			<input type="checkbox" bind:group={difficulties} value={2} />
-			<span class="text-yellow-500">hard</span>
-			<input type="checkbox" bind:group={difficulties} value={3} />
-			<span class="text-red-500">extreme</span>
+			<div class="block lg:inline">
+				<input type="checkbox" bind:group={difficulties} value={0} />
+				<span class="text-green-500">easy</span>
+			</div>
+			<div class="block lg:inline">
+				<input type="checkbox" bind:group={difficulties} value={1} />
+				<span class="text-blue-500">moderate</span>
+			</div>
+			<div class="block lg:inline">
+				<input type="checkbox" bind:group={difficulties} value={2} />
+				<span class="text-yellow-500">hard</span>
+			</div>
+			<div class="block lg:inline">
+				<input type="checkbox" bind:group={difficulties} value={3} />
+				<span class="text-red-500">extreme</span>
+			</div>
 		</label>
 	</div>
 	<div class="w-full aspect-square">
