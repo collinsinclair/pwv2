@@ -3,37 +3,90 @@
 	import { onMount } from 'svelte';
 	import coSummitClimbs from '$lib/json/colorado-summit-hikes.json';
 
-	console.log(coSummitClimbs);
 	let mapComponent;
-	const { GeolocateControl, NavigationControl, ScaleControl } = controls;
+	const { GeolocateControl, NavigationControl } = controls;
 	const accessToken =
 		'pk.eyJ1IjoiY29sbGluc2luY2xhaXIiLCJhIjoiY2w4dnl3b2U4MGlvbTNvc3Jna3I0cml4byJ9.GXhvyfjGlngMo7MpNEkMRA';
 	const style = 'mapbox://styles/mapbox/outdoors-v12';
 	const colors = ['green', 'blue'];
+
+	let maxElevation = 14500;
+	let minElevation =
+		Math.floor(Math.min(...coSummitClimbs.map((climb) => climb['Elevation'])) / 100) * 100;
+	let elevationFilter = minElevation;
+	let difficulties = [0, 1, 2, 3];
+
+	$: filteredClimbs = coSummitClimbs.filter((climb) => {
+		return climb['Elevation'] >= elevationFilter && difficulties.includes(climb['Difficulty']);
+	});
+
 	onMount(() => {
 		mapComponent.setCenter([-104.99028, 39.73925], 10);
 	});
+
+	$: console.log(difficulties);
 </script>
 
 <svelte:head>
 	<script src="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.js"></script>
 	<link href="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.css" rel="stylesheet" />
 </svelte:head>
-<div class="mx-1 mx-auto my-auto">
-	<Map {accessToken} bind:this={mapComponent} {style}>
-		<GeolocateControl />
-		<NavigationControl />
-		{#each coSummitClimbs as climb}
-			{#if climb['Elevation'] > 11500}
+<div class="container columns-2">
+	<div class="w-full aspect-square">
+		<label class="text-zinc-200"
+			>Show summits above: {elevationFilter.toLocaleString()} feet
+			<input
+				type="range"
+				bind:value={elevationFilter}
+				min={minElevation}
+				max={maxElevation}
+				step="500"
+			/>
+		</label>
+		<button
+			class="rounded bg-zinc-200 text-zinc-800 w-full my-1.5 block"
+			on:click={() => (elevationFilter = 11500)}
+		>
+			Above Tree Line (>11,500 feet)
+		</button>
+		<button
+			class="rounded bg-zinc-200 text-zinc-800 w-full my-1.5 block"
+			on:click={() => (elevationFilter = 13000)}
+		>
+			13ers (>13,000 feet)
+		</button>
+		<button
+			class="rounded bg-zinc-200 text-zinc-800 w-full my-1.5 block"
+			on:click={() => (elevationFilter = 14000)}
+		>
+			14ers (>14,000 feet)
+		</button>
+		<label class="text-zinc-200">
+			Show climbs that are
+			<input type="checkbox" bind:group={difficulties} value={0} />
+			<span class="text-green-500">easy</span>
+			<input type="checkbox" bind:group={difficulties} value={1} />
+			<span class="text-blue-500">moderate</span>
+			<input type="checkbox" bind:group={difficulties} value={2} />
+			<span class="text-yellow-500">hard</span>
+			<input type="checkbox" bind:group={difficulties} value={3} />
+			<span class="text-red-500">extreme</span>
+		</label>
+	</div>
+	<div class="w-full aspect-square">
+		<Map {accessToken} bind:this={mapComponent} {style}>
+			<GeolocateControl />
+			<NavigationControl />
+			{#each filteredClimbs as climb}
 				<Marker
 					lat={climb['Latitude']}
 					lng={climb['Longitude']}
 					label={climb.Name}
 					color={colors[climb['Difficulty']]}
 				/>
-			{/if}
-		{/each}
-	</Map>
+			{/each}
+		</Map>
+	</div>
 </div>
 
 <style>
