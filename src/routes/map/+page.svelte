@@ -32,7 +32,13 @@
 	<link href="https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.css" rel="stylesheet" />
 </svelte:head>
 <div class="container columns-1 lg:columns-2">
-	<div class="w-full aspect-auto my-3">
+	<h1 class="text-zinc-200 text-3xl py-3">Map</h1>
+	<p class="text-zinc-200">
+		Right now the map shows summit climbs in Colorado. Eventually I will add more data sets to
+		include snow climbs, trail runs, and other outdoor endeavors.
+	</p>
+	<hr class="my-2" />
+	<div class="w-full aspect-auto mb-3">
 		<label class="text-zinc-200"
 			>Show summits above: {elevationFilter.toLocaleString()} feet
 			<input
