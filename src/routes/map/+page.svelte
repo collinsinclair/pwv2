@@ -38,7 +38,7 @@
 		include snow climbs, trail runs, and other outdoor endeavors.
 	</p>
 	<hr class="my-2" />
-	<div class="w-full aspect-auto mb-3">
+	<div class="w-full aspect-auto">
 		<label class="text-zinc-200"
 			>Show summits above: {elevationFilter.toLocaleString()} feet
 			<input
@@ -88,7 +88,7 @@
 			</div>
 		</label>
 	</div>
-	<div class="w-full aspect-square">
+	<div class="w-full aspect-square pt-3">
 		<Map {accessToken} bind:this={mapComponent} {style}>
 			<GeolocateControl />
 			<NavigationControl />
