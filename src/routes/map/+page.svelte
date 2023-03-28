@@ -3,7 +3,9 @@
 	import { onMount } from 'svelte';
 	import coSummitClimbs from '$lib/json/colorado-summit-hikes.json';
 	const colors = ['#22c55e', '#3b82f6', '#eab308', '#ef4444'];
-	coSummitClimbs.forEach((climb)=>{climb.Color = colors[climb['Difficulty']]})
+	coSummitClimbs.forEach((climb) => {
+		climb.Color = colors[climb['Difficulty']];
+	});
 
 	let mapComponent;
 	const { GeolocateControl, NavigationControl } = controls;
@@ -24,7 +26,7 @@
 	onMount(() => {
 		mapComponent.setCenter([-104.99028, 39.73925], 10);
 	});
-	$: console.log(difficulties)
+	$: console.log(difficulties);
 </script>
 
 <svelte:head>
