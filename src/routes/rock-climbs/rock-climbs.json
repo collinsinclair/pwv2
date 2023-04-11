@@ -1,3031 +1,2783 @@
 [
+	{ "Route": "Marmot Arete", "Location": "Corner Area > Loch Lomond > Idaho Springs > Colorado" },
 	{
-		"Route": "Marmot Arete",
-		"Location": "Corner Area > Loch Lomond > Idaho Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/106051062/marmot-arete",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR, Alpine",
-		"Rating": "5.9-",
-		"Pitches": 1,
-		"Length": 65,
-		"Area Latitude": 39.8328,
-		"Area Longitude": -105.6771
+		"Route": "Going Greek",
+		"Location": "1. Butt Wall > Monitor Rock > Independence Pass > Colorado"
+	},
+	{
+		"Route": "One Stick or Two?",
+		"Location": "Clairabell Mine Wall Area > East Side of Monitor Rock > Monitor Rock > Independence Pass > Colorado"
+	},
+	{ "Route": "Stems and Seeds", "Location": "Pass Walls > Independence Pass > Colorado" },
+	{
+		"Route": "All You Can Eat",
+		"Location": "Sunset Cantina > Lincoln Creek > Independence Pass > Colorado"
+	},
+	{
+		"Route": "Fried Brains",
+		"Location": "Sunset Cantina > Lincoln Creek > Independence Pass > Colorado"
+	},
+	{
+		"Route": "Candy Apple Red",
+		"Location": "Phat City > Lincoln Creek > Independence Pass > Colorado"
+	},
+	{
+		"Route": "Softail Meets Guardrail",
+		"Location": "Reese's Pieces > Lincoln Creek > Independence Pass > Colorado"
+	},
+	{
+		"Route": 5.8,
+		"Location": "Monastery > Campsite 5 Area > Lincoln Creek > Independence Pass > Colorado"
+	},
+	{ "Route": "Thread It Up", "Location": "Powerline > Independence Pass > Colorado" },
+	{
+		"Route": "Show Pony",
+		"Location": "Jungle Wall > Ptarmigan Creek Area > Independence Pass > Colorado"
+	},
+	{
+		"Route": "Bucket Brigade",
+		"Location": "Storm Jumper Wall > Ptarmigan Creek Area > Independence Pass > Colorado"
+	},
+	{
+		"Route": "Christopher Robin's Arete",
+		"Location": "Pooh Corner > Pooh Corner Area > Independence Pass > Colorado"
 	},
 	{
 		"Route": "Fox Trot",
-		"Location": "Olympic Wall > Outrageous Overhangs Area > Independence Pass > Colorado",
-		"URL": "https://www.mountainproject.com/route/106005674/fox-trot",
-		"Avg Stars": 3.1,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 80,
-		"Area Latitude": 39.12035,
-		"Area Longitude": -106.69819
+		"Location": "Olympic Wall > Outrageous Overhangs Area > Independence Pass > Colorado"
+	},
+	{
+		"Route": "Go!",
+		"Location": "Junior Olympic Wall > Outrageous Overhangs Area > Independence Pass > Colorado"
 	},
 	{
 		"Route": "Left Overs",
-		"Location": "Turkey Rock > Upper Boulderfield Area > Independence Pass > Colorado",
-		"URL": "https://www.mountainproject.com/route/119314001/left-overs",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": "5.7+",
-		"Pitches": 1,
-		"Length": 90,
-		"Area Latitude": 39.12459,
-		"Area Longitude": -106.67171
+		"Location": "Turkey Rock > Upper Boulderfield Area > Independence Pass > Colorado"
+	},
+	{
+		"Route": "The Other White Meat",
+		"Location": "Lower Bulldog Cliff > Upper Boulderfield Area > Independence Pass > Colorado"
+	},
+	{
+		"Route": "Eager Beaver",
+		"Location": "Lower Bulldog Cliff > Upper Boulderfield Area > Independence Pass > Colorado"
 	},
 	{
 		"Route": "Surfing in a Snowstorm",
-		"Location": "The Wave > Wild Ridge Area > Independence Pass > Colorado",
-		"URL": "https://www.mountainproject.com/route/115401612/surfing-in-a-snowstorm",
-		"Avg Stars": 3.3,
-		"Your Stars": -1,
-		"Route Type": "Sport, Alpine",
-		"Rating": 5.6,
-		"Pitches": 1,
-		"Length": 80,
-		"Area Latitude": 39.12992,
-		"Area Longitude": -106.67446
+		"Location": "The Wave > Wild Ridge Area > Independence Pass > Colorado"
 	},
 	{
 		"Route": "Blue Horizon",
-		"Location": "The Wave > Wild Ridge Area > Independence Pass > Colorado",
-		"URL": "https://www.mountainproject.com/route/121013379/blue-horizon",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport, Alpine",
-		"Rating": "5.8 PG13",
-		"Pitches": 1,
-		"Length": 90,
-		"Area Latitude": 39.12992,
-		"Area Longitude": -106.67446
+		"Location": "The Wave > Wild Ridge Area > Independence Pass > Colorado"
 	},
+	{ "Route": "Every Which Way But Loose", "Location": "Curve Block > Georgetown > Colorado" },
 	{
-		"Route": "Every Which Way But Loose",
-		"Location": "Curve Block > Georgetown > Colorado",
-		"URL": "https://www.mountainproject.com/route/107767419/every-which-way-but-loose",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "TR",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 39.68095,
-		"Area Longitude": -105.70238
+		"Route": "Feet Do Not Fail Me Now",
+		"Location": "Haus Rock > Keystone a.k.a. Montezuma > Colorado"
 	},
+	{ "Route": "Lichen This", "Location": "Haus Rock > Keystone a.k.a. Montezuma > Colorado" },
+	{ "Route": "Sunshine Slab", "Location": "Zuma Rock > Keystone a.k.a. Montezuma > Colorado" },
+	{ "Route": "Raindrop Slab", "Location": "Zuma Rock > Keystone a.k.a. Montezuma > Colorado" },
+	{ "Route": "Bohemian Rhapsody", "Location": "Zuma Rock > Keystone a.k.a. Montezuma > Colorado" },
 	{
-		"Route": "Sunshine Slab",
-		"Location": "Zuma Rock > Keystone a.k.a. Montezuma > Colorado",
-		"URL": "https://www.mountainproject.com/route/119776530/sunshine-slab",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 40,
-		"Area Latitude": 39.60647,
-		"Area Longitude": -105.91576
+		"Route": "Secret Significance",
+		"Location": "Zuma Rock > Keystone a.k.a. Montezuma > Colorado"
 	},
 	{
 		"Route": "Five Oh Shadow",
-		"Location": "Porcupine Rock > Keystone a.k.a. Montezuma > Colorado",
-		"URL": "https://www.mountainproject.com/route/118829183/five-oh-shadow",
-		"Avg Stars": 3.3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 70,
-		"Area Latitude": 39.61037,
-		"Area Longitude": -105.92688
+		"Location": "Porcupine Rock > Keystone a.k.a. Montezuma > Colorado"
 	},
 	{
-		"Route": "I Can Hear You Now!",
-		"Location": "Transmitter Tower > Buena Vista > Colorado",
-		"URL": "https://www.mountainproject.com/route/105854269/i-can-hear-you-now",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 60,
-		"Area Latitude": 38.88771,
-		"Area Longitude": -106.1382
+		"Route": "Hug A Pirate",
+		"Location": "Lost Wall > Loveland Pass Area > Keystone a.k.a. Montezuma > Colorado"
 	},
 	{
-		"Route": "Calling Jackson Pollock",
-		"Location": "Transmitter Tower > Buena Vista > Colorado",
-		"URL": "https://www.mountainproject.com/route/119542531/calling-jackson-pollock",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9-",
-		"Pitches": 1,
-		"Length": 55,
-		"Area Latitude": 38.88771,
-		"Area Longitude": -106.1382
+		"Route": "Pirate Boot-ie",
+		"Location": "Lost Wall > Loveland Pass Area > Keystone a.k.a. Montezuma > Colorado"
 	},
+	{ "Route": "Violetta", "Location": "Bob's Rock > Buena Vista > Colorado" },
+	{ "Route": "Slightly Smaller Than Large", "Location": "Bob's Rock > Buena Vista > Colorado" },
+	{
+		"Route": "Unknown Sport Route Right of Center Route",
+		"Location": "Davis Face > Buena Vista > Colorado"
+	},
+	{ "Route": "I Can Hear You Now!", "Location": "Transmitter Tower > Buena Vista > Colorado" },
+	{ "Route": "Robocall", "Location": "Transmitter Tower > Buena Vista > Colorado" },
+	{ "Route": "Hot Spot", "Location": "Transmitter Tower > Buena Vista > Colorado" },
+	{ "Route": "Calling Jackson Pollock", "Location": "Transmitter Tower > Buena Vista > Colorado" },
+	{ "Route": "Swamp Donkey AKA Moose", "Location": "Pleasure Dome > Buena Vista > Colorado" },
+	{ "Route": "Billy Goes to Mexico", "Location": "Billy's Buttress > Buena Vista > Colorado" },
+	{ "Route": "Corn Flakes", "Location": "Pump Station > Buena Vista > Colorado" },
+	{ "Route": "Spanker Work Itanker", "Location": "Poncho's Vista > Buena Vista > Colorado" },
+	{ "Route": "Between You and Me", "Location": "Poncho's Vista > Buena Vista > Colorado" },
+	{ "Route": "Senior Momentum", "Location": "The Roost > Buena Vista > Colorado" },
+	{ "Route": "Slingin' the Chicken", "Location": "Chocolate Tower > Buena Vista > Colorado" },
+	{ "Route": "Chicken Runner", "Location": "Chocolate Tower > Buena Vista > Colorado" },
+	{ "Route": "Chokin' the Chicken", "Location": "Chocolate Tower > Buena Vista > Colorado" },
+	{ "Route": "MI5", "Location": "Chief's Head > Buena Vista > Colorado" },
 	{
 		"Route": "Mysterious Maiden",
-		"Location": "There is Spice to Life Tower. > Buena Vista > Colorado",
-		"URL": "https://www.mountainproject.com/route/106475060/mysterious-maiden",
-		"Avg Stars": 2.8,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9-",
-		"Pitches": 1,
-		"Length": 90,
-		"Area Latitude": 38.88964,
-		"Area Longitude": -106.13994
+		"Location": "There is Spice to Life Tower. > Buena Vista > Colorado"
 	},
-	{
-		"Route": "Fatter Than Santa",
-		"Location": "Christmas Crag > Buena Vista > Colorado",
-		"URL": "https://www.mountainproject.com/route/108619269/fatter-than-santa",
-		"Avg Stars": 3.5,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": "5.6 R",
-		"Pitches": 1,
-		"Length": 60,
-		"Area Latitude": 38.89867,
-		"Area Longitude": -106.0917
-	},
+	{ "Route": "A Brief Squall", "Location": "The Leaning Wall > Buena Vista > Colorado" },
+	{ "Route": "Fatter Than Santa", "Location": "Christmas Crag > Buena Vista > Colorado" },
 	{
 		"Route": "Wyld Stallynz Arete Variation",
-		"Location": "The Rock Pile > Buena Vista > Colorado",
-		"URL": "https://www.mountainproject.com/route/114428047/wyld-stallynz-arete-variation",
-		"Avg Stars": 3.6,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.8 PG13",
-		"Pitches": 1,
-		"Length": 90,
-		"Area Latitude": 38.85063,
-		"Area Longitude": -106.06629
+		"Location": "The Rock Pile > Buena Vista > Colorado"
 	},
-	{
-		"Route": "Don't Mess With The Reaper",
-		"Location": "The Rock Pile > Buena Vista > Colorado",
-		"URL": "https://www.mountainproject.com/route/113712029/dont-mess-with-the-reaper",
-		"Avg Stars": 3.3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": "5.8+",
-		"Pitches": 1,
-		"Length": 100,
-		"Area Latitude": 38.85063,
-		"Area Longitude": -106.06629
-	},
-	{
-		"Route": "Lost paddle",
-		"Location": "The River Chamber > Buena Vista > Colorado",
-		"URL": "https://www.mountainproject.com/route/118641763/lost-paddle",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 38.86876,
-		"Area Longitude": -106.14413
-	},
-	{
-		"Route": "Cooky",
-		"Location": "The Museum > Buena Vista > Colorado",
-		"URL": "https://www.mountainproject.com/route/115401980/cooky",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 60,
-		"Area Latitude": 38.87436,
-		"Area Longitude": -106.13431
-	},
-	{
-		"Route": "Tiger Trout",
-		"Location": "Trout Climbing in America > Buena Vista > Colorado",
-		"URL": "https://www.mountainproject.com/route/123078530/tiger-trout",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 80,
-		"Area Latitude": 38.85839,
-		"Area Longitude": -105.98654
-	},
-	{
-		"Route": "Ken Trout",
-		"Location": "Trout Climbing in America > Buena Vista > Colorado",
-		"URL": "https://www.mountainproject.com/route/123129578/ken-trout",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9-",
-		"Pitches": 1,
-		"Length": 70,
-		"Area Latitude": 38.85839,
-		"Area Longitude": -105.98654
-	},
+	{ "Route": "Don't Mess With The Reaper", "Location": "The Rock Pile > Buena Vista > Colorado" },
+	{ "Route": "Jedi Mind", "Location": "The Rock Pile > Buena Vista > Colorado" },
+	{ "Route": "Esquire", "Location": "The Rock Pile > Buena Vista > Colorado" },
+	{ "Route": "Lost paddle", "Location": "The River Chamber > Buena Vista > Colorado" },
+	{ "Route": "Cooky", "Location": "The Museum > Buena Vista > Colorado" },
+	{ "Route": "Tiger Trout", "Location": "Trout Climbing in America > Buena Vista > Colorado" },
+	{ "Route": "Ken Trout", "Location": "Trout Climbing in America > Buena Vista > Colorado" },
+	{ "Route": "Rainbow", "Location": "Trout Climbing in America > Buena Vista > Colorado" },
 	{
 		"Route": "Where's My Stimulus Check?",
-		"Location": "Obscura > Lilliput > Buena Vista > Colorado",
-		"URL": "https://www.mountainproject.com/route/119383828/wheres-my-stimulus-check",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 41,
-		"Area Latitude": 38.85513,
-		"Area Longitude": -106.02574
+		"Location": "Obscura > Lilliput > Buena Vista > Colorado"
 	},
+	{ "Route": "Irrational Exuberance", "Location": "Obscura > Lilliput > Buena Vista > Colorado" },
+	{ "Route": "Animal Spirits", "Location": "Obscura > Lilliput > Buena Vista > Colorado" },
 	{
 		"Route": "Unknown",
-		"Location": "Turtle Rocks > Turtle Rocks, Baby Turtle, and The Corridor > Buena Vista > Colorado",
-		"URL": "https://www.mountainproject.com/route/121252111/unknown",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.7,
-		"Pitches": 1,
-		"Length": "",
-		"Area Latitude": 38.88191,
-		"Area Longitude": -106.14755
+		"Location": "Turtle Rocks > Turtle Rocks, Baby Turtle, and The Corridor > Buena Vista > Colorado"
+	},
+	{
+		"Route": "The Lorax",
+		"Location": "The Corridor > Turtle Rocks, Baby Turtle, and The Corridor > Buena Vista > Colorado"
 	},
 	{
 		"Route": "Santa Claws",
-		"Location": "Cat Scratch Wall > Chalk Creek Canyon > Buena Vista > Colorado",
-		"URL": "https://www.mountainproject.com/route/120727880/santa-claws",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 100,
-		"Area Latitude": 38.72118,
-		"Area Longitude": -106.25731
+		"Location": "Cat Scratch Wall > Chalk Creek Canyon > Buena Vista > Colorado"
 	},
 	{
 		"Route": "Regular Route",
-		"Location": "Jed's Slab > Chalk Creek Canyon > Buena Vista > Colorado",
-		"URL": "https://www.mountainproject.com/route/122649347/regular-route",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": "5.9+ PG13",
-		"Pitches": 1,
-		"Length": 210,
-		"Area Latitude": 38.70935,
-		"Area Longitude": -106.23235
+		"Location": "Jed's Slab > Chalk Creek Canyon > Buena Vista > Colorado"
 	},
 	{
 		"Route": "Wet Dream Explosion",
-		"Location": "St. Elmo Slab > St. Elmo > Buena Vista > Colorado",
-		"URL": "https://www.mountainproject.com/route/123588641/wet-dream-explosion",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.6,
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 38.70645,
-		"Area Longitude": -106.34078
+		"Location": "St. Elmo Slab > St. Elmo > Buena Vista > Colorado"
 	},
 	{
 		"Route": "Route 2",
-		"Location": "Climbing Area 58 > Climbing Areas 53-64 > Buena Vista > Colorado",
-		"URL": "https://www.mountainproject.com/route/119398098/route-2",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.8+",
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 38.86699,
-		"Area Longitude": -106.14055
+		"Location": "Climbing Area 58 > Climbing Areas 53-64 > Buena Vista > Colorado"
+	},
+	{
+		"Route": "Route 1",
+		"Location": "Climbing Area 58 > Climbing Areas 53-64 > Buena Vista > Colorado"
+	},
+	{
+		"Route": "Route 3",
+		"Location": "Climbing Area 58 > Climbing Areas 53-64 > Buena Vista > Colorado"
+	},
+	{
+		"Route": "Route 4",
+		"Location": "Climbing Area 58 > Climbing Areas 53-64 > Buena Vista > Colorado"
 	},
 	{
 		"Route": "Route 5",
-		"Location": "Climbing Area 60 > Climbing Areas 53-64 > Buena Vista > Colorado",
-		"URL": "https://www.mountainproject.com/route/119801349/route-5",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "TR",
-		"Rating": 5.7,
-		"Pitches": 1,
-		"Length": 40,
-		"Area Latitude": 38.85651,
-		"Area Longitude": -106.12355
+		"Location": "Climbing Area 60 > Climbing Areas 53-64 > Buena Vista > Colorado"
 	},
 	{
 		"Route": "Route 3",
-		"Location": "Climbing Area 60 > Climbing Areas 53-64 > Buena Vista > Colorado",
-		"URL": "https://www.mountainproject.com/route/119801154/route-3",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "TR",
-		"Rating": 5.7,
-		"Pitches": 1,
-		"Length": 45,
-		"Area Latitude": 38.85651,
-		"Area Longitude": -106.12355
+		"Location": "Climbing Area 60 > Climbing Areas 53-64 > Buena Vista > Colorado"
 	},
 	{
 		"Route": "Route 1",
-		"Location": "Climbing Area 60 > Climbing Areas 53-64 > Buena Vista > Colorado",
-		"URL": "https://www.mountainproject.com/route/119800932/route-1",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "TR",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 25,
-		"Area Latitude": 38.85651,
-		"Area Longitude": -106.12355
+		"Location": "Climbing Area 60 > Climbing Areas 53-64 > Buena Vista > Colorado"
 	},
 	{
 		"Route": "Route 3",
-		"Location": "Climbing Area 63 > Climbing Areas 53-64 > Buena Vista > Colorado",
-		"URL": "https://www.mountainproject.com/route/119961010/route-3",
-		"Avg Stars": 4,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.7+",
-		"Pitches": 1,
-		"Length": 40,
-		"Area Latitude": 38.85556,
-		"Area Longitude": -106.11893
+		"Location": "Climbing Area 63 > Climbing Areas 53-64 > Buena Vista > Colorado"
 	},
 	{
 		"Route": "Route 1",
-		"Location": "Climbing Area 63 > Climbing Areas 53-64 > Buena Vista > Colorado",
-		"URL": "https://www.mountainproject.com/route/119960746/route-1",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.7,
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 38.85556,
-		"Area Longitude": -106.11893
+		"Location": "Climbing Area 63 > Climbing Areas 53-64 > Buena Vista > Colorado"
+	},
+	{ "Route": "Goat Yoga", "Location": "Lincoln Lake Slabs > Mt. Evans > Alpine Rock > Colorado" },
+	{ "Route": "Pika", "Location": "Lincoln Lake Slabs > Mt. Evans > Alpine Rock > Colorado" },
+	{ "Route": "Big Horns", "Location": "Lincoln Lake Slabs > Mt. Evans > Alpine Rock > Colorado" },
+	{
+		"Route": "Bless You",
+		"Location": "Sakkety Point > Gore Mountain Range > Alpine Rock > Colorado"
 	},
 	{
 		"Route": "Get Your Trabzon",
-		"Location": "Gothic Windows > Grand Turk > San Juans > Alpine Rock > Colorado",
-		"URL": "https://www.mountainproject.com/route/121010991/get-your-trabzon",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport, Alpine",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 80,
-		"Area Latitude": 37.77579,
-		"Area Longitude": -107.69569
+		"Location": "Gothic Windows > Grand Turk > San Juans > Alpine Rock > Colorado"
+	},
+	{ "Route": "Unknown", "Location": "Mind Dump > Northstar Mountain > Alpine Rock > Colorado" },
+	{ "Route": "Unknown", "Location": "Mind Dump > Northstar Mountain > Alpine Rock > Colorado" },
+	{ "Route": "Head Games", "Location": "The Headstone > Devil's Head > South Platte > Colorado" },
+	{
+		"Route": "Crystal Cascade",
+		"Location": "The Red Wall > Devil's Head > South Platte > Colorado"
+	},
+	{ "Route": "Sideslot", "Location": "The Hallway > Devil's Head > South Platte > Colorado" },
+	{
+		"Route": "Welcome to the Jungle",
+		"Location": "The Jungle > Devil's Head > South Platte > Colorado"
+	},
+	{ "Route": "Jungle Love", "Location": "The Jungle > Devil's Head > South Platte > Colorado" },
+	{
+		"Route": "Bart's Route",
+		"Location": "Chicken Head Ranch > Devil's Head > South Platte > Colorado"
+	},
+	{ "Route": "Corker", "Location": "Radio Head > Devil's Head > South Platte > Colorado" },
+	{
+		"Route": "A Day in the Life",
+		"Location": "Radio Head > Devil's Head > South Platte > Colorado"
+	},
+	{ "Route": "Mr. Hanky", "Location": "Wipeyur Buttress > Devil's Head > South Platte > Colorado" },
+	{
+		"Route": "Arbitrary and Capricious",
+		"Location": "Devil's Head Rock > Devil's Head > South Platte > Colorado"
 	},
 	{
-		"Route": "Unknown",
-		"Location": "Mind Dump > Northstar Mountain > Alpine Rock > Colorado",
-		"URL": "https://www.mountainproject.com/route/119712366/unknown",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport, Alpine",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 39.38057,
-		"Area Longitude": -106.07757
+		"Route": "Slip Slabbin' Away",
+		"Location": "Slabulous > Devil's Gate Sector > Devil's Head > South Platte > Colorado"
 	},
 	{
-		"Route": "Unknown",
-		"Location": "Mind Dump > Northstar Mountain > Alpine Rock > Colorado",
-		"URL": "https://www.mountainproject.com/route/119712382/unknown",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport, Alpine",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 39.38057,
-		"Area Longitude": -106.07757
+		"Route": "Slabby Lady",
+		"Location": "Slabulous > Devil's Gate Sector > Devil's Head > South Platte > Colorado"
 	},
 	{
 		"Route": "Hitchin' A Ride",
-		"Location": "Tom's Thumb > Devil's Gate Sector > Devil's Head > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/119166327/hitchin-a-ride",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 39.25466,
-		"Area Longitude": -105.09294
+		"Location": "Tom's Thumb > Devil's Gate Sector > Devil's Head > South Platte > Colorado"
 	},
 	{
-		"Route": "The Belgian",
-		"Location": "Waffle House > Devil's Head > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/113834348/the-belgian",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.7,
-		"Pitches": 1,
-		"Length": 70,
-		"Area Latitude": 39.25955,
-		"Area Longitude": -105.10239
+		"Route": "Under The Radar",
+		"Location": "Unicorn Valley > Devil's Head > South Platte > Colorado"
 	},
+	{ "Route": "The Belgian", "Location": "Waffle House > Devil's Head > South Platte > Colorado" },
 	{
 		"Route": "Just a Pancake With Syrup",
-		"Location": "Waffle House > Devil's Head > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/113834312/just-a-pancake-with-syrup",
-		"Avg Stars": 2.8,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.6,
-		"Pitches": 1,
-		"Length": 85,
-		"Area Latitude": 39.25955,
-		"Area Longitude": -105.10239
+		"Location": "Waffle House > Devil's Head > South Platte > Colorado"
 	},
 	{
-		"Route": "Hold My Graphite",
-		"Location": "Chernobyl > Devil's Head > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/117652582/hold-my-graphite",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9-",
-		"Pitches": 1,
-		"Length": 100,
-		"Area Latitude": 39.2564,
-		"Area Longitude": -105.08926
+		"Route": "Coffee With Cream",
+		"Location": "Waffle House > Devil's Head > South Platte > Colorado"
 	},
 	{
-		"Route": "It's a Gift",
-		"Location": "Hall of Fame > Devil's Head > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/117667080/its-a-gift",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.7,
-		"Pitches": 1,
-		"Length": 100,
-		"Area Latitude": 39.2603,
-		"Area Longitude": -105.09094
+		"Route": "Keep the Griddle Hot",
+		"Location": "Waffle House > Devil's Head > South Platte > Colorado"
 	},
+	{
+		"Route": "Eggs Over Easy",
+		"Location": "Waffle House > Devil's Head > South Platte > Colorado"
+	},
+	{ "Route": "Hold My Graphite", "Location": "Chernobyl > Devil's Head > South Platte > Colorado" },
+	{ "Route": "It's a Gift", "Location": "Hall of Fame > Devil's Head > South Platte > Colorado" },
 	{
 		"Route": "Miss Wyoming",
-		"Location": "Elevenmile Dome > Elevenmile Canyon > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/106926010/miss-wyoming",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 110,
-		"Area Latitude": 38.94534,
-		"Area Longitude": -105.39205
+		"Location": "Elevenmile Dome > Elevenmile Canyon > South Platte > Colorado"
 	},
+	{
+		"Route": "Face Value",
+		"Location": "Elevenmile Dome > Elevenmile Canyon > South Platte > Colorado"
+	},
+	{
+		"Route": "Original Sin",
+		"Location": "Elevenmile Dome > Elevenmile Canyon > South Platte > Colorado"
+	},
+	{
+		"Route": "Repulsion Convulsion",
+		"Location": "Elevenmile Dome > Elevenmile Canyon > South Platte > Colorado"
+	},
+	{
+		"Route": "The Great Unknown (submitted as Unnamed 5.9)",
+		"Location": "Elevenmile Dome > Elevenmile Canyon > South Platte > Colorado"
+	},
+	{
+		"Route": "Dusty Roads",
+		"Location": "Elevenmile Dome > Elevenmile Canyon > South Platte > Colorado"
+	},
+	{
+		"Route": "Ben Dover",
+		"Location": "Pine Cone Dome > Elevenmile Canyon > South Platte > Colorado"
+	},
+	{
+		"Route": "Punks and Old Men",
+		"Location": "Pine Cone Dome > Elevenmile Canyon > South Platte > Colorado"
+	},
+	{
+		"Route": "She's a Moaner",
+		"Location": "Pine Cone Dome > Elevenmile Canyon > South Platte > Colorado"
+	},
+	{
+		"Route": "Harder Than It Looks",
+		"Location": "Pine Cone Dome > Elevenmile Canyon > South Platte > Colorado"
+	},
+	{
+		"Route": "Wrestle with the Pig",
+		"Location": "Pine Cone Dome > Elevenmile Canyon > South Platte > Colorado"
+	},
+	{
+		"Route": "Waiting for Staircase 1-3",
+		"Location": "Arch Rock > Elevenmile Canyon > South Platte > Colorado"
+	},
+	{ "Route": "Persistence", "Location": "Arch Rock > Elevenmile Canyon > South Platte > Colorado" },
 	{
 		"Route": "Greetings from Butchers Hill",
-		"Location": "Arch Rock > Elevenmile Canyon > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/117691144/greetings-from-butchers-hill",
-		"Avg Stars": 2.8,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 75,
-		"Area Latitude": 38.93784,
-		"Area Longitude": -105.40579
+		"Location": "Arch Rock > Elevenmile Canyon > South Platte > Colorado"
 	},
+	{ "Route": "Zendance", "Location": "Arch Rock > Elevenmile Canyon > South Platte > Colorado" },
+	{ "Route": "Duck Face", "Location": "Arch Rock > Elevenmile Canyon > South Platte > Colorado" },
+	{ "Route": "Blerg", "Location": "Arch Rock > Elevenmile Canyon > South Platte > Colorado" },
+	{ "Route": "Fun-E Face", "Location": "Arch Rock > Elevenmile Canyon > South Platte > Colorado" },
 	{
-		"Route": "Hemisphere",
-		"Location": "The Icebox > Elevenmile Canyon > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/107199753/hemisphere",
-		"Avg Stars": 3.1,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 70,
-		"Area Latitude": 38.90773,
-		"Area Longitude": -105.46008
+		"Route": "Slab n' Grab",
+		"Location": "Arch Rock > Elevenmile Canyon > South Platte > Colorado"
 	},
+	{ "Route": "Hemisphere", "Location": "The Icebox > Elevenmile Canyon > South Platte > Colorado" },
 	{
 		"Route": "Head Over Squeals",
-		"Location": "Scoop Wall > Elevenmile Canyon > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/105762903/head-over-squeals",
-		"Avg Stars": 3.3,
-		"Your Stars": -1,
-		"Route Type": "Trad, Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 100,
-		"Area Latitude": 38.9344,
-		"Area Longitude": -105.4075
+		"Location": "Scoop Wall > Elevenmile Canyon > South Platte > Colorado"
+	},
+	{
+		"Route": "Sleeping Beauty",
+		"Location": "Knome Dome aka Water Dome > Elevenmile Canyon > South Platte > Colorado"
+	},
+	{
+		"Route": "Tourists and Fishermen",
+		"Location": "Knome Dome aka Water Dome > Elevenmile Canyon > South Platte > Colorado"
+	},
+	{
+		"Route": "Bill and Britt Two",
+		"Location": "Springer Gulch Wall > Elevenmile Canyon > South Platte > Colorado"
+	},
+	{
+		"Route": "Death Star Compactor",
+		"Location": "The Emerald Isle > Heaven's Gate > Elevenmile Canyon > South Platte > Colorado"
+	},
+	{
+		"Route": "Lumberjack HiJinks",
+		"Location": "The Emerald Isle > Heaven's Gate > Elevenmile Canyon > South Platte > Colorado"
+	},
+	{
+		"Route": "Kalamis Aqua",
+		"Location": "Water Sculpt Wall > Elevenmile Canyon > South Platte > Colorado"
+	},
+	{
+		"Route": "Heavenly Scoops",
+		"Location": "Water Sculpt Wall > Elevenmile Canyon > South Platte > Colorado"
 	},
 	{
 		"Route": "Slippery When Wet",
-		"Location": "Messenger Wall > Elevenmile Canyon > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/107792458/slippery-when-wet",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 180,
-		"Area Latitude": 38.9344,
-		"Area Longitude": -105.4075
+		"Location": "Messenger Wall > Elevenmile Canyon > South Platte > Colorado"
+	},
+	{ "Route": "Aquaman Arete", "Location": "Atlantis Slab > Deckers > South Platte > Colorado" },
+	{
+		"Route": "Traditionalists at Play",
+		"Location": "North Face > Java Dome > Deckers > South Platte > Colorado"
+	},
+	{
+		"Route": "-Bauer (P2)",
+		"Location": "South Face > Java Dome > Deckers > South Platte > Colorado"
+	},
+	{ "Route": "Budgie Smugglers", "Location": "Bali Dome > Deckers > South Platte > Colorado" },
+	{ "Route": "Fish Farmer", "Location": "Borneo Slab > Deckers > South Platte > Colorado" },
+	{
+		"Route": "Time Traveler",
+		"Location": "Jackson Creek Dome > Jackson Creek > Rampart Range Road > South Platte > Colorado"
+	},
+	{
+		"Route": "Scorpion Jr.",
+		"Location": "Scorpio Dome > Rampart Range Road > South Platte > Colorado"
 	},
 	{
 		"Route": "Littlefoot",
-		"Location": "The Stacks > The Bigfoots > Rampart Range Road > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/118054521/littlefoot",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": 5.4,
-		"Pitches": 1,
-		"Length": 80,
-		"Area Latitude": 38.92866,
-		"Area Longitude": -104.95601
+		"Location": "The Stacks > The Bigfoots > Rampart Range Road > South Platte > Colorado"
 	},
 	{
 		"Route": "Harry",
-		"Location": "The Stacks > The Bigfoots > Rampart Range Road > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/118054555/harry",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 38.92866,
-		"Area Longitude": -104.95601
+		"Location": "The Stacks > The Bigfoots > Rampart Range Road > South Platte > Colorado"
 	},
 	{
 		"Route": "Dirty Jackson",
-		"Location": "Big Split Boulder > The Bigfoots > Rampart Range Road > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/118828835/dirty-jackson",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 38.92659,
-		"Area Longitude": -104.95303
+		"Location": "Big Split Boulder > The Bigfoots > Rampart Range Road > South Platte > Colorado"
 	},
 	{
 		"Route": "Short Barrel",
-		"Location": "Toy Gun Buttress > The Bigfoots > Rampart Range Road > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/118844486/short-barrel",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 80,
-		"Area Latitude": 38.92755,
-		"Area Longitude": -104.95411
+		"Location": "Toy Gun Buttress > The Bigfoots > Rampart Range Road > South Platte > Colorado"
 	},
 	{
 		"Route": "Pulp Friction",
-		"Location": "The Quarry > Thunder Ridge > West Creek > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/106166854/pulp-friction",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.8+",
-		"Pitches": 1,
-		"Length": 70,
-		"Area Latitude": 39.19906,
-		"Area Longitude": -105.22163
+		"Location": "The Quarry > Thunder Ridge > West Creek > South Platte > Colorado"
 	},
 	{
 		"Route": "Bundle of Fleece",
-		"Location": "The Quarry > Thunder Ridge > West Creek > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/113740067/bundle-of-fleece",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 80,
-		"Area Latitude": 39.19906,
-		"Area Longitude": -105.22163
+		"Location": "The Quarry > Thunder Ridge > West Creek > South Platte > Colorado"
 	},
 	{
 		"Route": "Half and Half",
-		"Location": "The Outback > Thunder Ridge > West Creek > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/110751984/half-and-half",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 115,
-		"Area Latitude": 39.21232,
-		"Area Longitude": -105.2318
+		"Location": "The Outback > Thunder Ridge > West Creek > South Platte > Colorado"
 	},
+	{ "Route": "Evening Stroll", "Location": "Sheep's Nose > West Creek > South Platte > Colorado" },
+	{ "Route": "Unknown", "Location": "Sheep's Nose > West Creek > South Platte > Colorado" },
 	{
 		"Route": "Motor Breath",
-		"Location": "The Little Dome > Cathedral Spires Area > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/107896618/motor-breath",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 60,
-		"Area Latitude": 39.413,
-		"Area Longitude": -105.2673
+		"Location": "The Little Dome > Cathedral Spires Area > South Platte > Colorado"
 	},
 	{
 		"Route": "Voodoo Ranger",
-		"Location": "Helen's Dome > Sheeprock > Goose Creek/Molly Gulch Campground > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/114470705/voodoo-ranger",
-		"Avg Stars": 3.6,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 115,
-		"Area Latitude": 39.18868,
-		"Area Longitude": -105.33495
+		"Location": "Helen's Dome > Sheeprock > Goose Creek/Molly Gulch Campground > South Platte > Colorado"
+	},
+	{
+		"Route": "Gettin' the Groove",
+		"Location": "Helen's Dome > Sheeprock > Goose Creek/Molly Gulch Campground > South Platte > Colorado"
+	},
+	{
+		"Route": "Spree",
+		"Location": "Helen's Dome > Sheeprock > Goose Creek/Molly Gulch Campground > South Platte > Colorado"
+	},
+	{
+		"Route": "Slipaway",
+		"Location": "Helen's Dome > Sheeprock > Goose Creek/Molly Gulch Campground > South Platte > Colorado"
 	},
 	{
 		"Route": "Bali Shag",
-		"Location": "Upper Smoking Section > Smoking Sections > Sheeprock > Goose Creek/Molly Gulch Campground > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/115372289/bali-shag",
-		"Avg Stars": 4,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 115,
-		"Area Latitude": 39.18863,
-		"Area Longitude": -105.33053
+		"Location": "Upper Smoking Section > Smoking Sections > Sheeprock > Goose Creek/Molly Gulch Campground > South Platte > Colorado"
 	},
 	{
 		"Route": "Five Beer Plan",
-		"Location": "Whiskey Rocks North > Whiskey Rocks > Goose Creek/Molly Gulch Campground > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/119274705/five-beer-plan",
-		"Avg Stars": 3.8,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 40,
-		"Area Latitude": 39.22001,
-		"Area Longitude": -105.33287
+		"Location": "Whiskey Rocks North > Whiskey Rocks > Goose Creek/Molly Gulch Campground > South Platte > Colorado"
 	},
 	{
 		"Route": "Whiskey Business",
-		"Location": "Whiskey Rocks North > Whiskey Rocks > Goose Creek/Molly Gulch Campground > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/119197732/whiskey-business",
-		"Avg Stars": 3.2,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.7,
-		"Pitches": 1,
-		"Length": 45,
-		"Area Latitude": 39.22001,
-		"Area Longitude": -105.33287
+		"Location": "Whiskey Rocks North > Whiskey Rocks > Goose Creek/Molly Gulch Campground > South Platte > Colorado"
 	},
 	{
 		"Route": "Cheddar Business Bureau",
-		"Location": "Whiskey Rocks North > Whiskey Rocks > Goose Creek/Molly Gulch Campground > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/119197804/cheddar-business-bureau",
-		"Avg Stars": 3.2,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": 5.6,
-		"Pitches": 1,
-		"Length": 40,
-		"Area Latitude": 39.22001,
-		"Area Longitude": -105.33287
+		"Location": "Whiskey Rocks North > Whiskey Rocks > Goose Creek/Molly Gulch Campground > South Platte > Colorado"
 	},
 	{
 		"Route": "Hair of the Dog",
-		"Location": "Whiskey Rocks North > Whiskey Rocks > Goose Creek/Molly Gulch Campground > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/118852168/hair-of-the-dog",
-		"Avg Stars": 2.8,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR, Boulder",
-		"Rating": "5.9 V0",
-		"Pitches": 1,
-		"Length": 25,
-		"Area Latitude": 39.22001,
-		"Area Longitude": -105.33287
+		"Location": "Whiskey Rocks North > Whiskey Rocks > Goose Creek/Molly Gulch Campground > South Platte > Colorado"
 	},
 	{
 		"Route": "Sleep Chimney",
-		"Location": "Whiskey Rocks North > Whiskey Rocks > Goose Creek/Molly Gulch Campground > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/119200786/sleep-chimney",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 30,
-		"Area Latitude": 39.22001,
-		"Area Longitude": -105.33287
+		"Location": "Whiskey Rocks North > Whiskey Rocks > Goose Creek/Molly Gulch Campground > South Platte > Colorado"
+	},
+	{
+		"Route": "Crack Open a Cold One",
+		"Location": "Whiskey Rocks North > Whiskey Rocks > Goose Creek/Molly Gulch Campground > South Platte > Colorado"
 	},
 	{
 		"Route": "Rip’s Wall",
-		"Location": "Whiskey Rocks West > Whiskey Rocks > Goose Creek/Molly Gulch Campground > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/121786015/rips-wall",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport, TR",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 100,
-		"Area Latitude": 39.2159,
-		"Area Longitude": -105.33633
+		"Location": "Whiskey Rocks West > Whiskey Rocks > Goose Creek/Molly Gulch Campground > South Platte > Colorado"
+	},
+	{
+		"Route": "Barry Mantellow",
+		"Location": "Whiskey Rocks West > Whiskey Rocks > Goose Creek/Molly Gulch Campground > South Platte > Colorado"
 	},
 	{
 		"Route": "Whiskey Glasses",
-		"Location": "Whiskey Rocks West > Whiskey Rocks > Goose Creek/Molly Gulch Campground > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/121786082/whiskey-glasses",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": 5.5,
-		"Pitches": 1,
-		"Length": 100,
-		"Area Latitude": 39.2159,
-		"Area Longitude": -105.33633
+		"Location": "Whiskey Rocks West > Whiskey Rocks > Goose Creek/Molly Gulch Campground > South Platte > Colorado"
 	},
 	{
 		"Route": "Shipwreck in the Sand",
-		"Location": "Inferno Slab > Goose Creek/Molly Gulch Campground > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/118132673/shipwreck-in-the-sand",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 115,
-		"Area Latitude": 39.21141,
-		"Area Longitude": -105.32192
+		"Location": "Inferno Slab > Goose Creek/Molly Gulch Campground > South Platte > Colorado"
 	},
 	{
 		"Route": "The Day You Died",
-		"Location": "Inferno Slab > Goose Creek/Molly Gulch Campground > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/118132506/the-day-you-died",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 120,
-		"Area Latitude": 39.21141,
-		"Area Longitude": -105.32192
+		"Location": "Inferno Slab > Goose Creek/Molly Gulch Campground > South Platte > Colorado"
 	},
 	{
+		"Route": "Nutshell",
+		"Location": "Inferno Slab > Goose Creek/Molly Gulch Campground > South Platte > Colorado"
+	},
+	{
+		"Route": "Bobcat Joins the Circus",
+		"Location": "Inferno Slab > Goose Creek/Molly Gulch Campground > South Platte > Colorado"
+	},
+	{ "Route": "Glen's Pancake", "Location": "Turkey Rock > Turkey Rocks > South Platte > Colorado" },
+	{
 		"Route": "Left Handed Jew",
-		"Location": "Turkey Perch > Turkey Rocks > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/105749284/left-handed-jew",
-		"Avg Stars": 3.1,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": "5.7+",
-		"Pitches": 1,
-		"Length": 70,
-		"Area Latitude": 39.11904,
-		"Area Longitude": -105.23958
+		"Location": "Turkey Perch > Turkey Rocks > South Platte > Colorado"
+	},
+	{
+		"Route": "Honky Jam Ass Crack",
+		"Location": "Turkey Perch > Turkey Rocks > South Platte > Colorado"
+	},
+	{
+		"Route": "Lack Crack (originally entered as Moderate 2)",
+		"Location": "Turkey Perch > Turkey Rocks > South Platte > Colorado"
+	},
+	{
+		"Route": "Turkey Sandwich",
+		"Location": "Turkey Perch > Turkey Rocks > South Platte > Colorado"
 	},
 	{
 		"Route": "Easy Peasy",
-		"Location": "D. The Badlands > Black Creek Wall > Old Mill Area > Staunton State Park > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/122226628/easy-peasy",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 90,
-		"Area Latitude": 39.52364,
-		"Area Longitude": -105.38746
+		"Location": "D. The Badlands > Black Creek Wall > Old Mill Area > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Roughcut aka Small Tree Route",
+		"Location": "D. The Badlands > Black Creek Wall > Old Mill Area > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Red Sling of Courage",
+		"Location": "1. Sawmill West Buttress > Sawmill Crag > Old Mill Area > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Harvey",
+		"Location": "Permission Wall > Meadow Dome > Staunton Rocks > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "The Marmot that Ate New York",
+		"Location": "Marmot Tower > Staunton Rocks > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "The Book of Marmot",
+		"Location": "Marmot Tower > Staunton Rocks > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Mongolian Boodog",
+		"Location": "The Whistle Pig > Staunton Rocks > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Shimmy Shimmy Strut Strut",
+		"Location": "The Ranch Hand > Staunton Rocks > Staunton State Park > South Platte > Colorado"
 	},
 	{
 		"Route": "Raisin’ in the Sun",
-		"Location": "Park View Dome > Staunton Rocks > Staunton State Park > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/121622366/raisin-in-the-sun",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.6,
-		"Pitches": 1,
-		"Length": 80,
-		"Area Latitude": 39.5176,
-		"Area Longitude": -105.3997
+		"Location": "Park View Dome > Staunton Rocks > Staunton State Park > South Platte > Colorado"
 	},
 	{
+		"Route": "Carrion Climbing",
+		"Location": "Park View Dome > Staunton Rocks > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Cathartes Aura",
+		"Location": "Park View Dome > Staunton Rocks > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Da Vinci's Robot",
+		"Location": "Bombardier Dome > Staunton Rocks > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Big Squirrels Don't Cry",
+		"Location": "2. Canyon Amphitheater > The Pooka > Staunton Rocks > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "The Cookie Thief",
+		"Location": "2. Canyon Amphitheater > The Pooka > Staunton Rocks > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Captain Underpants",
+		"Location": "2. Canyon Amphitheater > The Pooka > Staunton Rocks > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Io",
+		"Location": "3. Astronomy Wall > The Pooka > Staunton Rocks > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Night King",
+		"Location": "1. King's Landing > The Pooka > Staunton Rocks > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Dragonglass",
+		"Location": "1. King's Landing > The Pooka > Staunton Rocks > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Winter Is Coming",
+		"Location": "1. King's Landing > The Pooka > Staunton Rocks > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Viserion",
+		"Location": "1. King's Landing > The Pooka > Staunton Rocks > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Black Bart",
+		"Location": "2. Blazing Saddles > Dines Cliff > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Campfire",
+		"Location": "2. Blazing Saddles > Dines Cliff > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Dig the Groove",
+		"Location": "3. Dines Amphitheater > Dines Cliff > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Dine-o-mite",
+		"Location": "3. Dines Amphitheater > Dines Cliff > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Scooby-Doo",
+		"Location": "5. Cartoon Wall > Dines Cliff > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "The Volunteers Did It",
+		"Location": "4. Trail Boss > Dines Cliff > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Avenue of the Immigrants",
+		"Location": "6. The Lower East Side > Dines Cliff > Staunton State Park > South Platte > Colorado"
+	},
+	{ "Route": "Muninn", "Location": "The Raven > Staunton State Park > South Platte > Colorado" },
+	{
 		"Route": "Red Herring",
-		"Location": "The Red Wall > Staunton State Park > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/114233684/red-herring",
-		"Avg Stars": 2.8,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 90,
-		"Area Latitude": 39.51391,
-		"Area Longitude": -105.39062
+		"Location": "The Red Wall > Staunton State Park > South Platte > Colorado"
 	},
 	{
 		"Route": "This Way to Tasty",
-		"Location": "Death by Wildlife > Beyond Authority > Staunton State Park > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/117123108/this-way-to-tasty",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 95,
-		"Area Latitude": 39.52441,
-		"Area Longitude": -105.41653
+		"Location": "Death by Wildlife > Beyond Authority > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Happy Birthday Hantavirus",
+		"Location": "Death by Wildlife > Beyond Authority > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Shrek'd",
+		"Location": "Never Winter Wall > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "B-Man",
+		"Location": "Never Winter Wall > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Fiona'd",
+		"Location": "Never Winter Wall > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Summer Breeze",
+		"Location": "Never Winter Wall > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "Stachel's Solar Suitcases",
+		"Location": "Never Winter Wall > Staunton State Park > South Platte > Colorado"
+	},
+	{
+		"Route": "The Fledgling",
+		"Location": "Main Wall > Reynolds Wall > Staunton State Park > South Platte > Colorado"
 	},
 	{
 		"Route": "Peace Train",
-		"Location": "Left Side > Reynolds Wall > Staunton State Park > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/122212815/peace-train",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 115,
-		"Area Latitude": 39.50013,
-		"Area Longitude": -105.37806
+		"Location": "Left Side > Reynolds Wall > Staunton State Park > South Platte > Colorado"
 	},
 	{
 		"Route": "D9 - Easy, Left Angler",
-		"Location": "Main Area > Sedalia Crack Bouldering > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/111669129/d9-easy-left-angler",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "TR",
-		"Rating": 5.7,
-		"Pitches": 1,
-		"Length": 13,
-		"Area Latitude": 39.37678,
-		"Area Longitude": -105.10127
+		"Location": "Main Area > Sedalia Crack Bouldering > South Platte > Colorado"
 	},
 	{
 		"Route": "C3 - Long Chimney",
-		"Location": "Main Area > Sedalia Crack Bouldering > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/111660028/c3-long-chimney",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "TR",
-		"Rating": "5.7 R",
-		"Pitches": 1,
-		"Length": 20,
-		"Area Latitude": 39.37678,
-		"Area Longitude": -105.10127
+		"Location": "Main Area > Sedalia Crack Bouldering > South Platte > Colorado"
+	},
+	{
+		"Route": "Margaritaville",
+		"Location": "Feral Petunia > Badger Flats > Badger Mountain > South Platte > Colorado"
 	},
 	{
 		"Route": "Annual Bonus",
-		"Location": "Feral Petunia > Badger Flats > Badger Mountain > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/119084365/annual-bonus",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": "",
-		"Area Latitude": 39.10988,
-		"Area Longitude": -105.50316
+		"Location": "Feral Petunia > Badger Flats > Badger Mountain > South Platte > Colorado"
 	},
 	{
 		"Route": "Three Amigos",
-		"Location": "Chicken Rock > Valley of The Chickens > Badger Flats > Badger Mountain > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/113584940/three-amigos",
-		"Avg Stars": 3.1,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 100,
-		"Area Latitude": 39.10057,
-		"Area Longitude": -105.52353
+		"Location": "Chicken Rock > Valley of The Chickens > Badger Flats > Badger Mountain > South Platte > Colorado"
 	},
 	{
 		"Route": "Just Flew the Coup",
-		"Location": "Chicken Rock > Valley of The Chickens > Badger Flats > Badger Mountain > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/106538318/just-flew-the-coup",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.6,
-		"Pitches": 1,
-		"Length": 70,
-		"Area Latitude": 39.10057,
-		"Area Longitude": -105.52353
+		"Location": "Chicken Rock > Valley of The Chickens > Badger Flats > Badger Mountain > South Platte > Colorado"
+	},
+	{
+		"Route": "Chicken Tenders",
+		"Location": "Left Wing > Valley of The Chickens > Badger Flats > Badger Mountain > South Platte > Colorado"
+	},
+	{
+		"Route": "Mysterious Bertie",
+		"Location": "Duck Rock > Badger Flats > Badger Mountain > South Platte > Colorado"
+	},
+	{
+		"Route": "Candy Man",
+		"Location": "Duck Rock > Badger Flats > Badger Mountain > South Platte > Colorado"
 	},
 	{
 		"Route": "Shady Character",
-		"Location": "Black Dog Rock > Dog Rocks > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/113615398/shady-character",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 39.08638,
-		"Area Longitude": -105.405
+		"Location": "Black Dog Rock > Dog Rocks > South Platte > Colorado"
 	},
-	{
-		"Route": "Bucolic",
-		"Location": "Inventions in Nature > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/118851398/bucolic",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.8+",
-		"Pitches": 1,
-		"Length": 70,
-		"Area Latitude": 39.16196,
-		"Area Longitude": -105.4756
-	},
+	{ "Route": "Bucolic", "Location": "Inventions in Nature > South Platte > Colorado" },
 	{
 		"Route": "Eagleview Middle School",
-		"Location": "Inventions in Nature > South Platte > Colorado",
-		"URL": "https://www.mountainproject.com/route/118852574/eagleview-middle-school",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 100,
-		"Area Latitude": 39.16196,
-		"Area Longitude": -105.4756
+		"Location": "Inventions in Nature > South Platte > Colorado"
+	},
+	{ "Route": "Duck Dinner", "Location": "REMF Wall > Crystal Fortress > South Platte > Colorado" },
+	{
+		"Route": "First Impressions",
+		"Location": "Little Eiger > Clear Creek Canyon > Golden > Colorado"
 	},
 	{
-		"Route": "5th of July",
-		"Location": "High Wire Crag > Clear Creek Canyon > Golden > Colorado",
-		"URL": "https://www.mountainproject.com/route/105748271/5th-of-july",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": "",
-		"Area Latitude": 39.7378,
-		"Area Longitude": -105.3196
+		"Route": "Herbal Essence",
+		"Location": "Little Eiger > Clear Creek Canyon > Golden > Colorado"
 	},
+	{ "Route": "5th of July", "Location": "High Wire Crag > Clear Creek Canyon > Golden > Colorado" },
 	{
-		"Route": "Skimbleshanks",
-		"Location": "The Catslab > Clear Creek Canyon > Golden > Colorado",
-		"URL": "https://www.mountainproject.com/route/105749530/skimbleshanks",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.8-",
-		"Pitches": 1,
-		"Length": 130,
-		"Area Latitude": 39.7428,
-		"Area Longitude": -105.4043
+		"Route": "Everything Rhymes with Orange",
+		"Location": "High Wire Crag > Clear Creek Canyon > Golden > Colorado"
 	},
+	{ "Route": "Skimbleshanks", "Location": "The Catslab > Clear Creek Canyon > Golden > Colorado" },
+	{ "Route": "Crystal Cat", "Location": "The Catslab > Clear Creek Canyon > Golden > Colorado" },
+	{
+		"Route": "Mr. Mistoffeles",
+		"Location": "The Catslab > Clear Creek Canyon > Golden > Colorado"
+	},
+	{ "Route": "MacCavity", "Location": "The Catslab > Clear Creek Canyon > Golden > Colorado" },
+	{ "Route": "Li'l Snoopy", "Location": "The Dog House > Clear Creek Canyon > Golden > Colorado" },
 	{
 		"Route": "Mineral Museum",
-		"Location": "The Crystal Tower > Clear Creek Canyon > Golden > Colorado",
-		"URL": "https://www.mountainproject.com/route/105749800/mineral-museum",
-		"Avg Stars": 3.1,
-		"Your Stars": -1,
-		"Route Type": "Trad, Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 75,
-		"Area Latitude": 39.74003,
-		"Area Longitude": -105.41468
+		"Location": "The Crystal Tower > Clear Creek Canyon > Golden > Colorado"
+	},
+	{
+		"Route": "Coffin Crack",
+		"Location": "The Sports Wall > Clear Creek Canyon > Golden > Colorado"
 	},
 	{
 		"Route": "Lunchmoney",
-		"Location": "Lower Capitalist Crag > Capitalist Crag > Clear Creek Canyon > Golden > Colorado",
-		"URL": "https://www.mountainproject.com/route/105756478/lunchmoney",
-		"Avg Stars": 3.1,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 100,
-		"Area Latitude": 39.73948,
-		"Area Longitude": -105.32756
+		"Location": "Lower Capitalist Crag > Capitalist Crag > Clear Creek Canyon > Golden > Colorado"
 	},
 	{
-		"Route": "Guppy",
-		"Location": "Creek Side > Clear Creek Canyon > Golden > Colorado",
-		"URL": "https://www.mountainproject.com/route/105763794/guppy",
-		"Avg Stars": 3.5,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 115,
-		"Area Latitude": 39.74102,
-		"Area Longitude": -105.41042
+		"Route": "Vitamin-N",
+		"Location": "Lower Capitalist Crag > Capitalist Crag > Clear Creek Canyon > Golden > Colorado"
 	},
+	{ "Route": "Guppy", "Location": "Creek Side > Clear Creek Canyon > Golden > Colorado" },
+	{ "Route": "Fish and Chips", "Location": "Creek Side > Clear Creek Canyon > Golden > Colorado" },
+	{ "Route": "Furlough Day", "Location": "Creek Side > Clear Creek Canyon > Golden > Colorado" },
+	{ "Route": "The Oyster Bar", "Location": "Creek Side > Clear Creek Canyon > Golden > Colorado" },
 	{
-		"Route": "Fish and Chips",
-		"Location": "Creek Side > Clear Creek Canyon > Golden > Colorado",
-		"URL": "https://www.mountainproject.com/route/105763797/fish-and-chips",
-		"Avg Stars": 3.4,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 115,
-		"Area Latitude": 39.74102,
-		"Area Longitude": -105.41042
+		"Route": "Better Than Most Around These Parts",
+		"Location": "A Little Piece of South Dakota > Clear Creek Canyon > Golden > Colorado"
 	},
 	{
 		"Route": "Made In The Shade",
-		"Location": "The Canal Zone > Clear Creek Canyon > Golden > Colorado",
-		"URL": "https://www.mountainproject.com/route/106210224/made-in-the-shade",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9-",
-		"Pitches": 1,
-		"Length": 125,
-		"Area Latitude": 39.75032,
-		"Area Longitude": -105.24779
+		"Location": "The Canal Zone > Clear Creek Canyon > Golden > Colorado"
+	},
+	{ "Route": "Berga", "Location": "The Canal Zone > Clear Creek Canyon > Golden > Colorado" },
+	{ "Route": "The Whopper", "Location": "The Canal Zone > Clear Creek Canyon > Golden > Colorado" },
+	{
+		"Route": "The Morning Poos",
+		"Location": "Breakfast Cliff > Clear Creek Canyon > Golden > Colorado"
+	},
+	{
+		"Route": "Fill In The Blanks",
+		"Location": "East Colfax > Clear Creek Canyon > Golden > Colorado"
+	},
+	{
+		"Route": "Steve's Wild Turkey Day",
+		"Location": "East Colfax > Clear Creek Canyon > Golden > Colorado"
+	},
+	{ "Route": "Wild Bore", "Location": "East Colfax > Clear Creek Canyon > Golden > Colorado" },
+	{ "Route": "I Did! I Did!", "Location": "East Colfax > Clear Creek Canyon > Golden > Colorado" },
+	{ "Route": "Joyride", "Location": "The Fiscal Cliff > Clear Creek Canyon > Golden > Colorado" },
+	{
+		"Route": "Fleas and Ticks",
+		"Location": "Cats vs. Dogs Wall > Clear Creek Canyon > Golden > Colorado"
+	},
+	{
+		"Route": "The Purrrfect Puppy",
+		"Location": "Cats vs. Dogs Wall > Clear Creek Canyon > Golden > Colorado"
+	},
+	{
+		"Route": "Elephant's Child",
+		"Location": "Other Critters > Clear Creek Canyon > Golden > Colorado"
+	},
+	{
+		"Route": "Harvey",
+		"Location": "The Big Five > The Safari > Clear Creek Canyon > Golden > Colorado"
+	},
+	{
+		"Route": "Lion King",
+		"Location": "The Big Five > The Safari > Clear Creek Canyon > Golden > Colorado"
 	},
 	{
 		"Route": "The Adventures of Rocky and Bullwinkle",
-		"Location": "Live Action Wall > Clear Creek Canyon > Golden > Colorado",
-		"URL": "https://www.mountainproject.com/route/112528287/the-adventures-of-rocky-and-bullwinkle",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 90,
-		"Area Latitude": 39.74242,
-		"Area Longitude": -105.40955
+		"Location": "Live Action Wall > Clear Creek Canyon > Golden > Colorado"
+	},
+	{ "Route": "Afterlife", "Location": "The Graveyard > Clear Creek Canyon > Golden > Colorado" },
+	{
+		"Route": "Cruisin' Caskets",
+		"Location": "The Graveyard > Clear Creek Canyon > Golden > Colorado"
+	},
+	{ "Route": "Zika Virus", "Location": "Death Valley > Clear Creek Canyon > Golden > Colorado" },
+	{
+		"Route": "Pillar of Salt",
+		"Location": "The Pearly Gates > Clear Creek Canyon > Golden > Colorado"
+	},
+	{ "Route": "Dragon Roll", "Location": "Sushi Slab > Clear Creek Canyon > Golden > Colorado" },
+	{ "Route": "Tempura Flakes", "Location": "Sushi Slab > Clear Creek Canyon > Golden > Colorado" },
+	{ "Route": "Sake Bomb", "Location": "Sushi Slab > Clear Creek Canyon > Golden > Colorado" },
+	{ "Route": "Great Barrier Reef", "Location": "The Oz > Clear Creek Canyon > Golden > Colorado" },
+	{
+		"Route": "Big Dihedral",
+		"Location": "Brown Cloud Rocks > North Table Mountain/Golden Cliffs > Golden > Colorado"
 	},
 	{
-		"Route": "Great Barrier Reef",
-		"Location": "The Oz > Clear Creek Canyon > Golden > Colorado",
-		"URL": "https://www.mountainproject.com/route/114949932/great-barrier-reef",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9-",
-		"Pitches": 1,
-		"Length": 90,
-		"Area Latitude": 39.7422,
-		"Area Longitude": -105.40942
+		"Route": "Old Roof Route aka Lemons, Limes, and Tangerines",
+		"Location": "Brown Cloud Rocks > North Table Mountain/Golden Cliffs > Golden > Colorado"
 	},
 	{
-		"Route": "Carjack Crack",
-		"Location": "Colorado School of Mines > Golden > Colorado",
-		"URL": "https://www.mountainproject.com/route/122369962/carjack-crack",
-		"Avg Stars": 3.3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": 5.7,
-		"Pitches": 1,
-		"Length": 25,
-		"Area Latitude": 39.75142,
-		"Area Longitude": -105.22172
+		"Route": "Killian's Dead",
+		"Location": "Brown Cloud Rocks > North Table Mountain/Golden Cliffs > Golden > Colorado"
+	},
+	{
+		"Route": "This Ain't Naturita, Pilgrim",
+		"Location": "Overhang Area > North Table Mountain/Golden Cliffs > Golden > Colorado"
+	},
+	{
+		"Route": "Hippy School",
+		"Location": "Overhang Area > North Table Mountain/Golden Cliffs > Golden > Colorado"
+	},
+	{
+		"Route": "Drinking Wine with the Chinese (aka The Jizzler)",
+		"Location": "Table Top Area > North Table Mountain/Golden Cliffs > Golden > Colorado"
+	},
+	{
+		"Route": "Slot to Trot",
+		"Location": "Winter Warmer Area > North Table Mountain/Golden Cliffs > Golden > Colorado"
+	},
+	{
+		"Route": "Liar Liar",
+		"Location": "The Trad Lands > North Table Mountain/Golden Cliffs > Golden > Colorado"
+	},
+	{
+		"Route": "Brain Cloud aka Shadow Arete",
+		"Location": "MBA Buttress > North Table Mountain/Golden Cliffs > Golden > Colorado"
+	},
+	{
+		"Route": "Mother Grendel",
+		"Location": "The Grendel > Golden Gate Canyon SP > Golden > Colorado"
+	},
+	{ "Route": "Carjack Crack", "Location": "Colorado School of Mines > Golden > Colorado" },
+	{
+		"Route": "5.8 Crack",
+		"Location": "Lookout Mountain Crag > Lookout Mountain Road > Golden > Colorado"
+	},
+	{
+		"Route": "Changing Corners",
+		"Location": "Lookout Mountain Crag > Lookout Mountain Road > Golden > Colorado"
+	},
+	{
+		"Route": "BB Gun",
+		"Location": "Lover's Leap on Beaver Brook > Lookout Mountain Road > Golden > Colorado"
+	},
+	{
+		"Route": "BB King",
+		"Location": "Lover's Leap on Beaver Brook > Lookout Mountain Road > Golden > Colorado"
+	},
+	{
+		"Route": "BB Brain",
+		"Location": "Lover's Leap on Beaver Brook > Lookout Mountain Road > Golden > Colorado"
+	},
+	{
+		"Route": "Three Little Roofs",
+		"Location": "B. First, Second, and Third Triangles > B. Upper Tier > Tiers of Zion > Lookout Mountain Road > Golden > Colorado"
+	},
+	{
+		"Route": "Undisclosed Location",
+		"Location": "B. First, Second, and Third Triangles > B. Upper Tier > Tiers of Zion > Lookout Mountain Road > Golden > Colorado"
+	},
+	{
+		"Route": "Three Little Bats",
+		"Location": "B. First, Second, and Third Triangles > B. Upper Tier > Tiers of Zion > Lookout Mountain Road > Golden > Colorado"
+	},
+	{
+		"Route": "The Joy of My World (is in Zion)",
+		"Location": "B. First, Second, and Third Triangles > B. Upper Tier > Tiers of Zion > Lookout Mountain Road > Golden > Colorado"
+	},
+	{
+		"Route": "Trenchtown",
+		"Location": "A. East Wall > C. Lower Tier > Tiers of Zion > Lookout Mountain Road > Golden > Colorado"
 	},
 	{
 		"Route": "Three Little Birds",
-		"Location": "C. Middle and West Walls > C. Lower Tier > Tiers of Zion > Lookout Mountain Road > Golden > Colorado",
-		"URL": "https://www.mountainproject.com/route/110230055/three-little-birds",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 65,
-		"Area Latitude": 39.74393,
-		"Area Longitude": -105.24208
+		"Location": "C. Middle and West Walls > C. Lower Tier > Tiers of Zion > Lookout Mountain Road > Golden > Colorado"
+	},
+	{
+		"Route": "Potholes",
+		"Location": "Red Twin > Twin Spires > Garden of the Gods > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Potholes Variation",
+		"Location": "Red Twin > Twin Spires > Garden of the Gods > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "End of an Era",
+		"Location": "East Face > Kindergarten Rock > Garden of the Gods > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Beginning of the End a/k/a Sandy Monster",
+		"Location": "East Face > Kindergarten Rock > Garden of the Gods > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Death of a Dinosaur",
+		"Location": "East Face > Kindergarten Rock > Garden of the Gods > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Cowboy Boot Crack",
+		"Location": "West Face > North Gateway Rock > Garden of the Gods > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Finger Ramp",
+		"Location": "Southwest Face / Finger Face > North Gateway Rock > Garden of the Gods > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Silver Spoon",
+		"Location": "East Side > South Gateway Rock > Garden of the Gods > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Kendlee",
+		"Location": "The Pinnacle > North Cheyenne Canyon > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Balance",
+		"Location": "The Pinnacle > North Cheyenne Canyon > Colorado Springs > Colorado"
 	},
 	{
 		"Route": "Old Aid",
-		"Location": "Creekside Wall > North Cheyenne Canyon > Colorado Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/105754540/old-aid",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": "",
-		"Area Latitude": 38.79164,
-		"Area Longitude": -104.87645
+		"Location": "Creekside Wall > North Cheyenne Canyon > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Supersonic",
+		"Location": "Flying Buttress > North Cheyenne Canyon > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Wendy",
+		"Location": "South Buttress and Tinseltown > North Cheyenne Canyon > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Royal Wedding",
+		"Location": "South Buttress and Tinseltown > North Cheyenne Canyon > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Cat Don't Piss on My Rope aka Cat Piss",
+		"Location": "Company Wall > North Cheyenne Canyon > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Brian's Arete",
+		"Location": "Company Wall > North Cheyenne Canyon > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Five Felonies",
+		"Location": "Company Wall > North Cheyenne Canyon > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Unknown on the Right",
+		"Location": "Saint Peter's Overlook > Old Stage Road > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Balloon Boy",
+		"Location": "West Face of Hurricane Wall > Hurricane Ridge > Old Stage Road > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Storm Surge",
+		"Location": "West Face of Hurricane Wall > Hurricane Ridge > Old Stage Road > Colorado Springs > Colorado"
 	},
 	{
 		"Route": "Panopticon",
-		"Location": "Grayback Wall > Grayback Peak > Old Stage Road > Colorado Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/122768968/panopticon",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 90,
-		"Area Latitude": 38.71338,
-		"Area Longitude": -104.9012
+		"Location": "Grayback Wall > Grayback Peak > Old Stage Road > Colorado Springs > Colorado"
 	},
 	{
 		"Route": "Flint Knap",
-		"Location": "Obsidian Wall > Grayback Peak > Old Stage Road > Colorado Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/122769379/flint-knap",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 65,
-		"Area Latitude": 38.71354,
-		"Area Longitude": -104.90141
+		"Location": "Obsidian Wall > Grayback Peak > Old Stage Road > Colorado Springs > Colorado"
 	},
 	{
 		"Route": "Emerald Face",
-		"Location": "Emerald Wall > Grayback Peak > Old Stage Road > Colorado Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/122769722/emerald-face",
-		"Avg Stars": 4,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 145,
-		"Area Latitude": 38.71347,
-		"Area Longitude": -104.90147
+		"Location": "Emerald Wall > Grayback Peak > Old Stage Road > Colorado Springs > Colorado"
 	},
 	{
 		"Route": "Appalachian Mud Squid",
-		"Location": "Appalachian Mud Squid Wall > Grayback Peak > Old Stage Road > Colorado Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/122770163/appalachian-mud-squid",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 110,
-		"Area Latitude": 38.71336,
-		"Area Longitude": -104.90149
+		"Location": "Appalachian Mud Squid Wall > Grayback Peak > Old Stage Road > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Electric Swimming Pool",
+		"Location": "Sayers' Wall > Red Rock Canyon Open Space > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "The Mad Scientist",
+		"Location": "Sayers' Wall > Red Rock Canyon Open Space > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "The Mantel of the Leprechaun",
+		"Location": "Sayers' Wall > Red Rock Canyon Open Space > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Mad Scientist Variation, The",
+		"Location": "Sayers' Wall > Red Rock Canyon Open Space > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Monosmear",
+		"Location": "Quarry Wall > Red Rock Canyon Open Space > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Xenolith",
+		"Location": "Quarry Wall > Red Rock Canyon Open Space > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "In the Way",
+		"Location": "Quarry Wall > Red Rock Canyon Open Space > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Aphrodite",
+		"Location": "The Whale > Red Rock Canyon Open Space > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Aborigine",
+		"Location": "The Whale > Red Rock Canyon Open Space > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Blow Tube Envy",
+		"Location": "The Whale > Red Rock Canyon Open Space > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Mister MIA",
+		"Location": "The Whale > Red Rock Canyon Open Space > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Just Happens",
+		"Location": "The Whale > Red Rock Canyon Open Space > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Virgin Bolters",
+		"Location": "The Whale > Red Rock Canyon Open Space > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "The Thin Line",
+		"Location": "The Whale > Red Rock Canyon Open Space > Colorado Springs > Colorado"
 	},
 	{
 		"Route": "Solar Flare",
-		"Location": "Solar Slab > Red Rock Canyon Open Space > Colorado Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/105841903/solar-flare",
-		"Avg Stars": 3.1,
-		"Your Stars": -1,
-		"Route Type": "Trad, Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": "",
-		"Area Latitude": 38.845,
-		"Area Longitude": -104.8823
+		"Location": "Solar Slab > Red Rock Canyon Open Space > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Eclipse This",
+		"Location": "Solar Slab > Red Rock Canyon Open Space > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Mo Verde",
+		"Location": "Wiggins' Wall > Red Rock Canyon Open Space > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "The Youth",
+		"Location": "Wiggins' Wall > Red Rock Canyon Open Space > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Storm Surge",
+		"Location": "Ripple Wall > Red Rock Canyon Open Space > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Wake to Wake",
+		"Location": "Ripple Wall > Red Rock Canyon Open Space > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Jumping the Gun",
+		"Location": "Ripple Wall > Red Rock Canyon Open Space > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Eddyline",
+		"Location": "Ripple Wall > Red Rock Canyon Open Space > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Pockets a' Plenty",
+		"Location": "Whale's Tail > Red Rock Canyon Open Space > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Pete's Classic Corner",
+		"Location": "Coyote Wall > Red Rock Canyon Open Space > Colorado Springs > Colorado"
 	},
 	{
 		"Route": "Dakota Righthand (submitted as Sunday Morning Brunch 1)",
-		"Location": "Dakota Hogback (submitted as Bear Canyon) > Red Rock Canyon Open Space > Colorado Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/122102964/dakota-righthand-submitted-as-sunday-morning-brunch-1",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.5,
-		"Pitches": 1,
-		"Length": 60,
-		"Area Latitude": 38.82251,
-		"Area Longitude": -104.88797
+		"Location": "Dakota Hogback (submitted as Bear Canyon) > Red Rock Canyon Open Space > Colorado Springs > Colorado"
 	},
 	{
 		"Route": "Nirvana",
-		"Location": "Nirvana Wall > Stanley Canyon > Air Force Academy > Colorado Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/119655182/nirvana",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport, TR",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 70,
-		"Area Latitude": 38.98746,
-		"Area Longitude": -104.90827
+		"Location": "Nirvana Wall > Stanley Canyon > Air Force Academy > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "22 Rats",
+		"Location": "Nirvana Wall > Stanley Canyon > Air Force Academy > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "The Black Line",
+		"Location": "Nirvana Wall > Stanley Canyon > Air Force Academy > Colorado Springs > Colorado"
 	},
 	{
 		"Route": "Splitter",
-		"Location": "The Perch > Mt. Harmon > Air Force Academy > Colorado Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/119466982/splitter",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 110,
-		"Area Latitude": 38.99522,
-		"Area Longitude": -104.90971
+		"Location": "The Perch > Mt. Harmon > Air Force Academy > Colorado Springs > Colorado"
 	},
 	{
 		"Route": "Ratatouille",
-		"Location": "The Perch > Mt. Harmon > Air Force Academy > Colorado Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/119881444/ratatouille",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 38.99522,
-		"Area Longitude": -104.90971
+		"Location": "The Perch > Mt. Harmon > Air Force Academy > Colorado Springs > Colorado"
+	},
+	{
+		"Route": "Dihedral Route",
+		"Location": "Duncan's Ridge > Horsetooth Reservoir > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Apples",
+		"Location": "Duncan's Ridge > Horsetooth Reservoir > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Liberty's Last Stand",
+		"Location": "Duncan's Ridge > Horsetooth Reservoir > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Cheeseburger in Paradise",
+		"Location": "Duncan's Ridge > Horsetooth Reservoir > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Oranges",
+		"Location": "Duncan's Ridge > Horsetooth Reservoir > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Purdy Dirty",
+		"Location": "Duncan's Ridge > Horsetooth Reservoir > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Unknown North",
+		"Location": "Duncan's Ridge > Horsetooth Reservoir > Fort Collins > Colorado"
+	},
+	{
+		"Route": "B-Route",
+		"Location": "Duncan's Ridge > Horsetooth Reservoir > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Unnamed Overhang",
+		"Location": "Duncan's Ridge > Horsetooth Reservoir > Fort Collins > Colorado"
+	},
+	{
+		"Route": "After Work Romp",
+		"Location": "Duncan's Ridge > Horsetooth Reservoir > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Final Finger",
+		"Location": "Torture Chamber > Horsetooth Reservoir > Fort Collins > Colorado"
 	},
 	{
 		"Route": "Presley Arête",
-		"Location": "Torture Chamber > Horsetooth Reservoir > Fort Collins > Colorado",
-		"URL": "https://www.mountainproject.com/route/119067051/presley-arete",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 25,
-		"Area Latitude": 40.52969,
-		"Area Longitude": -105.13763
+		"Location": "Torture Chamber > Horsetooth Reservoir > Fort Collins > Colorado"
+	},
+	{
+		"Route": "West Flake",
+		"Location": "Torture Chamber > Horsetooth Reservoir > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Unknown Smaller Roof Crack",
+		"Location": "Torture Chamber > Horsetooth Reservoir > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Unknown 5.9 Arete TR",
+		"Location": "Torture Chamber > Horsetooth Reservoir > Fort Collins > Colorado"
 	},
 	{
 		"Route": "Aerial Surveillance",
-		"Location": "North Horsetooth Ridge > Horsetooth Reservoir > Fort Collins > Colorado",
-		"URL": "https://www.mountainproject.com/route/118870246/aerial-surveillance",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": "5.8-",
-		"Pitches": 1,
-		"Length": 60,
-		"Area Latitude": 40.60839,
-		"Area Longitude": -105.17039
+		"Location": "North Horsetooth Ridge > Horsetooth Reservoir > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Between the Lines",
+		"Location": "North Horsetooth Ridge > Horsetooth Reservoir > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Smooth Moves Dihedral",
+		"Location": "The Dungeon > Horsetooth Reservoir > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Slab Happy",
+		"Location": "The South Slabs > Greyrock > Poudre Canyon > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Crack-a-Goo-Goo",
+		"Location": "The Ripple > Greyrock > Poudre Canyon > Fort Collins > Colorado"
 	},
 	{
 		"Route": "Bananarête",
-		"Location": "North Face > Crystal Wall > Poudre Canyon > Fort Collins > Colorado",
-		"URL": "https://www.mountainproject.com/route/107219523/bananarete",
-		"Avg Stars": 2.8,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 75,
-		"Area Latitude": 40.6936,
-		"Area Longitude": -105.37656
+		"Location": "North Face > Crystal Wall > Poudre Canyon > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Saline Lock",
+		"Location": "North Face > Crystal Wall > Poudre Canyon > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Clean-Up on Aisle 9",
+		"Location": "North Face > Crystal Wall > Poudre Canyon > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Buttercup",
+		"Location": "North Face > Crystal Wall > Poudre Canyon > Fort Collins > Colorado"
+	},
+	{
+		"Route": "County Line",
+		"Location": "Southwest Alcove > Crystal Wall > Poudre Canyon > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Churchill Rejects",
+		"Location": "The Chamber > The Palace > Poudre Canyon > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Sunday Times (aka Sunday Paper)",
+		"Location": "The Palace Pages > The Palace > Poudre Canyon > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Orange You Glad",
+		"Location": "The Poudre Face > The Palace > Poudre Canyon > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Cheerleaders Gone Hippie",
+		"Location": "The Poudre Face > The Palace > Poudre Canyon > Fort Collins > Colorado"
 	},
 	{
 		"Route": "Prince Mushroom",
-		"Location": "Kingfin Crag > Critical Mass Area > West of Rustic > Poudre Canyon > Fort Collins > Colorado",
-		"URL": "https://www.mountainproject.com/route/120496860/prince-mushroom",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 40.71205,
-		"Area Longitude": -105.72468
+		"Location": "Kingfin Crag > Critical Mass Area > West of Rustic > Poudre Canyon > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Mega Bloks",
+		"Location": "Mega-Bloks Wall > West Side Crags > Poudre Falls > West of Rustic > Poudre Canyon > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Porter Slab",
+		"Location": "Horizon Wall > West Side Crags > Poudre Falls > West of Rustic > Poudre Canyon > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Sidewalk Sam",
+		"Location": "Hall of Fame > Boston Peak > West of Rustic > Poudre Canyon > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Adults Only Picnic",
+		"Location": "Picnic Rock > Poudre Canyon > Fort Collins > Colorado"
 	},
 	{
 		"Route": "Three Flakes to the Wind",
-		"Location": "Happy Hour Crag > Poudre Canyon > Fort Collins > Colorado",
-		"URL": "https://www.mountainproject.com/route/119235746/three-flakes-to-the-wind",
-		"Avg Stars": 2.8,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 100,
-		"Area Latitude": 40.70022,
-		"Area Longitude": -105.25132
+		"Location": "Happy Hour Crag > Poudre Canyon > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Sun Deck Specials",
+		"Location": "Happy Hour Crag > Poudre Canyon > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Go and Flow",
+		"Location": "Upper Fruit Wall > Low Hanging Fruit Crag > Poudre Canyon > Fort Collins > Colorado"
+	},
+	{
+		"Route": "Solar Slab",
+		"Location": "Grazing Allotment Crag > Creedmore Lakes Road > Red Feather Lakes > Fort Collins > Colorado"
 	},
 	{
 		"Route": "Black Dog",
-		"Location": "The Overlook (Arthur's Rock) > Arthur's Rock > Lory State Park > Fort Collins > Colorado",
-		"URL": "https://www.mountainproject.com/route/116999768/black-dog",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport, TR",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 75,
-		"Area Latitude": 40.56634,
-		"Area Longitude": -105.18381
+		"Location": "The Overlook (Arthur's Rock) > Arthur's Rock > Lory State Park > Fort Collins > Colorado"
 	},
 	{
-		"Route": "Ligneous Embracer",
-		"Location": "Rock Garden > San Luis Valley > Colorado",
-		"URL": "https://www.mountainproject.com/route/105753418/ligneous-embracer",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": "",
-		"Area Latitude": 37.85137,
-		"Area Longitude": -106.29103
+		"Route": "How The West Was Won",
+		"Location": "Penitente - Inner Canyon > Penitente Canyon > San Luis Valley > Colorado"
+	},
+	{
+		"Route": "Dashboard Variation",
+		"Location": "Canyon Road Cliffs > Witches' Canyon > San Luis Valley > Colorado"
+	},
+	{ "Route": "Ligneous Embracer", "Location": "Rock Garden > San Luis Valley > Colorado" },
+	{ "Route": "Otto", "Location": "Rock Garden > San Luis Valley > Colorado" },
+	{
+		"Route": "Headwaters of Denial",
+		"Location": "Little Black Cliff > Big Meadows > San Luis Valley > Colorado"
+	},
+	{
+		"Route": "Chill Session",
+		"Location": "03. Main Wall > The Promised Land > San Luis Valley > Colorado"
 	},
 	{
 		"Route": "Melaza",
-		"Location": "01. West Side > The Promised Land > San Luis Valley > Colorado",
-		"URL": "https://www.mountainproject.com/route/121638456/melaza",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.6,
-		"Pitches": 1,
-		"Length": 90,
-		"Area Latitude": 37.57138,
-		"Area Longitude": -106.32453
+		"Location": "01. West Side > The Promised Land > San Luis Valley > Colorado"
 	},
 	{
 		"Route": "Enterprise",
-		"Location": "Contest Wall > Sand Gulch > Shelf Road > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/105824687/enterprise",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 70,
-		"Area Latitude": 38.62148,
-		"Area Longitude": -105.23217
+		"Location": "Contest Wall > Sand Gulch > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Tinsel Town aka BR 2?",
+		"Location": "Contest Wall > Sand Gulch > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "The Opportunist",
+		"Location": "Contest Wall > Sand Gulch > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Barney",
+		"Location": "Free Form Wall > Sand Gulch > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Hume's Horror",
+		"Location": "Far Side > The Gallery > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Abracadabra",
+		"Location": "Far Side > The Gallery > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "RAMMESES",
+		"Location": "Far Side > The Gallery > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Creepy Ass Cracker",
+		"Location": "Far Side > The Gallery > Shelf Road > Canon City > Colorado"
 	},
 	{
 		"Route": "First Blood",
-		"Location": "Menses Prow > The Gallery > Shelf Road > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/105764676/first-blood",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 70,
-		"Area Latitude": 38.6199,
-		"Area Longitude": -105.2371
+		"Location": "Menses Prow > The Gallery > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Prima Nocta",
+		"Location": "Menses Prow > The Gallery > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Lamont's Period",
+		"Location": "Menses Prow > The Gallery > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Period Piece",
+		"Location": "Menses Prow > The Gallery > Shelf Road > Canon City > Colorado"
 	},
 	{
 		"Route": "Sick of Tradition",
-		"Location": "Menses Prow > The Gallery > Shelf Road > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/118648351/sick-of-tradition",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 38.6199,
-		"Area Longitude": -105.2371
+		"Location": "Menses Prow > The Gallery > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Killer Queen",
+		"Location": "Mural Wall > The Gallery > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Putain de Critiques",
+		"Location": "Quarry Wall at the Bank > The Bank > Shelf Road > Canon City > Colorado"
 	},
 	{
 		"Route": "Fox on the Run",
-		"Location": "Quarry Wall at the Bank > The Bank > Shelf Road > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/116966091/fox-on-the-run",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.7,
-		"Pitches": 1,
-		"Length": 60,
-		"Area Latitude": 38.64085,
-		"Area Longitude": -105.24069
+		"Location": "Quarry Wall at the Bank > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Let There Be Rock",
+		"Location": "Quarry Wall at the Bank > The Bank > Shelf Road > Canon City > Colorado"
 	},
 	{
 		"Route": "Over The Hill",
-		"Location": "Quarry Wall at the Bank > The Bank > Shelf Road > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/116763466/over-the-hill",
-		"Avg Stars": 2.8,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 60,
-		"Area Latitude": 38.64085,
-		"Area Longitude": -105.24069
+		"Location": "Quarry Wall at the Bank > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Pet Your Friends",
+		"Location": "Quarry Wall at the Bank > The Bank > Shelf Road > Canon City > Colorado"
 	},
 	{
 		"Route": "Fire Marshall Bill",
-		"Location": "Quarry Wall at the Bank > The Bank > Shelf Road > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/118323210/fire-marshall-bill",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 38.64085,
-		"Area Longitude": -105.24069
+		"Location": "Quarry Wall at the Bank > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Christmas Crab",
+		"Location": "Quarry Wall at the Bank > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Genius Jackson",
+		"Location": "Quarry Wall at the Bank > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Herman Crab",
+		"Location": "Quarry Wall at the Bank > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Saints are Sinners",
+		"Location": "Quarry Wall at the Bank > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Pear Shaped",
+		"Location": "Quarry Wall at the Bank > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Béal Mór",
+		"Location": "Quarry Wall at the Bank > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "The Royal Scam",
+		"Location": "Quarry Wall at the Bank > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Fumblerooski",
+		"Location": "Quarry Wall at the Bank > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Friday Football Feast",
+		"Location": "Quarry Wall at the Bank > The Bank > Shelf Road > Canon City > Colorado"
 	},
 	{
 		"Route": "Tuff Shed (aka B&C)",
-		"Location": "01. Piggy Bank > The Bank > Shelf Road > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/107025294/tuff-shed-aka-bc",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 70,
-		"Area Latitude": 38.63547,
-		"Area Longitude": -105.23428
+		"Location": "01. Piggy Bank > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Sty in the Sky",
+		"Location": "01. Piggy Bank > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Alcohollica",
+		"Location": "01. Piggy Bank > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Jesse James",
+		"Location": "02. Bank Rob > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Baby Face Nelson",
+		"Location": "02. Bank Rob > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Poncho and the Three Perverts",
+		"Location": "02. Bank Rob > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Pretty Boy Floyd",
+		"Location": "02. Bank Rob > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Shelfish",
+		"Location": "02. Bank Rob > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Unknown Offwidth Trad Route",
+		"Location": "02. Bank Rob > The Bank > Shelf Road > Canon City > Colorado"
 	},
 	{
 		"Route": "Let Me Out",
-		"Location": "03. Machine Gun Kelly > The Bank > Shelf Road > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/106744592/let-me-out",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 60,
-		"Area Latitude": 38.63524,
-		"Area Longitude": -105.2317
+		"Location": "03. Machine Gun Kelly > The Bank > Shelf Road > Canon City > Colorado"
 	},
 	{
-		"Route": "Ga-stoned Again",
-		"Location": "The Gym > Shelf Road > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/105761217/ga-stoned-again",
-		"Avg Stars": 3.4,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 80,
-		"Area Latitude": 38.6329,
-		"Area Longitude": -105.2165
+		"Route": "I Have a Dream",
+		"Location": "03. Machine Gun Kelly > The Bank > Shelf Road > Canon City > Colorado"
 	},
+	{
+		"Route": "Corner Blitz AKA Tsunami",
+		"Location": "05. Thunder Tactics > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "B/C",
+		"Location": "07. Back To The Future > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Run for the Shadows",
+		"Location": "08. Lesser Of Two Evils > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Provence Côte d'Azur",
+		"Location": "08. Lesser Of Two Evils > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Sleeper",
+		"Location": "10. 2150 Wall > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{ "Route": 2112, "Location": "10. 2150 Wall > The Bank > Shelf Road > Canon City > Colorado" },
+	{
+		"Route": "Tired Arms Recovery Program (T.A.R.P.)",
+		"Location": "10. 2150 Wall > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Deconstructing Harry",
+		"Location": "10. 2150 Wall > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Three Old Dogs",
+		"Location": "11. Toasty Corner > The Bank > Shelf Road > Canon City > Colorado"
+	},
+	{ "Route": "Ga-stoned Again", "Location": "The Gym > Shelf Road > Canon City > Colorado" },
 	{
 		"Route": "Crynoid Corner",
-		"Location": "A. Cactus Cliff Far Left (left of Muscle Beach) > Cactus Cliff > Shelf Road > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/105753616/crynoid-corner",
-		"Avg Stars": 3.1,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.7,
-		"Pitches": 1,
-		"Length": 75,
-		"Area Latitude": 38.6324,
-		"Area Longitude": -105.22269
+		"Location": "A. Cactus Cliff Far Left (left of Muscle Beach) > Cactus Cliff > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Southern Belle",
+		"Location": "B. Cactus Cliff Left (Muscle Beach & right) > Cactus Cliff > Shelf Road > Canon City > Colorado"
 	},
 	{
 		"Route": "Oscar de la Cholla",
-		"Location": "D. Cactus Cliff Right (left of Funkdemental) > Cactus Cliff > Shelf Road > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/105755515/oscar-de-la-cholla",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 75,
-		"Area Latitude": 38.63093,
-		"Area Longitude": -105.22073
+		"Location": "D. Cactus Cliff Right (left of Funkdemental) > Cactus Cliff > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "The Raven",
+		"Location": "D. Cactus Cliff Right (left of Funkdemental) > Cactus Cliff > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Beef Cake Formula",
+		"Location": "D. Cactus Cliff Right (left of Funkdemental) > Cactus Cliff > Shelf Road > Canon City > Colorado"
+	},
+	{
+		"Route": "Too Much Beef and Not Enough Meat",
+		"Location": "D. Cactus Cliff Right (left of Funkdemental) > Cactus Cliff > Shelf Road > Canon City > Colorado"
 	},
 	{
 		"Route": "LaCholla Jackson",
-		"Location": "E. Cactus Cliff Far Right (Funkdemental and right) > Cactus Cliff > Shelf Road > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/105753220/lacholla-jackson",
-		"Avg Stars": 3.1,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.8+",
-		"Pitches": 1,
-		"Length": 75,
-		"Area Latitude": 38.63066,
-		"Area Longitude": -105.21961
+		"Location": "E. Cactus Cliff Far Right (Funkdemental and right) > Cactus Cliff > Shelf Road > Canon City > Colorado"
 	},
 	{
-		"Route": "Lumina",
-		"Location": "The Dark Side > Shelf Road > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/105752422/lumina",
-		"Avg Stars": 2.8,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": "",
-		"Area Latitude": 38.6281,
-		"Area Longitude": -105.2239
+		"Route": "Morning Joe",
+		"Location": "E. Cactus Cliff Far Right (Funkdemental and right) > Cactus Cliff > Shelf Road > Canon City > Colorado"
+	},
+	{ "Route": "Lumina", "Location": "The Dark Side > Shelf Road > Canon City > Colorado" },
+	{ "Route": "Fight or Flight", "Location": "The Dark Side > Shelf Road > Canon City > Colorado" },
+	{ "Route": "Acetylcholine", "Location": "The Dark Side > Shelf Road > Canon City > Colorado" },
+	{ "Route": "Chip Off the Block", "Location": "The Vault > Shelf Road > Canon City > Colorado" },
+	{ "Route": "Cheers", "Location": "Spiney Ridge > Shelf Road > Canon City > Colorado" },
+	{
+		"Route": "Damn Right I've Got the Moves",
+		"Location": "Spiney Ridge > Shelf Road > Canon City > Colorado"
 	},
 	{
 		"Route": "Unknown Offwidth-Stem Corner",
-		"Location": "The North End > Shelf Road > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/122188056/unknown-offwidth-stem-corner",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 75,
-		"Area Latitude": 38.6452,
-		"Area Longitude": -105.2205
+		"Location": "The North End > Shelf Road > Canon City > Colorado"
+	},
+	{ "Route": "Turkey Chicken", "Location": "Cash Wall > Shelf Road > Canon City > Colorado" },
+	{
+		"Route": "Cold Feet",
+		"Location": "The Great Black North > Shelf Road > Canon City > Colorado"
 	},
 	{
 		"Route": "Black Crack\" (Name Unknown)",
-		"Location": "The North Gym > Shelf Road > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/107067396/black-crack-name-unknown",
-		"Avg Stars": 3.4,
-		"Your Stars": -1,
-		"Route Type": "Trad, Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 70,
-		"Area Latitude": 38.6395,
-		"Area Longitude": -105.215
+		"Location": "The North Gym > Shelf Road > Canon City > Colorado"
 	},
-	{
-		"Route": "Chicken Dance",
-		"Location": "Hesse Wall > Phantom Canyon > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/111764279/chicken-dance",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 60,
-		"Area Latitude": 38.49598,
-		"Area Longitude": -105.11011
-	},
+	{ "Route": "Brandenburg", "Location": "The Bach Block > Shelf Road > Canon City > Colorado" },
+	{ "Route": "Chicken Dance", "Location": "Hesse Wall > Phantom Canyon > Canon City > Colorado" },
+	{ "Route": "Tiffany's", "Location": "Creek Side > Phantom Canyon > Canon City > Colorado" },
+	{ "Route": "Francis", "Location": "Vatican > Phantom Canyon > Canon City > Colorado" },
 	{
 		"Route": "The Honest Wood Cutter",
-		"Location": "Buddha Wall > Buckskin Crags > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/118580599/the-honest-wood-cutter",
-		"Avg Stars": 4,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 40,
-		"Area Latitude": 38.4751,
-		"Area Longitude": -105.31867
+		"Location": "Buddha Wall > Buckskin Crags > Canon City > Colorado"
 	},
-	{
-		"Route": "Panna (Wisdom)",
-		"Location": "Buddha Wall > Buckskin Crags > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/118580564/panna-wisdom",
-		"Avg Stars": 3.5,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.8+",
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 38.4751,
-		"Area Longitude": -105.31867
-	},
+	{ "Route": "Panna (Wisdom)", "Location": "Buddha Wall > Buckskin Crags > Canon City > Colorado" },
 	{
 		"Route": "Fluttering Silk",
-		"Location": "Buddha Wall > Buckskin Crags > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/118580603/fluttering-silk",
-		"Avg Stars": 3.5,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 40,
-		"Area Latitude": 38.4751,
-		"Area Longitude": -105.31867
+		"Location": "Buddha Wall > Buckskin Crags > Canon City > Colorado"
 	},
 	{
 		"Route": "Karuna (Compassion)",
-		"Location": "Buddha Wall > Buckskin Crags > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/118580544/karuna-compassion",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport, TR",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 55,
-		"Area Latitude": 38.4751,
-		"Area Longitude": -105.31867
+		"Location": "Buddha Wall > Buckskin Crags > Canon City > Colorado"
+	},
+	{ "Route": "Lumbini", "Location": "Buddha Wall > Buckskin Crags > Canon City > Colorado" },
+	{
+		"Route": "Through the Belly of Buddha",
+		"Location": "Buddha Wall > Buckskin Crags > Canon City > Colorado"
+	},
+	{
+		"Route": "Path to Enlightenment",
+		"Location": "Buddha Wall > Buckskin Crags > Canon City > Colorado"
 	},
 	{
 		"Route": "Big Bad Bill Wilson",
-		"Location": "Territorial Wall > Buckskin Crags > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/118582307/big-bad-bill-wilson",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": 5.7,
-		"Pitches": 1,
-		"Length": 31,
-		"Area Latitude": 38.47585,
-		"Area Longitude": -105.31766
+		"Location": "Territorial Wall > Buckskin Crags > Canon City > Colorado"
 	},
 	{
 		"Route": "Bighorn Desperados",
-		"Location": "Outlaw Wall > Buckskin Crags > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/118582544/bighorn-desperados",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport, TR",
-		"Rating": 5.7,
-		"Pitches": 1,
-		"Length": 30,
-		"Area Latitude": 38.47631,
-		"Area Longitude": -105.31664
+		"Location": "Outlaw Wall > Buckskin Crags > Canon City > Colorado"
+	},
+	{
+		"Route": "Daisy Dommergue",
+		"Location": "Outlaw Wall > Buckskin Crags > Canon City > Colorado"
 	},
 	{
 		"Route": "Curtis Loves Ross",
-		"Location": "Cinema Wall > The Sweet Spot > Buckskin Crags > Canon City > Colorado",
-		"URL": "https://www.mountainproject.com/route/121632040/curtis-loves-ross",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport, TR",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": "",
-		"Area Latitude": 38.4734,
-		"Area Longitude": -105.32075
+		"Location": "Cinema Wall > The Sweet Spot > Buckskin Crags > Canon City > Colorado"
 	},
+	{ "Route": "Huston Crack", "Location": "Cob Rock > Boulder Canyon > Boulder > Colorado" },
+	{ "Route": "E of East Slab East", "Location": "The Dome > Boulder Canyon > Boulder > Colorado" },
 	{
-		"Route": "Finger Crack",
-		"Location": "Nip and Tuck > Boulder Canyon > Boulder > Colorado",
-		"URL": "https://www.mountainproject.com/route/105748352/finger-crack",
-		"Avg Stars": 2.8,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": "",
-		"Area Latitude": 39.98709,
-		"Area Longitude": -105.43728
+		"Route": "Flash Dihedral (Knapp Version)",
+		"Location": "First Buttress > Elephant Buttresses > Boulder Canyon > Boulder > Colorado"
 	},
+	{ "Route": "Nightcap", "Location": "Happy Hour Crag > Boulder Canyon > Boulder > Colorado" },
+	{ "Route": "Grins", "Location": "Happy Hour Crag > Boulder Canyon > Boulder > Colorado" },
+	{ "Route": "Twofers", "Location": "Happy Hour Crag > Boulder Canyon > Boulder > Colorado" },
+	{ "Route": "Last Call", "Location": "Happy Hour Crag > Boulder Canyon > Boulder > Colorado" },
+	{ "Route": "Thin Crack", "Location": "Practice Rock > Boulder Canyon > Boulder > Colorado" },
+	{ "Route": "Electra Glide", "Location": "Electra Glide > Boulder Canyon > Boulder > Colorado" },
+	{ "Route": "Qs", "Location": "The Boulderado > Boulder Canyon > Boulder > Colorado" },
+	{ "Route": "Finger Crack", "Location": "Nip and Tuck > Boulder Canyon > Boulder > Colorado" },
 	{
-		"Route": "Runaway",
-		"Location": "Coney Island > Boulder Canyon > Boulder > Colorado",
-		"URL": "https://www.mountainproject.com/route/105764853/runaway",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 120,
-		"Area Latitude": 39.9928,
-		"Area Longitude": -105.4181
+		"Route": "Walk in the Park",
+		"Location": "Sport Park Slab > The Sport Park > Boulder Canyon > Boulder > Colorado"
+	},
+	{ "Route": "Runaway", "Location": "Coney Island > Boulder Canyon > Boulder > Colorado" },
+	{
+		"Route": "Lucky Strikes Again",
+		"Location": "Coney Island > Boulder Canyon > Boulder > Colorado"
 	},
 	{
 		"Route": "Animation",
-		"Location": "Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado",
-		"URL": "https://www.mountainproject.com/route/105749785/animation",
-		"Avg Stars": 3.2,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 100,
-		"Area Latitude": 39.99752,
-		"Area Longitude": -105.41522
+		"Location": "Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado"
 	},
 	{
-		"Route": "The Luminosity",
-		"Location": "Solaris > Boulder Canyon > Boulder > Colorado",
-		"URL": "https://www.mountainproject.com/route/105761157/the-luminosity",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 85,
-		"Area Latitude": 40.0001,
-		"Area Longitude": -105.4125
+		"Route": "Baby Dog",
+		"Location": "Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado"
+	},
+	{ "Route": "Sofa Kingdom", "Location": "Mine Hole Crag > Boulder Canyon > Boulder > Colorado" },
+	{
+		"Route": "The Memory of Trees",
+		"Location": "The Watermark > Boulder Canyon > Boulder > Colorado"
 	},
 	{
-		"Route": "Time Traveler",
-		"Location": "Lost Angel > Upper Dream Canyon > Boulder > Colorado",
-		"URL": "https://www.mountainproject.com/route/105750463/time-traveler",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": "",
-		"Area Latitude": 40.0089,
-		"Area Longitude": -105.41
+		"Route": "Sword In The Stone",
+		"Location": "First Tier > Avalon > Boulder Canyon > Boulder > Colorado"
+	},
+	{
+		"Route": "Dead Can Dance",
+		"Location": "Wall of the Dead > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado"
+	},
+	{
+		"Route": "Rain Check",
+		"Location": "Across from The Bihedral aka Cascade Crag > Boulder Canyon > Boulder > Colorado"
+	},
+	{
+		"Route": "Loyalty",
+		"Location": "Across from The Bihedral aka Cascade Crag > Boulder Canyon > Boulder > Colorado"
+	},
+	{
+		"Route": "The Ancient of Days",
+		"Location": "Mountain Rose > Boulder Canyon > Boulder > Colorado"
+	},
+	{ "Route": "The Luminosity", "Location": "Solaris > Boulder Canyon > Boulder > Colorado" },
+	{
+		"Route": "Devin's Dihedral",
+		"Location": "The Riviera > The Bihedral Area > Boulder Canyon > Boulder > Colorado"
+	},
+	{
+		"Route": "Hold The Line",
+		"Location": "The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado"
+	},
+	{
+		"Route": "Edges and Ledges",
+		"Location": "Boulder Slips > Boulder Canyon > Boulder > Colorado"
+	},
+	{ "Route": "Boulder Slips", "Location": "Boulder Slips > Boulder Canyon > Boulder > Colorado" },
+	{
+		"Route": "Mosquito Burrito",
+		"Location": "Main Crag > The Bowling Alley > Boulder Canyon > Boulder > Colorado"
+	},
+	{ "Route": "Cookie Jar Crack", "Location": "Cookie Jar > Flagstaff > Boulder > Colorado" },
+	{ "Route": "Time Traveler", "Location": "Lost Angel > Upper Dream Canyon > Boulder > Colorado" },
+	{
+		"Route": "Werner's Legacy",
+		"Location": "Vanishing Point > Upper Dream Canyon > Boulder > Colorado"
+	},
+	{
+		"Route": "West Crack",
+		"Location": "The Whale's Tail > Eldorado Canyon State Park > Boulder > Colorado"
+	},
+	{
+		"Route": "West Dihedral",
+		"Location": "The Whale's Tail > Eldorado Canyon State Park > Boulder > Colorado"
 	},
 	{
 		"Route": "She Blew Me",
-		"Location": "Diamond Head > Eldorado Canyon State Park > Boulder > Colorado",
-		"URL": "https://www.mountainproject.com/route/105755419/she-blew-me",
-		"Avg Stars": 4,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": "5.9+ X",
-		"Pitches": 1,
-		"Length": "",
-		"Area Latitude": 39.94674,
-		"Area Longitude": -105.29556
+		"Location": "Diamond Head > Eldorado Canyon State Park > Boulder > Colorado"
+	},
+	{
+		"Route": "Let It Slide",
+		"Location": "Diamond Head > Eldorado Canyon State Park > Boulder > Colorado"
+	},
+	{
+		"Route": "Wind Tower Slab",
+		"Location": "Wind Tower - SW Face > The Wind Tower > Eldorado Canyon State Park > Boulder > Colorado"
 	},
 	{
 		"Route": "Positively Fourth Street",
-		"Location": "West Ridge - part D - Xanadu to Pony Express > The West Ridge > Eldorado Canyon State Park > Boulder > Colorado",
-		"URL": "https://www.mountainproject.com/route/105749917/positively-fourth-street",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 70,
-		"Area Latitude": 39.93239,
-		"Area Longitude": -105.28874
+		"Location": "West Ridge - part D - Xanadu to Pony Express > The West Ridge > Eldorado Canyon State Park > Boulder > Colorado"
+	},
+	{
+		"Route": "Sister Morphine",
+		"Location": "West Ridge - part C - Pony Express to Long John > The West Ridge > Eldorado Canyon State Park > Boulder > Colorado"
 	},
 	{
 		"Route": "The Offset",
-		"Location": "Mickey Mouse Wall > Eldorado Mountain > Boulder > Colorado",
-		"URL": "https://www.mountainproject.com/route/105755401/the-offset",
-		"Avg Stars": 3.1,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": "5.9+ R",
-		"Pitches": 1,
-		"Length": "",
-		"Area Latitude": 39.91728,
-		"Area Longitude": -105.28551
+		"Location": "Mickey Mouse Wall > Eldorado Mountain > Boulder > Colorado"
 	},
+	{
+		"Route": "The Cyber Spraylord",
+		"Location": "Ridge 1 > Eldorado Mountain > Boulder > Colorado"
+	},
+	{ "Route": "R.N.R", "Location": "East Ridge > Eldorado Mountain > Boulder > Colorado" },
+	{
+		"Route": "What If You're Not?",
+		"Location": "Der Zerkle > Central > Flatirons > Boulder > Colorado"
+	},
+	{ "Route": "Wing Ding", "Location": "Der Zerkle > Central > Flatirons > Boulder > Colorado" },
 	{
 		"Route": "Lingum Direct",
-		"Location": "Achean Pronouncement > Central > Flatirons > Boulder > Colorado",
-		"URL": "https://www.mountainproject.com/route/105891177/lingum-direct",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": "5.9 X",
-		"Pitches": 1,
-		"Length": 70,
-		"Area Latitude": 39.9772,
-		"Area Longitude": -105.2902
+		"Location": "Achean Pronouncement > Central > Flatirons > Boulder > Colorado"
 	},
 	{
-		"Route": "Paradise Lost",
-		"Location": "Red Devil > Central > Flatirons > Boulder > Colorado",
-		"URL": "https://www.mountainproject.com/route/105999884/paradise-lost",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9-",
-		"Pitches": 1,
-		"Length": 100,
-		"Area Latitude": 39.9749,
-		"Area Longitude": -105.289
+		"Route": "Thought Control",
+		"Location": "Stonehenge > Central > Flatirons > Boulder > Colorado"
 	},
-	{
-		"Route": "West Face",
-		"Location": "The Matron > South > Flatirons > Boulder > Colorado",
-		"URL": "https://www.mountainproject.com/route/105754780/west-face",
-		"Avg Stars": 3.5,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": "5.8 R",
-		"Pitches": 1,
-		"Length": "",
-		"Area Latitude": 39.94304,
-		"Area Longitude": -105.2884
-	},
+	{ "Route": "Fat Elvis", "Location": "Der Freischutz > Central > Flatirons > Boulder > Colorado" },
+	{ "Route": "Paradise Lost", "Location": "Red Devil > Central > Flatirons > Boulder > Colorado" },
+	{ "Route": "West Face", "Location": "The Matron > South > Flatirons > Boulder > Colorado" },
+	{ "Route": "Sunday Comix", "Location": "The Matron > South > Flatirons > Boulder > Colorado" },
 	{
 		"Route": "West Face, Onoclea",
-		"Location": "Onoclea > Fern Canyon > South > Flatirons > Boulder > Colorado",
-		"URL": "https://www.mountainproject.com/route/106266742/west-face-onoclea",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR, Boulder",
-		"Rating": "5.7 V-easy",
-		"Pitches": 1,
-		"Length": 25,
-		"Area Latitude": 39.9659,
-		"Area Longitude": -105.2901
+		"Location": "Onoclea > Fern Canyon > South > Flatirons > Boulder > Colorado"
 	},
 	{
 		"Route": "Rainbow Bridge",
-		"Location": "Nebel Horn Ridge > Fern Canyon > South > Flatirons > Boulder > Colorado",
-		"URL": "https://www.mountainproject.com/route/105752755/rainbow-bridge",
-		"Avg Stars": 3.5,
-		"Your Stars": -1,
-		"Route Type": "Trad, Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": "",
-		"Area Latitude": 39.9662,
-		"Area Longitude": -105.2906
+		"Location": "Nebel Horn Ridge > Fern Canyon > South > Flatirons > Boulder > Colorado"
+	},
+	{
+		"Route": "Rads For Rookies",
+		"Location": "Nebel Horn Ridge > Fern Canyon > South > Flatirons > Boulder > Colorado"
 	},
 	{
 		"Route": "Here Comes Santa Claus",
-		"Location": "The Hill > City of Boulder > Boulder > Colorado",
-		"URL": "https://www.mountainproject.com/route/118610452/here-comes-santa-claus",
-		"Avg Stars": 3.4,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.8-",
-		"Pitches": 1,
-		"Length": 20,
-		"Area Latitude": 40.00632,
-		"Area Longitude": -105.28096
+		"Location": "The Hill > City of Boulder > Boulder > Colorado"
 	},
 	{
 		"Route": "El Segundo",
-		"Location": "North Lake South > The Stonewall > Spanish Peaks > Colorado",
-		"URL": "https://www.mountainproject.com/route/105759630/el-segundo",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport, TR",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 37.23922,
-		"Area Longitude": -105.04673
+		"Location": "North Lake South > The Stonewall > Spanish Peaks > Colorado"
 	},
 	{
 		"Route": "Ronin's Revenge",
-		"Location": "North Lake North > The Stonewall > Spanish Peaks > Colorado",
-		"URL": "https://www.mountainproject.com/route/105759669/ronins-revenge",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 37.24206,
-		"Area Longitude": -105.04754
+		"Location": "North Lake North > The Stonewall > Spanish Peaks > Colorado"
+	},
+	{ "Route": "Jam on It", "Location": "The Pear > Lumpy Ridge > Estes Park Valley > Colorado" },
+	{
+		"Route": "Sibling Rivalry",
+		"Location": "The Pear > Lumpy Ridge > Estes Park Valley > Colorado"
 	},
 	{
 		"Route": "La Maudite",
-		"Location": "Outer Gates > The Monastery > Big Thompson Canyon > Estes Park Valley > Colorado",
-		"URL": "https://www.mountainproject.com/route/105761103/la-maudite",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 100,
-		"Area Latitude": 40.45293,
-		"Area Longitude": -105.369
+		"Location": "Outer Gates > The Monastery > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Monastic Groove",
+		"Location": "Outer Gates > The Monastery > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "The Steeple",
+		"Location": "Outer Gates > The Monastery > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "No Mystery Here",
+		"Location": "Outer Gates > The Monastery > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Abbot Arete",
+		"Location": "Outer Gates > The Monastery > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Fin Du Monde",
+		"Location": "Outer Gates > The Monastery > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Dale's Downpulling Digits Decadent Donjon",
+		"Location": "Outer Gates > The Monastery > Big Thompson Canyon > Estes Park Valley > Colorado"
 	},
 	{
 		"Route": "The Hot Zone",
-		"Location": "The Catacomb > The Monastery > Big Thompson Canyon > Estes Park Valley > Colorado",
-		"URL": "https://www.mountainproject.com/route/105756643/the-hot-zone",
-		"Avg Stars": 3.4,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9-",
-		"Pitches": 1,
-		"Length": "",
-		"Area Latitude": 40.45337,
-		"Area Longitude": -105.3695
+		"Location": "The Catacomb > The Monastery > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Crypt",
+		"Location": "The Catacomb > The Monastery > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Bride",
+		"Location": "The Lion's Den > The Monastery > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Groom",
+		"Location": "The Lion's Den > The Monastery > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Unknown 11",
+		"Location": "The Lion's Den > The Monastery > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Unknown 7",
+		"Location": "The Lion's Den > The Monastery > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Unknown 10",
+		"Location": "The Lion's Den > The Monastery > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Unknown 2",
+		"Location": "The Lion's Den > The Monastery > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Rambo Santa",
+		"Location": "Combat Rock > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Old Bolt Route",
+		"Location": "Combat Rock > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Unknown  2",
+		"Location": "Combat Rock > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Green Hornet",
+		"Location": "The Ledges > Beige Tube Area / The Narrows > Big Thompson Canyon > Estes Park Valley > Colorado"
 	},
 	{
 		"Route": "Indifferent",
-		"Location": "The Ledges > Beige Tube Area / The Narrows > Big Thompson Canyon > Estes Park Valley > Colorado",
-		"URL": "https://www.mountainproject.com/route/115365194/indifferent",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 70,
-		"Area Latitude": 40.42159,
-		"Area Longitude": -105.24011
+		"Location": "The Ledges > Beige Tube Area / The Narrows > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Love Again",
+		"Location": "The Ledges > Beige Tube Area / The Narrows > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "The Big Thompson Yard Sale",
+		"Location": "The Ledges > Beige Tube Area / The Narrows > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Rainbird",
+		"Location": "The Ledges > Beige Tube Area / The Narrows > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Beep Beep Sheep",
+		"Location": "Between Shark's Fin Wall & Bridge Wall North (Practice Rock) > Beige Tube Area / The Narrows > Big Thompson Canyon > Estes Park Valley > Colorado"
 	},
 	{
 		"Route": "These Ol' Bones",
-		"Location": "Subskull > Skull Rock Area > Palisade Mountain > Big Thompson Canyon > Estes Park Valley > Colorado",
-		"URL": "https://www.mountainproject.com/route/116755492/these-ol-bones",
-		"Avg Stars": 3.1,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 120,
-		"Area Latitude": 40.43666,
-		"Area Longitude": -105.31171
+		"Location": "Subskull > Skull Rock Area > Palisade Mountain > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Central Groove",
+		"Location": "Linger Longer Rock > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Arachnophobia",
+		"Location": "Tick Rock > Mary's Bust Area > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Tick Fever",
+		"Location": "Tick Rock > Mary's Bust Area > Big Thompson Canyon > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Elmo Amber Alert",
+		"Location": "First Pew > Pulpit Rock Massif > Cow Creek Canyon / McGraw Ranch trailhead > Devil's Gulch and Dry Gulch Roads > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Shaking the Pope's Hand",
+		"Location": "Mount Boner > The Ironclads > CO Hwy 7 & Tributaries > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Dirty No-Gooders",
+		"Location": "Mount Boner > The Ironclads > CO Hwy 7 & Tributaries > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Middle Toe",
+		"Location": "Dinosaur's Foot > Jurassic Park - Lily Lake > CO Hwy 7 & Tributaries > Estes Park Valley > Colorado"
 	},
 	{
 		"Route": "Edge of Time",
-		"Location": "The Fin > Jurassic Park - Lily Lake > CO Hwy 7 & Tributaries > Estes Park Valley > Colorado",
-		"URL": "https://www.mountainproject.com/route/105756826/edge-of-time",
-		"Avg Stars": 3.4,
-		"Your Stars": -1,
-		"Route Type": "Sport, TR",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 85,
-		"Area Latitude": 40.3127,
-		"Area Longitude": -105.5411
+		"Location": "The Fin > Jurassic Park - Lily Lake > CO Hwy 7 & Tributaries > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Coloradoddity",
+		"Location": "Big Ass Slab? > Jurassic Park - Lily Lake > CO Hwy 7 & Tributaries > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Gilded Lily",
+		"Location": "Left Hand Rock > Jurassic Park - Lily Lake > CO Hwy 7 & Tributaries > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Mind Over Mantel",
+		"Location": "Bulk Lunch Buttress > Jurassic Park - Lily Lake > CO Hwy 7 & Tributaries > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Byrontosaurus",
+		"Location": "The Little Fin > Jurassic Park - Lily Lake > CO Hwy 7 & Tributaries > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Purgatorius",
+		"Location": "The Little Fin > Jurassic Park - Lily Lake > CO Hwy 7 & Tributaries > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Crystal Staircase",
+		"Location": "C. Wizard's Gate > Lower Great Face > The Crags > CO Hwy 7 & Tributaries > Estes Park Valley > Colorado"
 	},
 	{
 		"Route": "Gizmo",
-		"Location": "C. Wizard's Gate > Lower Great Face > The Crags > CO Hwy 7 & Tributaries > Estes Park Valley > Colorado",
-		"URL": "https://www.mountainproject.com/route/114961899/gizmo",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.7,
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 40.30276,
-		"Area Longitude": -105.52422
+		"Location": "C. Wizard's Gate > Lower Great Face > The Crags > CO Hwy 7 & Tributaries > Estes Park Valley > Colorado"
 	},
 	{
 		"Route": "Gremlin",
-		"Location": "C. Wizard's Gate > Lower Great Face > The Crags > CO Hwy 7 & Tributaries > Estes Park Valley > Colorado",
-		"URL": "https://www.mountainproject.com/route/115140579/gremlin",
-		"Avg Stars": 2.8,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 65,
-		"Area Latitude": 40.30276,
-		"Area Longitude": -105.52422
+		"Location": "C. Wizard's Gate > Lower Great Face > The Crags > CO Hwy 7 & Tributaries > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Hammerhead",
+		"Location": "Sharksfin > The Crags > CO Hwy 7 & Tributaries > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Balsa",
+		"Location": "Woodstone > Woodstone, Half & Half, and Slot Rock > The Crags > CO Hwy 7 & Tributaries > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Stimulus Check",
+		"Location": "Pandemic Rock > The Crags > CO Hwy 7 & Tributaries > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Uphill Slab Direct",
+		"Location": "The Needle > Prospect Mountain > CO Hwy 7 & Tributaries > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "The Grommet",
+		"Location": "The Needle > Prospect Mountain > CO Hwy 7 & Tributaries > Estes Park Valley > Colorado"
+	},
+	{ "Route": "Unknown", "Location": "East Block > Mary's Lake > Estes Park Valley > Colorado" },
+	{
+		"Route": "Corner Crack",
+		"Location": "East Block > Mary's Lake > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Exit Stage Left (a.k.a. Make Your Mark)",
+		"Location": "Amphitheater Wall > Performance Climbing Park > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "Performance Traverse",
+		"Location": "Amphitheater Wall > Performance Climbing Park > Estes Park Valley > Colorado"
 	},
 	{
 		"Route": "Mr. Toad's Wild Ride",
-		"Location": "River Wall > Performance Climbing Park > Estes Park Valley > Colorado",
-		"URL": "https://www.mountainproject.com/route/112877387/mr-toads-wild-ride",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 60,
-		"Area Latitude": 40.37764,
-		"Area Longitude": -105.52902
+		"Location": "River Wall > Performance Climbing Park > Estes Park Valley > Colorado"
+	},
+	{
+		"Route": "I Did It My Way",
+		"Location": "Titanic > Hardscrabble Pass > The Wet Mountains > Colorado"
+	},
+	{ "Route": "Zing", "Location": "Tanner Dome > Oak Creek Canyon > The Wet Mountains > Colorado" },
+	{
+		"Route": "Landscape Architect",
+		"Location": "Tanner Dome > Oak Creek Canyon > The Wet Mountains > Colorado"
 	},
 	{
 		"Route": "The Merrimac",
-		"Location": "Tanner Dome > Oak Creek Canyon > The Wet Mountains > Colorado",
-		"URL": "https://www.mountainproject.com/route/107521285/the-merrimac",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 80,
-		"Area Latitude": 38.30838,
-		"Area Longitude": -105.26009
+		"Location": "Tanner Dome > Oak Creek Canyon > The Wet Mountains > Colorado"
 	},
 	{
 		"Route": "Hanging Judge",
-		"Location": "Tanner Dome > Oak Creek Canyon > The Wet Mountains > Colorado",
-		"URL": "https://www.mountainproject.com/route/107339692/hanging-judge",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 100,
-		"Area Latitude": 38.30838,
-		"Area Longitude": -105.26009
+		"Location": "Tanner Dome > Oak Creek Canyon > The Wet Mountains > Colorado"
 	},
 	{
 		"Route": "Unknown",
-		"Location": "Tanner Dome > Oak Creek Canyon > The Wet Mountains > Colorado",
-		"URL": "https://www.mountainproject.com/route/108408582/unknown",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.7,
-		"Pitches": 1,
-		"Length": "",
-		"Area Latitude": 38.30838,
-		"Area Longitude": -105.26009
+		"Location": "Tanner Dome > Oak Creek Canyon > The Wet Mountains > Colorado"
+	},
+	{ "Route": "Flee", "Location": "Tanner Dome > Oak Creek Canyon > The Wet Mountains > Colorado" },
+	{
+		"Route": "Kennesaw Mountain",
+		"Location": "Tanner Dome > Oak Creek Canyon > The Wet Mountains > Colorado"
+	},
+	{
+		"Route": "Penny Lane",
+		"Location": "Tanner Dome > Oak Creek Canyon > The Wet Mountains > Colorado"
 	},
 	{
 		"Route": "Pay Back",
-		"Location": "West Bend Crag > Oak Creek Canyon > The Wet Mountains > Colorado",
-		"URL": "https://www.mountainproject.com/route/105970195/pay-back",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 30,
-		"Area Latitude": 38.31063,
-		"Area Longitude": -105.24943
+		"Location": "West Bend Crag > Oak Creek Canyon > The Wet Mountains > Colorado"
+	},
+	{
+		"Route": "Pass the Ditchie",
+		"Location": "Lower Wall > Puoux > Glenwood Canyon > Glenwood Springs > Colorado"
+	},
+	{
+		"Route": "Road Runner",
+		"Location": "Lower Wall > Puoux > Glenwood Canyon > Glenwood Springs > Colorado"
+	},
+	{
+		"Route": "The Test",
+		"Location": "Lower Wall > Puoux > Glenwood Canyon > Glenwood Springs > Colorado"
+	},
+	{
+		"Route": "South Face Left Side",
+		"Location": "Roadside Fin > The Airy Block > Glenwood Canyon > Glenwood Springs > Colorado"
+	},
+	{
+		"Route": "Deputy Dawg",
+		"Location": "Pup Tent of Solitude > Main Elk Creek > Glenwood Springs > Colorado"
+	},
+	{
+		"Route": "Sith Lord",
+		"Location": "Pup Tent of Solitude > Main Elk Creek > Glenwood Springs > Colorado"
+	},
+	{
+		"Route": "Ewok Stew",
+		"Location": "Pup Tent of Solitude > Main Elk Creek > Glenwood Springs > Colorado"
 	},
 	{
 		"Route": "Buggery",
-		"Location": "Main Elk Crag > Main Elk Creek > Glenwood Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/114426285/buggery",
-		"Avg Stars": 2.8,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 55,
-		"Area Latitude": 39.68301,
-		"Area Longitude": -107.57778
+		"Location": "Main Elk Crag > Main Elk Creek > Glenwood Springs > Colorado"
+	},
+	{ "Route": "Wilson", "Location": "Main Elk Crag > Main Elk Creek > Glenwood Springs > Colorado" },
+	{
+		"Route": "Mashed Potatoes",
+		"Location": "Main Elk Crag > Main Elk Creek > Glenwood Springs > Colorado"
 	},
 	{
-		"Route": "Wilson",
-		"Location": "Main Elk Crag > Main Elk Creek > Glenwood Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/117914237/wilson",
-		"Avg Stars": 3.1,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 85,
-		"Area Latitude": 39.68301,
-		"Area Longitude": -107.57778
+		"Route": "Down On The Corner",
+		"Location": "Main Elk Crag > Main Elk Creek > Glenwood Springs > Colorado"
+	},
+	{
+		"Route": "Ryan Goes to Hell",
+		"Location": "Main Elk Crag > Main Elk Creek > Glenwood Springs > Colorado"
 	},
 	{
 		"Route": "Brothers in Drilling",
-		"Location": "The Overhangs aka Original Overhangs > East Elk Granite > East Elk Creek > Glenwood Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/111818099/brothers-in-drilling",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 45,
-		"Area Latitude": 39.66731,
-		"Area Longitude": -107.52691
+		"Location": "The Overhangs aka Original Overhangs > East Elk Granite > East Elk Creek > Glenwood Springs > Colorado"
 	},
 	{
 		"Route": "True Grit",
-		"Location": "Grit Wall > Nine Mile Roped > Nine Mile Hill > Unaweep Canyon > Grand Junction Area > Colorado",
-		"URL": "https://www.mountainproject.com/route/107006250/true-grit",
-		"Avg Stars": 3.1,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 55,
-		"Area Latitude": 38.9104,
-		"Area Longitude": -108.4935
+		"Location": "Grit Wall > Nine Mile Roped > Nine Mile Hill > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "Kibbles and Grits",
+		"Location": "Grit Wall > Nine Mile Roped > Nine Mile Hill > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "Gritlock",
+		"Location": "Grit Wall > Nine Mile Roped > Nine Mile Hill > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "Grit'er Done",
+		"Location": "Grit Wall > Nine Mile Roped > Nine Mile Hill > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "Grit Some",
+		"Location": "Grit Wall > Nine Mile Roped > Nine Mile Hill > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "Impotence",
+		"Location": "Four Blocks Crag > Nine Mile Roped > Nine Mile Hill > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "Why Not",
+		"Location": "Four Blocks Crag > Nine Mile Roped > Nine Mile Hill > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "The Diving Board",
+		"Location": "Four Blocks Crag > Nine Mile Roped > Nine Mile Hill > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "Red Corner",
+		"Location": "Four Blocks Crag > Nine Mile Roped > Nine Mile Hill > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "First Timer",
+		"Location": "Four Blocks Crag > Nine Mile Roped > Nine Mile Hill > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "The Normal Life",
+		"Location": "Petrified Wall > Nine Mile Roped > Nine Mile Hill > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "My Weekend World",
+		"Location": "Petrified Wall > Nine Mile Roped > Nine Mile Hill > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "Fra-dump",
+		"Location": "Cattle Guard Wall > Nine Mile Roped > Nine Mile Hill > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "Bu-bump",
+		"Location": "Cattle Guard Wall > Nine Mile Roped > Nine Mile Hill > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "Tesseract",
+		"Location": "The Black Wall > Nine Mile Roped > Nine Mile Hill > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "84.1% Eclipse of the Heart (The Eclipse Route)",
+		"Location": "Other Mothers > Mother's Buttress > Main Canyon: Unaweep Granite > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "Black Bunny Rabbit",
+		"Location": "Other Mothers > Mother's Buttress > Main Canyon: Unaweep Granite > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "Newb Nation",
+		"Location": "Other Mothers > Mother's Buttress > Main Canyon: Unaweep Granite > Unaweep Canyon > Grand Junction Area > Colorado"
 	},
 	{
 		"Route": "Spirit Animal",
-		"Location": "The Outback > Mother's Buttress > Main Canyon: Unaweep Granite > Unaweep Canyon > Grand Junction Area > Colorado",
-		"URL": "https://www.mountainproject.com/route/109328448/spirit-animal",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 130,
-		"Area Latitude": 38.81444,
-		"Area Longitude": -108.62338
+		"Location": "The Outback > Mother's Buttress > Main Canyon: Unaweep Granite > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "Dike Arch",
+		"Location": "Sunday Wall > The Access Fund Trailhead > Main Canyon: Unaweep Granite > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "Baby Dunk",
+		"Location": "Quarry Proper > Quarry Wall Complex > Main Canyon: Unaweep Granite > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "Hotdog Charades",
+		"Location": "Quarry Proper > Quarry Wall Complex > Main Canyon: Unaweep Granite > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "Sunup",
+		"Location": "Sun Towers > Sun Tower Complex > Main Canyon: Unaweep Granite > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "Eye of the Liger",
+		"Location": "Wildcat One South Face > Wildcat One > Wildcat Complex > Main Canyon: Unaweep Granite > Unaweep Canyon > Grand Junction Area > Colorado"
 	},
 	{
 		"Route": "Prickly Pear",
-		"Location": "Cacti Cliff > Cactus Park > Unaweep Canyon > Grand Junction Area > Colorado",
-		"URL": "https://www.mountainproject.com/route/109871414/prickly-pear",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 55,
-		"Area Latitude": 38.87642,
-		"Area Longitude": -108.49447
+		"Location": "Cacti Cliff > Cactus Park > Unaweep Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "Unknown 3",
+		"Location": "Gunnison Area > Escalante Canyon > Grand Junction Area > Colorado"
 	},
 	{
 		"Route": "Unknown Crack",
-		"Location": "After Rain Wall > Escalante Canyon > Grand Junction Area > Colorado",
-		"URL": "https://www.mountainproject.com/route/120646564/unknown-crack",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 38.66761,
-		"Area Longitude": -108.33026
+		"Location": "After Rain Wall > Escalante Canyon > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "Bullet Hole Rock 5.9",
+		"Location": "Bullet Hole Boulder > Bullet Hole Boulder Area > Grand Junction Area > Colorado"
 	},
 	{
 		"Route": "Trip Won",
-		"Location": "Sport Boulder > Upper Cliff Band Roped Area > Bullet Hole Boulder Area > Grand Junction Area > Colorado",
-		"URL": "https://www.mountainproject.com/route/118154582/trip-won",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.5,
-		"Pitches": 1,
-		"Length": 25,
-		"Area Latitude": 39.0501,
-		"Area Longitude": -108.61195
+		"Location": "Sport Boulder > Upper Cliff Band Roped Area > Bullet Hole Boulder Area > Grand Junction Area > Colorado"
 	},
 	{
 		"Route": "Get Crazy With the Cheese Wiz",
-		"Location": "Paleosol Wall > Land's End Area > Grand Mesa > Grand Junction Area > Colorado",
-		"URL": "https://www.mountainproject.com/route/108210902/get-crazy-with-the-cheese-wiz",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 45,
-		"Area Latitude": 39.0055,
-		"Area Longitude": -108.2005
+		"Location": "Paleosol Wall > Land's End Area > Grand Mesa > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "Diagenesis",
+		"Location": "Paleosol Wall > Land's End Area > Grand Mesa > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "German on 2nd",
+		"Location": "Paleosol Wall > Land's End Area > Grand Mesa > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "Pull the Trigger",
+		"Location": "Paleosol Wall > Land's End Area > Grand Mesa > Grand Junction Area > Colorado"
 	},
 	{
 		"Route": "Charlene’s Dreams",
-		"Location": "Dr. C’s Classroom > Land's End Area > Grand Mesa > Grand Junction Area > Colorado",
-		"URL": "https://www.mountainproject.com/route/121253200/charlenes-dreams",
-		"Avg Stars": 4,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 60,
-		"Area Latitude": 38.99983,
-		"Area Longitude": -108.18326
+		"Location": "Dr. C’s Classroom > Land's End Area > Grand Mesa > Grand Junction Area > Colorado"
 	},
 	{
 		"Route": "The Scottish Castle",
-		"Location": "Dr. C’s Classroom > Land's End Area > Grand Mesa > Grand Junction Area > Colorado",
-		"URL": "https://www.mountainproject.com/route/121253259/the-scottish-castle",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.8+",
-		"Pitches": 1,
-		"Length": 55,
-		"Area Latitude": 38.99983,
-		"Area Longitude": -108.18326
+		"Location": "Dr. C’s Classroom > Land's End Area > Grand Mesa > Grand Junction Area > Colorado"
+	},
+	{
+		"Route": "Devil's Spine aka Bajorn",
+		"Location": "Beginner's Slab > Hartman Rocks > Gunnison > Colorado"
 	},
 	{
 		"Route": "Neutral Zone",
-		"Location": "Groove Rock aka Leap of Faith Area > Hartman Rocks > Gunnison > Colorado",
-		"URL": "https://www.mountainproject.com/route/105833333/neutral-zone",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 60,
-		"Area Latitude": 38.49704,
-		"Area Longitude": -106.94487
+		"Location": "Groove Rock aka Leap of Faith Area > Hartman Rocks > Gunnison > Colorado"
 	},
 	{
 		"Route": "Tater Tot",
-		"Location": "Groove Rock aka Leap of Faith Area > Hartman Rocks > Gunnison > Colorado",
-		"URL": "https://www.mountainproject.com/route/119093885/tater-tot",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport, TR",
-		"Rating": "5.9-",
-		"Pitches": 1,
-		"Length": 80,
-		"Area Latitude": 38.49704,
-		"Area Longitude": -106.94487
+		"Location": "Groove Rock aka Leap of Faith Area > Hartman Rocks > Gunnison > Colorado"
+	},
+	{
+		"Route": "Dancin' Fool",
+		"Location": "Groove Rock aka Leap of Faith Area > Hartman Rocks > Gunnison > Colorado"
+	},
+	{
+		"Route": "Simon May I",
+		"Location": "Groove Rock aka Leap of Faith Area > Hartman Rocks > Gunnison > Colorado"
+	},
+	{
+		"Route": "Back in Black",
+		"Location": "Teenage Wasteland > Hartman Rocks > Gunnison > Colorado"
 	},
 	{
 		"Route": "Runaway Jim",
-		"Location": "Cut the Rope Wall aka Tom Sawyer Wall > Hartman Rocks > Gunnison > Colorado",
-		"URL": "https://www.mountainproject.com/route/107047896/runaway-jim",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 40,
-		"Area Latitude": 38.49712,
-		"Area Longitude": -106.94757
+		"Location": "Cut the Rope Wall aka Tom Sawyer Wall > Hartman Rocks > Gunnison > Colorado"
+	},
+	{
+		"Route": "Every Day is a Gift",
+		"Location": "Cut the Rope Wall aka Tom Sawyer Wall > Hartman Rocks > Gunnison > Colorado"
 	},
 	{
 		"Route": "Resistance is Futile",
-		"Location": "Resistance Wall > Hartman Rocks > Gunnison > Colorado",
-		"URL": "https://www.mountainproject.com/route/113328893/resistance-is-futile",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.8+",
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 38.49712,
-		"Area Longitude": -106.94757
+		"Location": "Resistance Wall > Hartman Rocks > Gunnison > Colorado"
 	},
 	{
 		"Route": "Watching in Silence",
-		"Location": "Rock 'N Roll Wall > Hartman Rocks > Gunnison > Colorado",
-		"URL": "https://www.mountainproject.com/route/106719864/watching-in-silence",
-		"Avg Stars": 3.1,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 40,
-		"Area Latitude": 38.49812,
-		"Area Longitude": -106.94713
+		"Location": "Rock 'N Roll Wall > Hartman Rocks > Gunnison > Colorado"
 	},
+	{ "Route": "Voodoo Butter", "Location": "The Slot > Hartman Rocks > Gunnison > Colorado" },
+	{ "Route": "Walk the Dog", "Location": "The Slot > Hartman Rocks > Gunnison > Colorado" },
 	{
 		"Route": "Aquadog",
-		"Location": "Baby Face / Middle Wall > First Buttress > Taylor Canyon > Gunnison > Colorado",
-		"URL": "https://www.mountainproject.com/route/112129085/aquadog",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": "5.8+",
-		"Pitches": 1,
-		"Length": 65,
-		"Area Latitude": 38.72585,
-		"Area Longitude": -106.77007
+		"Location": "Baby Face / Middle Wall > First Buttress > Taylor Canyon > Gunnison > Colorado"
 	},
 	{
 		"Route": "Pacha Mama",
-		"Location": "Baby Buttress (aka the Baby Butt) > Taylor Canyon > Gunnison > Colorado",
-		"URL": "https://www.mountainproject.com/route/121357192/pacha-mama",
-		"Avg Stars": 4,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": 5.7,
-		"Pitches": 1,
-		"Length": 90,
-		"Area Latitude": 38.72669,
-		"Area Longitude": -106.76905
+		"Location": "Baby Buttress (aka the Baby Butt) > Taylor Canyon > Gunnison > Colorado"
 	},
+	{ "Route": "Shovel Head", "Location": "Roadside Crag > Spring Creek > Gunnison > Colorado" },
 	{
 		"Route": "Inca Roads",
-		"Location": "The Point, Powderhorn, Colorado (AKA Indian Creek) > Gunnison > Colorado",
-		"URL": "https://www.mountainproject.com/route/106518219/inca-roads",
-		"Avg Stars": 3.1,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.6,
-		"Pitches": 1,
-		"Length": 80,
-		"Area Latitude": 38.24062,
-		"Area Longitude": -107.16446
+		"Location": "The Point, Powderhorn, Colorado (AKA Indian Creek) > Gunnison > Colorado"
 	},
 	{
-		"Route": "Rubidope",
-		"Location": "Western State Campus > Gunnison > Colorado",
-		"URL": "https://www.mountainproject.com/route/113783820/rubidope",
-		"Avg Stars": 4,
-		"Your Stars": -1,
-		"Route Type": "TR",
-		"Rating": "5.8+",
-		"Pitches": 1,
-		"Length": 30,
-		"Area Latitude": 38.5483,
-		"Area Longitude": -106.9181
+		"Route": "Diagonal Danzin'",
+		"Location": "The Point, Powderhorn, Colorado (AKA Indian Creek) > Gunnison > Colorado"
 	},
 	{
-		"Route": "Dr. Strangelove",
-		"Location": "Kubrick's > Rifle Mountain Park > Rifle > Colorado",
-		"URL": "https://www.mountainproject.com/route/107235965/dr-strangelove",
-		"Avg Stars": 3.1,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 70,
-		"Area Latitude": 39.71606,
-		"Area Longitude": -107.69077
+		"Route": "Mud Shark",
+		"Location": "The Point, Powderhorn, Colorado (AKA Indian Creek) > Gunnison > Colorado"
+	},
+	{ "Route": "Rubidope", "Location": "Western State Campus > Gunnison > Colorado" },
+	{
+		"Route": "KeeMoSabe",
+		"Location": "Scout Rock > South Fork of St. Vrain Canyon > St. Vrain Canyons > Lyons > Colorado"
 	},
 	{
-		"Route": "Jimboliar",
-		"Location": "Slab Routes > Rifle Arch > Rifle > Colorado",
-		"URL": "https://www.mountainproject.com/route/107852485/jimboliar",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 90,
-		"Area Latitude": 39.62881,
-		"Area Longitude": -107.81209
+		"Route": "Center Slab",
+		"Location": "The Spire > South Fork of St. Vrain Canyon > St. Vrain Canyons > Lyons > Colorado"
 	},
+	{
+		"Route": "The Arch of Titus",
+		"Location": "Arch of Titus > South Fork of St. Vrain Canyon > St. Vrain Canyons > Lyons > Colorado"
+	},
+	{
+		"Route": "Alliteration Arete",
+		"Location": "Mystery Rock > South Fork of St. Vrain Canyon > St. Vrain Canyons > Lyons > Colorado"
+	},
+	{
+		"Route": "Psychovino's Spaghetti Hell",
+		"Location": "Turd World Country > South Fork of St. Vrain Canyon > St. Vrain Canyons > Lyons > Colorado"
+	},
+	{
+		"Route": "Hibernaculum",
+		"Location": "Terraphile > South Fork of St. Vrain Canyon > St. Vrain Canyons > Lyons > Colorado"
+	},
+	{
+		"Route": "Ophidiophobe",
+		"Location": "Terraphile > South Fork of St. Vrain Canyon > St. Vrain Canyons > Lyons > Colorado"
+	},
+	{
+		"Route": "Community Service (formerly Little Flatiron Left aka West Buttress)",
+		"Location": "Upper Infirmary Slabs > Infirmary Slabs > South Fork of St. Vrain Canyon > St. Vrain Canyons > Lyons > Colorado"
+	},
+	{
+		"Route": "Knuckle Sandwich",
+		"Location": "Left Infirmary Slab > Infirmary Slabs > South Fork of St. Vrain Canyon > St. Vrain Canyons > Lyons > Colorado"
+	},
+	{
+		"Route": "Man's Best Friend",
+		"Location": "Scarpa Pizzo > Middle Fork of St. Vrain Canyon > St. Vrain Canyons > Lyons > Colorado"
+	},
+	{
+		"Route": "Green Slab",
+		"Location": "Buick Rocks and Hitler's Sex Life > Longmont Reservoir Area (aka Buttonrock) > North Fork of the St. Vrain River > St. Vrain Canyons > Lyons > Colorado"
+	},
+	{
+		"Route": "Style Man",
+		"Location": "Friends and Family Wall > Redstein > Redstone Area > Carbondale Area > Colorado"
+	},
+	{
+		"Route": "Rickles",
+		"Location": "The Funny Face > Ice Cave Walls > Rifle Mountain Park > Rifle > Colorado"
+	},
+	{
+		"Route": "Martin & Lewis",
+		"Location": "The Funny Face > Ice Cave Walls > Rifle Mountain Park > Rifle > Colorado"
+	},
+	{
+		"Route": "Fallon",
+		"Location": "The Funny Face > Ice Cave Walls > Rifle Mountain Park > Rifle > Colorado"
+	},
+	{
+		"Route": "Spuds in Space",
+		"Location": "Middle Ice Caves (Potato Routes) > Ice Cave Walls > Rifle Mountain Park > Rifle > Colorado"
+	},
+	{
+		"Route": "Do The Mashed Potato aka Acquitted",
+		"Location": "Middle Ice Caves (Potato Routes) > Ice Cave Walls > Rifle Mountain Park > Rifle > Colorado"
+	},
+	{
+		"Route": "Rachel's Route",
+		"Location": "Upper Ice Caves (Feline area) > Ice Cave Walls > Rifle Mountain Park > Rifle > Colorado"
+	},
+	{ "Route": "Dr. Strangelove", "Location": "Kubrick's > Rifle Mountain Park > Rifle > Colorado" },
+	{
+		"Route": "Fossil Paradox",
+		"Location": "The Wall of Life > Rifle Mountain Park > Rifle > Colorado"
+	},
+	{ "Route": "Jimboliar", "Location": "Slab Routes > Rifle Arch > Rifle > Colorado" },
+	{ "Route": "Unknown Wanderer", "Location": "Slab Routes > Rifle Arch > Rifle > Colorado" },
 	{
 		"Route": "Ooo-la-la",
-		"Location": "Napoleon Wall > Gilman Canyon > Eagle/Vail/Minturn/Red Cliff > Colorado",
-		"URL": "https://www.mountainproject.com/route/113197584/ooo-la-la",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 75,
-		"Area Latitude": 39.50859,
-		"Area Longitude": -106.3804
+		"Location": "Napoleon Wall > Gilman Canyon > Eagle/Vail/Minturn/Red Cliff > Colorado"
+	},
+	{
+		"Route": "I'm Just A Lump Of Coal But...",
+		"Location": "Napoleon Wall > Gilman Canyon > Eagle/Vail/Minturn/Red Cliff > Colorado"
+	},
+	{
+		"Route": "Drilla From Manilla",
+		"Location": "The Prow > Lime Park (a.k.a. Lime Creek) > Eagle/Vail/Minturn/Red Cliff > Colorado"
+	},
+	{
+		"Route": "Snail Trail",
+		"Location": "The Prow > Lime Park (a.k.a. Lime Creek) > Eagle/Vail/Minturn/Red Cliff > Colorado"
+	},
+	{
+		"Route": "Old School",
+		"Location": "The Prow > Lime Park (a.k.a. Lime Creek) > Eagle/Vail/Minturn/Red Cliff > Colorado"
+	},
+	{
+		"Route": "Corporate Greed",
+		"Location": "The Punchbowl > Lime Park (a.k.a. Lime Creek) > Eagle/Vail/Minturn/Red Cliff > Colorado"
 	},
 	{
 		"Route": "Unknown",
-		"Location": "The Schoolyard > Lime Park (a.k.a. Lime Creek) > Eagle/Vail/Minturn/Red Cliff > Colorado",
-		"URL": "https://www.mountainproject.com/route/114592156/unknown",
-		"Avg Stars": 2.8,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.5,
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 39.4087,
-		"Area Longitude": -106.65458
+		"Location": "The Schoolyard > Lime Park (a.k.a. Lime Creek) > Eagle/Vail/Minturn/Red Cliff > Colorado"
+	},
+	{
+		"Route": "Dizzy Izzy",
+		"Location": "The Schoolyard > Lime Park (a.k.a. Lime Creek) > Eagle/Vail/Minturn/Red Cliff > Colorado"
+	},
+	{
+		"Route": "Unknown",
+		"Location": "The Schoolyard > Lime Park (a.k.a. Lime Creek) > Eagle/Vail/Minturn/Red Cliff > Colorado"
+	},
+	{
+		"Route": "Jug Run",
+		"Location": "Team Wall > Lime Park (a.k.a. Lime Creek) > Eagle/Vail/Minturn/Red Cliff > Colorado"
+	},
+	{
+		"Route": "Goldilocks",
+		"Location": "Endless Wall > Jellystone Park > Lime Park (a.k.a. Lime Creek) > Eagle/Vail/Minturn/Red Cliff > Colorado"
+	},
+	{
+		"Route": "5.9 Crack",
+		"Location": "The First Tier > Wolcott Crags and Boulders > Eagle/Vail/Minturn/Red Cliff > Colorado"
 	},
 	{
 		"Route": "Chupacabra",
-		"Location": "Upper Tier (Bocco Area) > Wolcott Crags and Boulders > Eagle/Vail/Minturn/Red Cliff > Colorado",
-		"URL": "https://www.mountainproject.com/route/107341363/chupacabra",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9-",
-		"Pitches": 1,
-		"Length": 60,
-		"Area Latitude": 39.71525,
-		"Area Longitude": -106.70244
+		"Location": "Upper Tier (Bocco Area) > Wolcott Crags and Boulders > Eagle/Vail/Minturn/Red Cliff > Colorado"
+	},
+	{
+		"Route": "Binky of the Mountains",
+		"Location": "Upper Tier (Bocco Area) > Wolcott Crags and Boulders > Eagle/Vail/Minturn/Red Cliff > Colorado"
+	},
+	{
+		"Route": "Black Streak",
+		"Location": "Upper Tier (Bocco Area) > Wolcott Crags and Boulders > Eagle/Vail/Minturn/Red Cliff > Colorado"
+	},
+	{
+		"Route": "Ecstasy",
+		"Location": "Upper Tier (Bocco Area) > Wolcott Crags and Boulders > Eagle/Vail/Minturn/Red Cliff > Colorado"
+	},
+	{
+		"Route": "Tongue Thaied",
+		"Location": "Upper Tier (Bocco Area) > Wolcott Crags and Boulders > Eagle/Vail/Minturn/Red Cliff > Colorado"
+	},
+	{
+		"Route": "Scarpa Diem",
+		"Location": "Eagle Wall > Wolcott Crags and Boulders > Eagle/Vail/Minturn/Red Cliff > Colorado"
+	},
+	{ "Route": 5.9, "Location": "Homestake Road Crag > Eagle/Vail/Minturn/Red Cliff > Colorado" },
+	{
+		"Route": "Dancing in the Dragon's Jaw",
+		"Location": "Roof Rock > Eagle/Vail/Minturn/Red Cliff > Colorado"
+	},
+	{
+		"Route": "The Golf Ball",
+		"Location": "Fraggle Rock > Eagle/Vail/Minturn/Red Cliff > Colorado"
+	},
+	{
+		"Route": "Oh Face",
+		"Location": "Neanderthal Wall > Castlewood Canyon SP > Denver South > Colorado"
+	},
+	{
+		"Route": "The Mosh",
+		"Location": "Neanderthal Wall > Castlewood Canyon SP > Denver South > Colorado"
+	},
+	{
+		"Route": "The Story So Far",
+		"Location": "Neanderthal Wall > Castlewood Canyon SP > Denver South > Colorado"
+	},
+	{
+		"Route": "The Fingers Have It",
+		"Location": "Neanderthal Wall > Castlewood Canyon SP > Denver South > Colorado"
+	},
+	{
+		"Route": "Bad Ass Pi Man",
+		"Location": "Neanderthal Wall > Castlewood Canyon SP > Denver South > Colorado"
+	},
+	{
+		"Route": "Bubbo Goes Solo",
+		"Location": "The Grocery Store Walls > Castlewood Canyon SP > Denver South > Colorado"
+	},
+	{
+		"Route": "Penny Horse Ride",
+		"Location": "The Grocery Store Walls > Castlewood Canyon SP > Denver South > Colorado"
+	},
+	{
+		"Route": "Bubbo's Crack",
+		"Location": "The Grocery Store Walls > Castlewood Canyon SP > Denver South > Colorado"
+	},
+	{
+		"Route": "Norman Rockshoes",
+		"Location": "The Dungeon > Castlewood Canyon SP > Denver South > Colorado"
+	},
+	{
+		"Route": "Deathwidth",
+		"Location": "Honeycomb Spire > Castlewood Canyon SP > Denver South > Colorado"
 	},
 	{
 		"Route": "Race the Storm",
-		"Location": "The Grotto > Castlewood Canyon SP > Denver South > Colorado",
-		"URL": "https://www.mountainproject.com/route/119258280/race-the-storm",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": 5.4,
-		"Pitches": 1,
-		"Length": 25,
-		"Area Latitude": 39.33111,
-		"Area Longitude": -104.73864
+		"Location": "The Grotto > Castlewood Canyon SP > Denver South > Colorado"
+	},
+	{ "Route": "Crusty Crack", "Location": "Daniels Park > Denver South > Colorado" },
+	{
+		"Route": "TR Wall Left Route",
+		"Location": "The Non Eggs > The Eggs > Alderfer/Three Sisters Park > Morrison/Evergreen/Littleton > Colorado"
 	},
 	{
-		"Route": "The Itch",
-		"Location": "Gold Wall > X Rock > Durango > Colorado",
-		"URL": "https://www.mountainproject.com/route/105821942/the-itch",
-		"Avg Stars": 2.8,
-		"Your Stars": -1,
-		"Route Type": "TR",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 60,
-		"Area Latitude": 37.31071,
-		"Area Longitude": -107.86172
+		"Route": "Unknown TR",
+		"Location": "The Non Eggs > The Eggs > Alderfer/Three Sisters Park > Morrison/Evergreen/Littleton > Colorado"
 	},
+	{
+		"Route": "Z is Last, But This is First",
+		"Location": "Morrison Routes > Morrison/Evergreen/Littleton > Colorado"
+	},
+	{
+		"Route": "The Birds Don't Worry",
+		"Location": "Morrison Routes > Morrison/Evergreen/Littleton > Colorado"
+	},
+	{ "Route": "Right Picto", "Location": "I. Watch Crystal > East  Animas > Durango > Colorado" },
+	{ "Route": "The Itch", "Location": "Gold Wall > X Rock > Durango > Colorado" },
+	{ "Route": "Monkey Hang", "Location": "X Rock > X Rock > Durango > Colorado" },
+	{ "Route": "Green Wall", "Location": "X Rock > X Rock > Durango > Colorado" },
+	{ "Route": "Jay's Route", "Location": "Dos XX > X Rock > Durango > Colorado" },
+	{ "Route": "X-Rock Rules!", "Location": "Sweet Sandstone > X Rock > Durango > Colorado" },
 	{
 		"Route": "One Summer's Eve",
-		"Location": "Garden of Eden Wall (Pool Area) > Cascade Canyon > Durango > Colorado",
-		"URL": "https://www.mountainproject.com/route/105829529/one-summers-eve",
-		"Avg Stars": 3.2,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 75,
-		"Area Latitude": 37.65774,
-		"Area Longitude": -107.80962
+		"Location": "Garden of Eden Wall (Pool Area) > Cascade Canyon > Durango > Colorado"
 	},
 	{
 		"Route": "My Bouyant Craft",
-		"Location": "F. Crystal Aretes > West Coast Cliffs > Hermosa > Durango > Colorado",
-		"URL": "https://www.mountainproject.com/route/106042987/my-bouyant-craft",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "TR",
-		"Rating": "5.7+",
-		"Pitches": 1,
-		"Length": 70,
-		"Area Latitude": 37.4294,
-		"Area Longitude": -107.8372
+		"Location": "F. Crystal Aretes > West Coast Cliffs > Hermosa > Durango > Colorado"
 	},
 	{
 		"Route": "Ebb Tide Arete",
-		"Location": "K. Jake's Gully > West Coast Cliffs > Hermosa > Durango > Colorado",
-		"URL": "https://www.mountainproject.com/route/106043492/ebb-tide-arete",
-		"Avg Stars": 4,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.8+",
-		"Pitches": 1,
-		"Length": 75,
-		"Area Latitude": 37.4294,
-		"Area Longitude": -107.8372
+		"Location": "K. Jake's Gully > West Coast Cliffs > Hermosa > Durango > Colorado"
 	},
+	{ "Route": "Snakes And Ladders", "Location": "West Side > Lemon Reservoir > Durango > Colorado" },
+	{ "Route": "Tons of Fun", "Location": "West Side > Lemon Reservoir > Durango > Colorado" },
+	{ "Route": "Stabbin' the Cat", "Location": "Penthouse > Vallecito Crags > Durango > Colorado" },
+	{ "Route": "14 Day Limit", "Location": "Lakeview > Vallecito Crags > Durango > Colorado" },
+	{ "Route": "Flightless Bird", "Location": "Lakeview > Vallecito Crags > Durango > Colorado" },
+	{ "Route": "Thread", "Location": "The Cube > Sailing Hawks > Durango > Colorado" },
+	{ "Route": "Moki's World", "Location": "The Cube > Sailing Hawks > Durango > Colorado" },
+	{ "Route": "Wrinkle", "Location": "The Cube > Sailing Hawks > Durango > Colorado" },
+	{ "Route": "Shaolin Shadowboxing", "Location": "The Cube > Sailing Hawks > Durango > Colorado" },
+	{ "Route": "Bananas and Blow", "Location": "The Cube > Sailing Hawks > Durango > Colorado" },
+	{ "Route": "Goldbar Left Edge", "Location": "Loiterland > Sailing Hawks > Durango > Colorado" },
+	{ "Route": "Bipolar Express", "Location": "Mental Block > Sailing Hawks > Durango > Colorado" },
+	{ "Route": "Winnebago Warrior", "Location": "RV Wall > Durango > Colorado" },
+	{ "Route": "San Juan Skyway", "Location": "RV Wall > Durango > Colorado" },
+	{ "Route": "Route 3", "Location": "Fume Wall Right > Fume Wall > Durango > Colorado" },
+	{ "Route": "Sally Pocket", "Location": "Low Angle Wall > Fume Wall > Durango > Colorado" },
+	{ "Route": "Frisky Kitty", "Location": "Low Angle Wall > Fume Wall > Durango > Colorado" },
+	{ "Route": "Smoke Hut", "Location": "Power House > Durango > Colorado" },
 	{
-		"Route": "Snakes And Ladders",
-		"Location": "West Side > Lemon Reservoir > Durango > Colorado",
-		"URL": "https://www.mountainproject.com/route/122529629/snakes-and-ladders",
-		"Avg Stars": 4,
-		"Your Stars": -1,
-		"Route Type": "TR, Aid, Mixed",
-		"Rating": "5.0 M3+ A0",
-		"Pitches": 1,
-		"Length": 20,
-		"Area Latitude": 37.46485,
-		"Area Longitude": -107.67834
-	},
-	{
-		"Route": "Tons of Fun",
-		"Location": "West Side > Lemon Reservoir > Durango > Colorado",
-		"URL": "https://www.mountainproject.com/route/106652951/tons-of-fun",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Trad, Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 80,
-		"Area Latitude": 37.46485,
-		"Area Longitude": -107.67834
-	},
-	{
-		"Route": "14 Day Limit",
-		"Location": "Lakeview > Vallecito Crags > Durango > Colorado",
-		"URL": "https://www.mountainproject.com/route/122073947/14-day-limit",
-		"Avg Stars": 2.8,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 37.40414,
-		"Area Longitude": -107.5267
-	},
-	{
-		"Route": "Thread",
-		"Location": "The Cube > Sailing Hawks > Durango > Colorado",
-		"URL": "https://www.mountainproject.com/route/114153819/thread",
-		"Avg Stars": 3.3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 60,
-		"Area Latitude": 37.31023,
-		"Area Longitude": -107.88331
-	},
-	{
-		"Route": "Shaolin Shadowboxing",
-		"Location": "The Cube > Sailing Hawks > Durango > Colorado",
-		"URL": "https://www.mountainproject.com/route/114779219/shaolin-shadowboxing",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 30,
-		"Area Latitude": 37.31023,
-		"Area Longitude": -107.88331
-	},
-	{
-		"Route": "Goldbar Left Edge",
-		"Location": "Loiterland > Sailing Hawks > Durango > Colorado",
-		"URL": "https://www.mountainproject.com/route/121951918/goldbar-left-edge",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 75,
-		"Area Latitude": 37.31071,
-		"Area Longitude": -107.88266
-	},
-	{
-		"Route": "Bipolar Express",
-		"Location": "Mental Block > Sailing Hawks > Durango > Colorado",
-		"URL": "https://www.mountainproject.com/route/123551120/bipolar-express",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.7,
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 37.31106,
-		"Area Longitude": -107.88058
+		"Route": "Prince Charming Left",
+		"Location": "Waterfall Wall > Ouray vicinity (rock) > Colorado"
 	},
 	{
 		"Route": "Groove Tube",
-		"Location": "The Alcove > The Pool Wall > Ouray vicinity (rock) > Colorado",
-		"URL": "https://www.mountainproject.com/route/105957345/groove-tube",
-		"Avg Stars": 3.1,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 90,
-		"Area Latitude": 38.03114,
-		"Area Longitude": -107.67124
+		"Location": "The Alcove > The Pool Wall > Ouray vicinity (rock) > Colorado"
+	},
+	{
+		"Route": "Rain of Terror",
+		"Location": "The Alcove > The Pool Wall > Ouray vicinity (rock) > Colorado"
 	},
 	{
 		"Route": "Logan's Slab",
-		"Location": "Ouray Rotary Park-Rink Wall > Ouray vicinity (rock) > Colorado",
-		"URL": "https://www.mountainproject.com/route/122821013/logans-slab",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9 PG13",
-		"Pitches": 1,
-		"Length": 40,
-		"Area Latitude": 38.0436,
-		"Area Longitude": -107.6802
+		"Location": "Ouray Rotary Park-Rink Wall > Ouray vicinity (rock) > Colorado"
+	},
+	{ "Route": "Sam's Spam", "Location": "Ridgway Dike Wall > Ouray vicinity (rock) > Colorado" },
+	{ "Route": "Hungry Bucket", "Location": "Ridgway Dike Wall > Ouray vicinity (rock) > Colorado" },
+	{
+		"Route": "Tim's Slim Jims",
+		"Location": "Ridgway Dike Wall > Ouray vicinity (rock) > Colorado"
 	},
 	{
-		"Route": "Plumbline",
-		"Location": "Slab of Despair > Ouray vicinity (rock) > Colorado",
-		"URL": "https://www.mountainproject.com/route/107769025/plumbline",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 55,
-		"Area Latitude": 37.9949,
-		"Area Longitude": -107.6562
+		"Route": "3D Puzzle Master",
+		"Location": "Ridgway Dike Wall > Ouray vicinity (rock) > Colorado"
 	},
-	{
-		"Route": "Bad Bowl",
-		"Location": "The Secret Stash > Ouray vicinity (rock) > Colorado",
-		"URL": "https://www.mountainproject.com/route/108128958/bad-bowl",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, Sport",
-		"Rating": "5.9-",
-		"Pitches": 1,
-		"Length": 55,
-		"Area Latitude": 37.9825,
-		"Area Longitude": -107.6449
-	},
-	{
-		"Route": "Hot Line",
-		"Location": "The Secret Stash > Ouray vicinity (rock) > Colorado",
-		"URL": "https://www.mountainproject.com/route/108128895/hot-line",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 65,
-		"Area Latitude": 37.9825,
-		"Area Longitude": -107.6449
-	},
-	{
-		"Route": "Wanton Endangerment",
-		"Location": "The Mordwand > Ouray vicinity (rock) > Colorado",
-		"URL": "https://www.mountainproject.com/route/120875682/wanton-endangerment",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 85,
-		"Area Latitude": 37.97945,
-		"Area Longitude": -107.65742
-	},
+	{ "Route": "Plumbline", "Location": "Slab of Despair > Ouray vicinity (rock) > Colorado" },
+	{ "Route": "Bad Bowl", "Location": "The Secret Stash > Ouray vicinity (rock) > Colorado" },
+	{ "Route": "Hot Line", "Location": "The Secret Stash > Ouray vicinity (rock) > Colorado" },
+	{ "Route": "Wanton Endangerment", "Location": "The Mordwand > Ouray vicinity (rock) > Colorado" },
 	{
 		"Route": "Rhino's Revenge",
-		"Location": "Cecilville Slab aka Cecil Rock > Fremont Pass > Colorado",
-		"URL": "https://www.mountainproject.com/route/105850423/rhinos-revenge",
-		"Avg Stars": 2.8,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": "",
-		"Area Latitude": 39.33014,
-		"Area Longitude": -106.21737
+		"Location": "Cecilville Slab aka Cecil Rock > Fremont Pass > Colorado"
+	},
+	{ "Route": "Zebra Walk", "Location": "Cecilville Slab aka Cecil Rock > Fremont Pass > Colorado" },
+	{
+		"Route": "Hyena Crack",
+		"Location": "Cecilville Slab aka Cecil Rock > Fremont Pass > Colorado"
 	},
 	{
-		"Route": "Steel Nuts",
-		"Location": "Box Canyon > Steamboat Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/106236131/steel-nuts",
-		"Avg Stars": 2.8,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 80,
-		"Area Latitude": 40.756,
-		"Area Longitude": -106.8403
+		"Route": "Wily Coyote",
+		"Location": "Cecilville Slab aka Cecil Rock > Fremont Pass > Colorado"
+	},
+	{ "Route": "Bird's Eye", "Location": "Cecilville Slab aka Cecil Rock > Fremont Pass > Colorado" },
+	{ "Route": "Steel Nuts", "Location": "Box Canyon > Steamboat Springs > Colorado" },
+	{
+		"Route": "Left Hand",
+		"Location": "Upper Crag > Seedhouse Crag > Steamboat Springs > Colorado"
+	},
+	{
+		"Route": "West of Africa",
+		"Location": "Lower Crag > Seedhouse Crag > Steamboat Springs > Colorado"
 	},
 	{
 		"Route": "Tough Life",
-		"Location": "Lower-Tier > Strip Mall > Hole in the Wall Canyon > Steamboat Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/117643740/tough-life",
-		"Avg Stars": 3.5,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 75,
-		"Area Latitude": 40.78865,
-		"Area Longitude": -106.84025
+		"Location": "Lower-Tier > Strip Mall > Hole in the Wall Canyon > Steamboat Springs > Colorado"
 	},
 	{
 		"Route": "Rainy Day",
-		"Location": "Lower-Tier > Strip Mall > Hole in the Wall Canyon > Steamboat Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/117643670/rainy-day",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": "5.8+",
-		"Pitches": 1,
-		"Length": 85,
-		"Area Latitude": 40.78865,
-		"Area Longitude": -106.84025
+		"Location": "Lower-Tier > Strip Mall > Hole in the Wall Canyon > Steamboat Springs > Colorado"
 	},
 	{
 		"Route": "No End of Love",
-		"Location": "Upper-Tier > Strip Mall > Hole in the Wall Canyon > Steamboat Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/117643807/no-end-of-love",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.7,
-		"Pitches": 1,
-		"Length": 75,
-		"Area Latitude": 40.78865,
-		"Area Longitude": -106.84025
+		"Location": "Upper-Tier > Strip Mall > Hole in the Wall Canyon > Steamboat Springs > Colorado"
 	},
 	{
 		"Route": "Seven Nation Army",
-		"Location": "White Stripe > Mica Basin > Mt. Zirkel Wilderness > Steamboat Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/122763096/seven-nation-army",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR, Alpine",
-		"Rating": "5.8+ PG13",
-		"Pitches": 1,
-		"Length": 60,
-		"Area Latitude": 40.82278,
-		"Area Longitude": -106.70048
+		"Location": "White Stripe > Mica Basin > Mt. Zirkel Wilderness > Steamboat Springs > Colorado"
 	},
 	{
-		"Route": "Para-Fin",
-		"Location": "Wax Museum > Steamboat Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/117402691/para-fin",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.7,
-		"Pitches": 1,
-		"Length": 75,
-		"Area Latitude": 40.52357,
-		"Area Longitude": -106.78496
+		"Route": "Raspberry Topping",
+		"Location": "Other Rose Dome > Rose Domes > Steamboat Springs > Colorado"
 	},
 	{
-		"Route": "M.O.M.",
-		"Location": "Wax Museum > Steamboat Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/121048851/mom",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 55,
-		"Area Latitude": 40.52357,
-		"Area Longitude": -106.78496
+		"Route": "Raining Rose Pebbles",
+		"Location": "Other Rose Dome > Rose Domes > Steamboat Springs > Colorado"
 	},
 	{
-		"Route": "Keep It Greasy",
-		"Location": "Mad Creek > Steamboat Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/119851722/keep-it-greasy",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 40.57123,
-		"Area Longitude": -106.88077
+		"Route": "Spotted Rose",
+		"Location": "Other Rose Dome > Rose Domes > Steamboat Springs > Colorado"
+	},
+	{
+		"Route": "Piggly Wiggly",
+		"Location": "Other Rose Dome > Rose Domes > Steamboat Springs > Colorado"
+	},
+	{
+		"Route": "Squirrel",
+		"Location": "Other Rose Dome > Rose Domes > Steamboat Springs > Colorado"
+	},
+	{
+		"Route": "#8 Unknown",
+		"Location": "Main Amphitheater > Cougar > Steamboat Springs > Colorado"
+	},
+	{ "Route": "Rock Island", "Location": "Creekside > Muddy Creek > Steamboat Springs > Colorado" },
+	{ "Route": "Para-Fin", "Location": "Wax Museum > Steamboat Springs > Colorado" },
+	{ "Route": "M.O.M.", "Location": "Wax Museum > Steamboat Springs > Colorado" },
+	{ "Route": "First Black One", "Location": "Wax Museum > Steamboat Springs > Colorado" },
+	{ "Route": "Madame Tussaud's", "Location": "Wax Museum > Steamboat Springs > Colorado" },
+	{ "Route": "Wax Chandelier", "Location": "Wax Museum > Steamboat Springs > Colorado" },
+	{ "Route": "Pandemic Development", "Location": "Wax Museum > Steamboat Springs > Colorado" },
+	{ "Route": "Silver Lining", "Location": "Wax Museum > Steamboat Springs > Colorado" },
+	{ "Route": "Moose Wallow", "Location": "Wax Museum > Steamboat Springs > Colorado" },
+	{ "Route": "Keep It Greasy", "Location": "Mad Creek > Steamboat Springs > Colorado" },
+	{
+		"Route": "Thumbs Up Tower",
+		"Location": "Towers above The BLM Campground > Big Gypsum - Dolores > Naturita and Paradox Valley > Colorado"
+	},
+	{
+		"Route": "Black Walk",
+		"Location": "Black Wall > Big Gypsum - Dolores > Naturita and Paradox Valley > Colorado"
 	},
 	{
 		"Route": "Rainbow Warrior",
-		"Location": "Main Wall > Ophir Wall > Ophir > Telluride/Norwood area > Colorado",
-		"URL": "https://www.mountainproject.com/route/105847261/rainbow-warrior",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+ R",
-		"Pitches": 1,
-		"Length": 120,
-		"Area Latitude": 37.859,
-		"Area Longitude": -107.86669
+		"Location": "Main Wall > Ophir Wall > Ophir > Telluride/Norwood area > Colorado"
 	},
 	{
-		"Route": "Miss Earth",
-		"Location": "Clay Creek Crag > Telluride/Norwood area > Colorado",
-		"URL": "https://www.mountainproject.com/route/107340425/miss-earth",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 35,
-		"Area Latitude": 38.16663,
-		"Area Longitude": -108.23833
+		"Route": "Blue Moon",
+		"Location": "Main Wall > Ophir Wall > Ophir > Telluride/Norwood area > Colorado"
+	},
+	{
+		"Route": "Horse Chaser",
+		"Location": "Main Wall > Ophir Wall > Ophir > Telluride/Norwood area > Colorado"
+	},
+	{
+		"Route": "Teacher's Pet",
+		"Location": "Cracked Canyon > Ophir > Telluride/Norwood area > Colorado"
+	},
+	{
+		"Route": "Third Grade",
+		"Location": "Cracked Canyon > Ophir > Telluride/Norwood area > Colorado"
+	},
+	{
+		"Route": "Laughing Sam's Dice",
+		"Location": "The Wild Westerlies > The Dark Side > Ophir > Telluride/Norwood area > Colorado"
+	},
+	{ "Route": "Miss Earth", "Location": "Clay Creek Crag > Telluride/Norwood area > Colorado" },
+	{ "Route": "Hang Loose", "Location": "Clay Creek Crag > Telluride/Norwood area > Colorado" },
+	{ "Route": "Mini-Me", "Location": "Clay Creek Crag > Telluride/Norwood area > Colorado" },
+	{
+		"Route": "Swashbucklers and Scallywags",
+		"Location": "Pipeline Wall > Telluride/Norwood area > Colorado"
+	},
+	{ "Route": "Calypso", "Location": "Pipeline Wall > Telluride/Norwood area > Colorado" },
+	{
+		"Route": "Darwin's Rib",
+		"Location": "Main Wall > The Falls Walls > Telluride/Norwood area > Colorado"
+	},
+	{
+		"Route": "How's My Driving",
+		"Location": "Main Wall > The Falls Walls > Telluride/Norwood area > Colorado"
+	},
+	{
+		"Route": "Nescafe",
+		"Location": "Piedra River -  Lower West > Piedra River > Pagosa Springs > Colorado"
+	},
+	{
+		"Route": "Lightning Crashes",
+		"Location": "Piedra River -  Lower West > Piedra River > Pagosa Springs > Colorado"
+	},
+	{
+		"Route": "Emotionally Involved",
+		"Location": "Piedra River -  Lower West > Piedra River > Pagosa Springs > Colorado"
+	},
+	{
+		"Route": "Silver",
+		"Location": "Piedra River -  Lower West > Piedra River > Pagosa Springs > Colorado"
 	},
 	{
 		"Route": "The Sweet Spot",
-		"Location": "Piedra River -  Lower West > Piedra River > Pagosa Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/119069013/the-sweet-spot",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 37.4197,
-		"Area Longitude": -107.1968
+		"Location": "Piedra River -  Lower West > Piedra River > Pagosa Springs > Colorado"
 	},
 	{
-		"Route": "The Good Boyfriend",
-		"Location": "Blanco Basin Crags > Pagosa Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/107692182/the-good-boyfriend",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, Sport",
-		"Rating": 5.6,
-		"Pitches": 1,
-		"Length": 40,
-		"Area Latitude": 37.26254,
-		"Area Longitude": -106.75706
+		"Route": "Different Strokes",
+		"Location": "Piedra River -  Lower West > Piedra River > Pagosa Springs > Colorado"
 	},
 	{
-		"Route": "Invincible",
-		"Location": "Wild River Crag > Pagosa Springs > Colorado",
-		"URL": "https://www.mountainproject.com/route/122870634/invincible",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": "",
-		"Area Latitude": 37.26484,
-		"Area Longitude": -107.01031
+		"Route": "Ruled By Force",
+		"Location": "Piedra River -  Lower West > Piedra River > Pagosa Springs > Colorado"
 	},
+	{ "Route": "The Good Boyfriend", "Location": "Blanco Basin Crags > Pagosa Springs > Colorado" },
+	{ "Route": "Invincible", "Location": "Wild River Crag > Pagosa Springs > Colorado" },
+	{ "Route": "The Green Room", "Location": "The Stripe > Silverton area > Colorado" },
+	{ "Route": "Deadhead", "Location": "Deadwood Gulch > Silverton area > Colorado" },
+	{ "Route": "The Gift", "Location": "Right Side > Dry Creek Crag > Montrose > Colorado" },
+	{ "Route": "Lay It Back", "Location": "Right Side > Dry Creek Crag > Montrose > Colorado" },
+	{ "Route": "Jugfest", "Location": "Left Side > Dry Creek Crag > Montrose > Colorado" },
 	{
-		"Route": "The Gift",
-		"Location": "Right Side > Dry Creek Crag > Montrose > Colorado",
-		"URL": "https://www.mountainproject.com/route/117089857/the-gift",
-		"Avg Stars": 3.5,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.8+",
-		"Pitches": 1,
-		"Length": 45,
-		"Area Latitude": 38.49753,
-		"Area Longitude": -108.05949
+		"Route": "Toprope",
+		"Location": "Cathedral Boulder > Cathedral Boulders (Middle Drainage) > Electric Hills Bouldering > Montrose > Colorado"
 	},
-	{
-		"Route": "Lay It Back",
-		"Location": "Right Side > Dry Creek Crag > Montrose > Colorado",
-		"URL": "https://www.mountainproject.com/route/113861536/lay-it-back",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 40,
-		"Area Latitude": 38.49753,
-		"Area Longitude": -108.05949
-	},
-	{
-		"Route": "Jugfest",
-		"Location": "Left Side > Dry Creek Crag > Montrose > Colorado",
-		"URL": "https://www.mountainproject.com/route/113778629/jugfest",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9-",
-		"Pitches": 1,
-		"Length": 35,
-		"Area Latitude": 38.49961,
-		"Area Longitude": -108.05929
-	},
-	{
-		"Route": "Cataract Crack",
-		"Location": "Cataract Lake (Heeney, Colorado) > Colorado",
-		"URL": "https://www.mountainproject.com/route/106562750/cataract-crack",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "TR, Alpine",
-		"Rating": "5.7 PG13",
-		"Pitches": 1,
-		"Length": 40,
-		"Area Latitude": 39.8283,
-		"Area Longitude": -106.3263
-	},
-	{
-		"Route": "Right Away",
-		"Location": "Teeter Top > 10 Mile Canyon > Colorado",
-		"URL": "https://www.mountainproject.com/route/119748261/right-away",
-		"Avg Stars": 3.4,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 30,
-		"Area Latitude": 39.56807,
-		"Area Longitude": -106.12628
-	},
-	{
-		"Route": "Craterade",
-		"Location": "Teeter Top > 10 Mile Canyon > Colorado",
-		"URL": "https://www.mountainproject.com/route/119748114/craterade",
-		"Avg Stars": 3.3,
-		"Your Stars": -1,
-		"Route Type": "TR",
-		"Rating": 5.5,
-		"Pitches": 1,
-		"Length": 45,
-		"Area Latitude": 39.56807,
-		"Area Longitude": -106.12628
-	},
-	{
-		"Route": "Tree Trimmer",
-		"Location": "Teeter Top > 10 Mile Canyon > Colorado",
-		"URL": "https://www.mountainproject.com/route/119748235/tree-trimmer",
-		"Avg Stars": 3.3,
-		"Your Stars": -1,
-		"Route Type": "TR",
-		"Rating": 5.6,
-		"Pitches": 1,
-		"Length": 35,
-		"Area Latitude": 39.56807,
-		"Area Longitude": -106.12628
-	},
-	{
-		"Route": "Line of Little Resistance",
-		"Location": "Teeter Top > 10 Mile Canyon > Colorado",
-		"URL": "https://www.mountainproject.com/route/119748208/line-of-little-resistance",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "TR",
-		"Rating": 5.5,
-		"Pitches": 1,
-		"Length": 35,
-		"Area Latitude": 39.56807,
-		"Area Longitude": -106.12628
-	},
+	{ "Route": "Cataract Crack", "Location": "Cataract Lake (Heeney, Colorado) > Colorado" },
+	{ "Route": "Zebra", "Location": "White Cliff > 10 Mile Canyon > Colorado" },
+	{ "Route": "Funky Gunky", "Location": "White Cliff > 10 Mile Canyon > Colorado" },
+	{ "Route": "Parallel Universe", "Location": "White Cliff > 10 Mile Canyon > Colorado" },
+	{ "Route": "Hard Monkey", "Location": "White Cliff > 10 Mile Canyon > Colorado" },
+	{ "Route": "Wild Geese In the West", "Location": "White Cliff > 10 Mile Canyon > Colorado" },
+	{ "Route": "Blitz Girls", "Location": "White Cliff > 10 Mile Canyon > Colorado" },
+	{ "Route": "Dealer's Choice Right", "Location": "Halfway Rock > 10 Mile Canyon > Colorado" },
+	{ "Route": "Simul I", "Location": "Officer's Gulch West > 10 Mile Canyon > Colorado" },
+	{ "Route": "Dirty Downs", "Location": "Officer's Gulch West > 10 Mile Canyon > Colorado" },
+	{ "Route": "Face-it", "Location": "Officer's Gulch West > 10 Mile Canyon > Colorado" },
+	{ "Route": "Logan's Run", "Location": "Officer's Gulch West > 10 Mile Canyon > Colorado" },
+	{ "Route": "Notches", "Location": "Officer's Gulch West > 10 Mile Canyon > Colorado" },
+	{ "Route": "Twisted Ankle", "Location": "Officer's Gulch West > 10 Mile Canyon > Colorado" },
+	{ "Route": "Rookies' Demise", "Location": "Officer's Gulch West > 10 Mile Canyon > Colorado" },
+	{ "Route": "Short-N-Sweet", "Location": "Officer's Gulch West > 10 Mile Canyon > Colorado" },
+	{ "Route": "Handy Andy", "Location": "The Dome > 10 Mile Canyon > Colorado" },
+	{ "Route": "Drive by Truckers", "Location": "The Dome > 10 Mile Canyon > Colorado" },
+	{ "Route": "Right Away", "Location": "Teeter Top > 10 Mile Canyon > Colorado" },
+	{ "Route": "Craterade", "Location": "Teeter Top > 10 Mile Canyon > Colorado" },
+	{ "Route": "Tree Trimmer", "Location": "Teeter Top > 10 Mile Canyon > Colorado" },
+	{ "Route": "Trick-Or-Teeter", "Location": "Teeter Top > 10 Mile Canyon > Colorado" },
+	{ "Route": "Line of Little Resistance", "Location": "Teeter Top > 10 Mile Canyon > Colorado" },
+	{ "Route": "Damocles", "Location": "Teeter Top > 10 Mile Canyon > Colorado" },
+	{ "Route": "Wu-Tang Ate My Pittys", "Location": "Teeter Top > 10 Mile Canyon > Colorado" },
+	{ "Route": "Harris Teeter", "Location": "Teeter Top > 10 Mile Canyon > Colorado" },
 	{
 		"Route": "Michele's Crack",
-		"Location": "First Wall > Hurd Creek Crag > Grand County / Fraser Valley > Colorado",
-		"URL": "https://www.mountainproject.com/route/120011973/micheles-crack",
-		"Avg Stars": 3.8,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": "",
-		"Area Latitude": 40.00991,
-		"Area Longitude": -105.82257
+		"Location": "First Wall > Hurd Creek Crag > Grand County / Fraser Valley > Colorado"
 	},
 	{
 		"Route": "In the Groove",
-		"Location": "First Wall > Hurd Creek Crag > Grand County / Fraser Valley > Colorado",
-		"URL": "https://www.mountainproject.com/route/120011908/in-the-groove",
-		"Avg Stars": 3.1,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": "",
-		"Area Latitude": 40.00991,
-		"Area Longitude": -105.82257
+		"Location": "First Wall > Hurd Creek Crag > Grand County / Fraser Valley > Colorado"
 	},
 	{
-		"Route": "Poseidon",
-		"Location": "Saint Mary's Glacier > Dumont vicinity > Colorado",
-		"URL": "https://www.mountainproject.com/route/107743386/poseidon",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "TR",
-		"Rating": "5.9 PG13",
-		"Pitches": 1,
-		"Length": 40,
-		"Area Latitude": 39.7878,
-		"Area Longitude": -105.6332
+		"Route": "Throw Up",
+		"Location": "Lower Wall > Hurd Creek Crag > Grand County / Fraser Valley > Colorado"
 	},
+	{
+		"Route": "Put Up",
+		"Location": "Lower Wall > Hurd Creek Crag > Grand County / Fraser Valley > Colorado"
+	},
+	{
+		"Route": "Shut Up",
+		"Location": "Lower Wall > Hurd Creek Crag > Grand County / Fraser Valley > Colorado"
+	},
+	{
+		"Route": "Route 7",
+		"Location": "New Don Wall (aka Upper Hurd Basin) > Grand County / Fraser Valley > Colorado"
+	},
+	{ "Route": "Honey Pot", "Location": "Mill Creek Crag > Dumont vicinity > Colorado" },
+	{ "Route": "Poseidon", "Location": "Saint Mary's Glacier > Dumont vicinity > Colorado" },
+	{ "Route": "Welcome to the Jungle", "Location": "Trundle Wall > Dumont vicinity > Colorado" },
 	{
 		"Route": "Reverend Blue Jeans",
-		"Location": "Scorpio Crag > Picket Wire Canyon > Vogel Canyon > Colorado",
-		"URL": "https://www.mountainproject.com/route/112469837/reverend-blue-jeans",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "TR",
-		"Rating": 5.9,
-		"Pitches": 1,
-		"Length": 40,
-		"Area Latitude": 37.641,
-		"Area Longitude": -103.58438
+		"Location": "Scorpio Crag > Picket Wire Canyon > Vogel Canyon > Colorado"
 	},
 	{
-		"Route": "Massive Hemorrhoid",
-		"Location": "A Massive Pain in the ASS > Leadville > Colorado",
-		"URL": "https://www.mountainproject.com/route/117693664/massive-hemorrhoid",
-		"Avg Stars": 3.7,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR, Alpine",
-		"Rating": "5.6 X",
-		"Pitches": 1,
-		"Length": 75,
-		"Area Latitude": 39.18367,
-		"Area Longitude": -106.47574
+		"Route": "Pack It In, Pack It Out",
+		"Location": "Mule Train Wall > Camp Hale > Leadville > Colorado"
 	},
+	{ "Route": "Warrior's Cry", "Location": "Warrior's Wall > Camp Hale > Leadville > Colorado" },
+	{
+		"Route": "Monumental Experience",
+		"Location": "Paramount Pinnacle > Camp Hale > Leadville > Colorado"
+	},
+	{ "Route": "Up The Other", "Location": "Paramount Pinnacle > Camp Hale > Leadville > Colorado" },
+	{ "Route": "Up One Hill", "Location": "Paramount Pinnacle > Camp Hale > Leadville > Colorado" },
+	{ "Route": "Massive Hemorrhoid", "Location": "A Massive Pain in the ASS > Leadville > Colorado" },
 	{
 		"Route": "Massive Penetration",
-		"Location": "A Massive Pain in the ASS > Leadville > Colorado",
-		"URL": "https://www.mountainproject.com/route/117693798/massive-penetration",
-		"Avg Stars": 3.7,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR, Alpine",
-		"Rating": "5.9- R",
-		"Pitches": 1,
-		"Length": 75,
-		"Area Latitude": 39.18367,
-		"Area Longitude": -106.47574
+		"Location": "A Massive Pain in the ASS > Leadville > Colorado"
 	},
 	{
 		"Route": "Massive Commitment Issues",
-		"Location": "A Massive Pain in the ASS > Leadville > Colorado",
-		"URL": "https://www.mountainproject.com/route/117693773/massive-commitment-issues",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR, Alpine",
-		"Rating": "5.7 X",
-		"Pitches": 1,
-		"Length": 75,
-		"Area Latitude": 39.18367,
-		"Area Longitude": -106.47574
+		"Location": "A Massive Pain in the ASS > Leadville > Colorado"
 	},
 	{
 		"Route": "A Massive Disappointment",
-		"Location": "A Massive Pain in the ASS > Leadville > Colorado",
-		"URL": "https://www.mountainproject.com/route/117666078/a-massive-disappointment",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "TR, Alpine",
-		"Rating": 5.5,
-		"Pitches": 1,
-		"Length": 40,
-		"Area Latitude": 39.18367,
-		"Area Longitude": -106.47574
+		"Location": "A Massive Pain in the ASS > Leadville > Colorado"
 	},
-	{
-		"Route": "Hero Loop",
-		"Location": "Southwest TR > Gold Butte > Colorado",
-		"URL": "https://www.mountainproject.com/route/116837136/hero-loop",
-		"Avg Stars": 3.1,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": "5.9+",
-		"Pitches": 1,
-		"Length": 50,
-		"Area Latitude": 39.2158,
-		"Area Longitude": -106.84409
-	},
-	{
-		"Route": "Eenie",
-		"Location": "Southwest TR > Gold Butte > Colorado",
-		"URL": "https://www.mountainproject.com/route/113496748/eenie",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Sport, TR",
-		"Rating": "5.8+",
-		"Pitches": 1,
-		"Length": "",
-		"Area Latitude": 39.2158,
-		"Area Longitude": -106.84409
-	},
-	{
-		"Route": "Mo's Crack",
-		"Location": "Southwest TR > Gold Butte > Colorado",
-		"URL": "https://www.mountainproject.com/route/117610261/mos-crack",
-		"Avg Stars": 2.9,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": "5.9-",
-		"Pitches": 1,
-		"Length": 60,
-		"Area Latitude": 39.2158,
-		"Area Longitude": -106.84409
-	},
+	{ "Route": "Massive High", "Location": "A Massive Pain in the ASS > Leadville > Colorado" },
+	{ "Route": "Hero Loop", "Location": "Southwest TR > Gold Butte > Colorado" },
+	{ "Route": "Eenie", "Location": "Southwest TR > Gold Butte > Colorado" },
+	{ "Route": "Mo's Crack", "Location": "Southwest TR > Gold Butte > Colorado" },
+	{ "Route": "Dusty Ridge", "Location": "East Face > Gold Butte > Colorado" },
 	{
 		"Route": "Just Another Crack",
-		"Location": "Little Snake Canyon > Cross Mountain Boulders > Colorado",
-		"URL": "https://www.mountainproject.com/route/113830109/just-another-crack",
-		"Avg Stars": 3,
-		"Your Stars": -1,
-		"Route Type": "Trad, TR",
-		"Rating": "5.8+",
-		"Pitches": 1,
-		"Length": 35,
-		"Area Latitude": 40.53513,
-		"Area Longitude": -108.42453
+		"Location": "Little Snake Canyon > Cross Mountain Boulders > Colorado"
+	},
+	{
+		"Route": "Stairway To Prison",
+		"Location": "Downtown Denver > Denver Metropolitan Area Bouldering and Buildering > Colorado"
 	},
 	{
 		"Route": "Air Time",
-		"Location": "G. Pumphouse Right > Dolores River Canyon (Dove Creek) > Four Corners Area > Colorado",
-		"URL": "https://www.mountainproject.com/route/109583726/air-time",
-		"Avg Stars": 2.8,
-		"Your Stars": -1,
-		"Route Type": "Sport",
-		"Rating": 5.8,
-		"Pitches": 1,
-		"Length": 80,
-		"Area Latitude": 37.81082,
-		"Area Longitude": -108.81875
+		"Location": "G. Pumphouse Right > Dolores River Canyon (Dove Creek) > Four Corners Area > Colorado"
+	},
+	{
+		"Route": "Bat Master",
+		"Location": "G. Pumphouse Right > Dolores River Canyon (Dove Creek) > Four Corners Area > Colorado"
+	},
+	{
+		"Route": "Bonsai",
+		"Location": "B. Box Elder Crag > Dolores River Canyon (Dove Creek) > Four Corners Area > Colorado"
 	}
 ]

@@ -89,7 +89,7 @@
 <main class="container">
 	<h1 class="text-zinc-200 text-3xl py-3">Rock Climbs</h1>
 	<p class="text-zinc-200 text-justify">
-		Rock routes (Sport or Toprope) in Colorado between 5.0 and 5.9+ with at least 3 stars and
+		Rock routes (Sport or Toprope) in Colorado between 5.0 and 5.9+ with at least 2.5 stars and
 		exactly 1 pitch.
 	</p>
 	<div id="chartdiv" class="w-full aspect-video" />
