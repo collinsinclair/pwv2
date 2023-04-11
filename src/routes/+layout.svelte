@@ -29,6 +29,14 @@
 		{
 			href: '/map',
 			text: 'Map'
+		},
+		{
+			href: 'gear',
+			text: 'Gear'
+		},
+		{
+			href: 'rock-climbs',
+			text: 'Rock Climbs'
 		}
 	];
 </script>

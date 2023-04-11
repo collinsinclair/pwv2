@@ -2,31 +2,34 @@
 	import { Map, Marker, controls } from '@beyonk/svelte-mapbox';
 	import { onMount } from 'svelte';
 	import coSummitClimbs from '$lib/json/colorado-summit-hikes.json';
-	const colors = ['#22c55e', '#3b82f6', '#eab308', '#ef4444'];
-	coSummitClimbs.forEach((climb) => {
-		climb.Color = colors[climb['Difficulty']];
-	});
+	import * as colormap from 'colormap';
 
 	let mapComponent;
 	const { GeolocateControl, NavigationControl } = controls;
 	const accessToken =
 		'pk.eyJ1IjoiY29sbGluc2luY2xhaXIiLCJhIjoiY2w4dnl3b2U4MGlvbTNvc3Jna3I0cml4byJ9.GXhvyfjGlngMo7MpNEkMRA';
 	const style = 'mapbox://styles/mapbox/outdoors-v12';
-
 	let maxElevation = 14000;
 	let minElevation =
 		Math.floor(Math.min(...coSummitClimbs.map((climb) => climb['Elevation'])) / 100) * 100;
 	let elevationFilter = minElevation;
 	let difficulties = [0, 1, 2, 3];
-
 	$: filteredClimbs = coSummitClimbs.filter((climb) => {
 		return climb['Elevation'] >= elevationFilter && difficulties.includes(climb['Difficulty']);
 	});
-
+	let colors = colormap({
+		colormap: 'viridis',
+		nshades: 10,
+		format: 'hex',
+		alpha: 0
+	});
+	// set the color for each climb using its elevation, such that the lowest elevation is the first color and the highest is the last
+	$: filteredClimbs.forEach((climb, index) => {
+		climb.color = colors[Math.floor((index / filteredClimbs.length) * colors.length)];
+	});
 	onMount(() => {
 		mapComponent.setCenter([-104.99028, 39.73925], 10);
 	});
-	$: console.log(difficulties);
 </script>
 
 <svelte:head>
@@ -96,8 +99,8 @@
 				<Marker
 					lat={climb['Latitude']}
 					lng={climb['Longitude']}
-					label={climb.Name}
-					color={climb.Color}
+					label={`${climb.Name} (${climb['Elevation'].toLocaleString()} ft)`}
+					color={climb.color}
 				/>
 			{/each}
 		</Map>
