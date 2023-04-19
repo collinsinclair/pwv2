@@ -23,16 +23,8 @@
 			text: 'Student Loans'
 		},
 		{
-			href: '/running',
-			text: 'Running'
-		},
-		{
 			href: '/map',
 			text: 'Map'
-		},
-		{
-			href: 'gear',
-			text: 'Gear'
 		},
 		{
 			href: 'rock-climbs',
