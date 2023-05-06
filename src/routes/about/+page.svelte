@@ -12,9 +12,12 @@
 		const duration = new Date(tenure[1] - tenure[0]);
 		const years = duration.getUTCFullYear() - 1970;
 		const months = duration.getUTCMonth();
-		if (years === 0) return `${months} months`;
-		if (months === 0) return `${years} years`;
-		return `${years} years, ${months} months`;
+		const yearString = years === 1 ? 'year' : 'years';
+		const monthString = months === 1 ? 'month' : 'months';
+
+		if (years === 0) return `${months} ${monthString}`;
+		if (months === 0) return `${years} ${yearString}`;
+		return `${years} ${yearString}, ${months} ${monthString}`;
 	}
 </script>
 
@@ -36,7 +39,23 @@
 				<a href="https://bricksimple.com">BrickSimple, LLC</a>
 			</p>
 			<p class="text-zinc-200 text-md">May 2022 - Present ({getMonthsYears(brickSimple)})</p>
-			<p class="text-zinc-200 text-sm">asdf</p>
+			<p class="text-zinc-200 text-sm py-2">
+				As a software engineer at BrickSimple, I've gained extensive experience in both front-end
+				and back-end development while working on various projects for clients. On the front end,
+				I've worked with React and Vue to build engaging and intuitive user interfaces. On the back
+				end, I've used Django/REST Framework and ASP.NET to create robust and scalable web
+				applications.
+			</p>
+			<p class="text-zinc-200 text-sm pb-2">
+				Throughout my tenure, I've been an active participant in agile methodology, collaborating
+				with team members to meet project goals and milestones. I've also helped maintain CI/CD
+				development, ensuring that code is consistently and reliably deployed to production.
+			</p>
+			<p class="text-zinc-200 text-sm">
+				Overall, my time at BrickSimple has allowed me to develop a well-rounded skill set and a
+				deep understanding of the software development life cycle. I look forward to leveraging
+				these skills in future opportunities.
+			</p>
 		</li>
 		<hr />
 		<li class="py-2">
@@ -46,8 +65,9 @@
 			</p>
 			<p class="text-zinc-200 text-md">Aug 2022 - Present ({getMonthsYears(boulderMD)})</p>
 			<ul class="list-disc ml-5 pt-3">
-				<li class="text-zinc-200 text-sm">Drowsy Chaperone (Fall 2022)</li>
 				<li class="text-zinc-200 text-sm">Chicago (Spring 2023)</li>
+				<li class="text-zinc-200 text-sm">Drowsy Chaperone (Fall 2022)</li>
+				<li class="text-zinc-200 text-sm">Urinetown (Spring 2022)</li>
 			</ul>
 		</li>
 		<hr />
@@ -63,6 +83,8 @@
 				through the musical aspects of shows that they put up in just two weeks!
 			</p>
 			<ul class="list-disc ml-5 pt-3">
+				<li class="text-zinc-200 text-sm">Footloose (Summer 2023)</li>
+				<li class="text-zinc-200 text-sm">Newsies (Summer 2023)</li>
 				<li class="text-zinc-200 text-sm">Mamma Mia (Summer 2022)</li>
 				<li class="text-zinc-200 text-sm">Frozen (Summer 2022)</li>
 				<li class="text-zinc-200 text-sm">Fame (Summer 2021)</li>
