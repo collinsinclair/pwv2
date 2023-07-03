@@ -18,10 +18,10 @@
 			href: '/jupiter',
 			text: 'Jupiter'
 		},
-		// {
-		// 	href: '/student-loans',
-		// 	text: 'Student Loans'
-		// },
+		{
+			href: '/student-loans',
+			text: 'Student Loans'
+		},
 		{
 			href: '/map',
 			text: 'Map'

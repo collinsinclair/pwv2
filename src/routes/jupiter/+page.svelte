@@ -1,11 +1,11 @@
 <script>
 	import jupiterImage from '$lib/img/jupiter.jpeg';
-	import Plotly from 'plotly.js-dist';
+	import Plotly from 'plotly.js-dist-min';
 	import { onMount } from 'svelte';
 
 	const weights = [
 		4.5, 4.6, 5.1, 5.4, 6.7, 6.9, 7, 7.2, 7.6, 7.6, 7.8, 7.9, 8.1, 8.2, 8.3, 8.7, 9.1, 9.4, 9.8,
-		9.8, 10.3, 10.7, 11, 11.5, 11.7, 12.5, 12.8
+		9.8, 10.3, 10.7, 11, 11.5, 11.7, 12.5, 12.8, 14.5
 	];
 	const dates = [
 		'2022-11-30',
@@ -34,7 +34,8 @@
 		'2023-03-24',
 		'2023-03-28',
 		'2023-04-19',
-		'2023-05-06'
+		'2023-05-06',
+		'2023-07-02'
 	];
 	const axisLabels = ['Date', 'Weight (lbs)'];
 	const birthday = new Date('2022-08-08');

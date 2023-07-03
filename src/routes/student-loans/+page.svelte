@@ -1,6 +1,6 @@
 <script>
-	import Plotly from 'plotly.js-dist';
 	import { onMount } from 'svelte';
+	import Plotly from 'plotly.js-dist-min';
 
 	const payments = [
 		4334.49, 4237.96, 2300, 1405.99, 1000, 3084.83, 5731, 18.39, 5000, 3000, 3247.28, 3000
