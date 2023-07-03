@@ -97,7 +97,7 @@
 		<Map {accessToken} bind:this={mapComponent} {style}>
 			<GeolocateControl />
 			<NavigationControl />
-			{#each filteredClimbs as climb}
+			{#each filteredClimbs as climb, i}
 				<Marker
 					lat={climb['Latitude']}
 					lng={climb['Longitude']}

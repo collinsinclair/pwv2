@@ -10,8 +10,8 @@
 	<h1 class="text-zinc-200 text-3xl py-3">Welcome!</h1>
 	<p class="text-zinc-200 text-justify pb-2">
 		My name is Collin. I graduated from the University of Colorado Boulder in May 2022 with a degree
-		in astrophysics and a minor in computer science. I work as a full stack software engineer and
-		music direct, conduct, and play keys in musicals around my community.
+		in astrophysics and a minor in computer science. I work as a full stack software engineer as
+		well as music direct, conduct, and play keys in musicals around my community.
 	</p>
 	<p class="text-zinc-200 text-justify pb-2">
 		This website is primarily a place for me to put things I create or build so that I can access
