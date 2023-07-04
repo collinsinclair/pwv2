@@ -2,7 +2,6 @@
 	import { Map, Marker, controls } from '@beyonk/svelte-mapbox';
 	import { onMount } from 'svelte';
 	import coSummitClimbs from '$lib/json/colorado-summit-hikes.json';
-	import { get } from 'svelte/store';
 
 	let mapComponent;
 	const { GeolocateControl, NavigationControl } = controls;
@@ -13,7 +12,7 @@
 	let minElevation =
 		Math.floor(Math.min(...coSummitClimbs.map((climb) => climb['Elevation'])) / 100) * 100;
 	let elevationFilter = minElevation;
-	let difficulties = [0, 1, 2, 3];
+	let difficulty = 0;
 	function getColor(difficulty) {
 		switch (difficulty) {
 			case 0:
@@ -26,9 +25,36 @@
 				return 'red';
 		}
 	}
-	$: filteredClimbs = coSummitClimbs.filter((climb) => {
-		return climb['Elevation'] >= elevationFilter && difficulties.includes(climb['Difficulty']);
+	const filterClimbs = () => coSummitClimbs.filter((climb) => {
+		return climb['Elevation'] >= elevationFilter && climb['Difficulty'] === difficulty;
 	});
+
+	let filteredClimbs = filterClimbs();
+
+	$: {
+		if (difficulty !== null && elevationFilter !== null) {
+			filteredClimbs = filterClimbs();
+			if (filteredClimbs.length > 0 && mapComponent) {
+				centerMapToClimbs(filteredClimbs);
+			}
+		}
+	}
+
+	function centerMapToClimbs(climbs) {
+		const totalLocation = climbs.reduce((total, climb) => {
+			return {
+				lat: total.lat + climb['Latitude'],
+				lng: total.lng + climb['Longitude']
+			};
+		}, {lat: 0, lng: 0});
+
+		const avgLocation = {
+			lat: totalLocation.lat / climbs.length,
+			lng: totalLocation.lng / climbs.length
+		};
+
+		mapComponent.setCenter([avgLocation.lng, avgLocation.lat]);
+	}
 	onMount(() => {
 		mapComponent.setCenter([-104.99028, 39.73925], 10);
 	});
@@ -77,19 +103,19 @@
 		</button>
 		<p class="text-zinc-200">Show climbs that are</p>
 		<div class="block lg:inline">
-			<input type="checkbox" bind:group={difficulties} value={0} />
+			<input type="radio" bind:group={difficulty} value={0} />
 			<span class="text-green-500">easy</span>
 		</div>
 		<div class="block lg:inline">
-			<input type="checkbox" bind:group={difficulties} value={1} />
+			<input type="radio" bind:group={difficulty} value={1} />
 			<span class="text-blue-500">moderate</span>
 		</div>
 		<div class="block lg:inline">
-			<input type="checkbox" bind:group={difficulties} value={2} />
+			<input type="radio" bind:group={difficulty} value={2} />
 			<span class="text-yellow-500">hard</span>
 		</div>
 		<div class="block lg:inline">
-			<input type="checkbox" bind:group={difficulties} value={3} />
+			<input type="radio" bind:group={difficulty} value={3} />
 			<span class="text-red-500">extreme</span>
 		</div>
 	</div>
@@ -97,14 +123,15 @@
 		<Map {accessToken} bind:this={mapComponent} {style}>
 			<GeolocateControl />
 			<NavigationControl />
-			{#each filteredClimbs as climb, i}
+			{#each filteredClimbs as climb (`${climb.Name}-${climb.Elevation}`)}
 				<Marker
 					lat={climb['Latitude']}
 					lng={climb['Longitude']}
-					label={`${climb.Name} (${climb['Elevation'].toLocaleString()} ft) ${climb.Difficulty}`}
+					label={`${climb.Name} (${climb['Elevation'].toLocaleString()} ft)`}
 					color={getColor(climb['Difficulty'])}
 				/>
 			{/each}
+
 		</Map>
 	</div>
 </div>
